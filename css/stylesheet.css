@@ -58,7 +58,7 @@ a {
   text-align: center;
   background-color: #159957;
   /*background-image: linear-gradient(120deg, #155799, #159957);*/
-  background-image: url(/image/background-pageheader.png);
+  background-image: url(../images/background-pageheader.png);
   text-shadow: 1px 1px 1px #000;
   -moz-box-shadow: 1px 1px 1px #000;　/* Firefox用 */  
   -webkit-box-shadow: 1px 1px 1px #000;　/* Safari,Google Chrome用 */  
