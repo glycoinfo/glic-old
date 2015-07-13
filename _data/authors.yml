@@ -1,0 +1,47 @@
+- name: Kiyoko F. Kinoshita
+  url: "http://rings.t.soka.ac.jp/lab_info/Kinoshita_Laboratory/index_en.html"
+  twitter: kiyoko
+  github: kiyoko
+  bio: |
+    Kiyoko F. Kinoshita is a Professor in the Department of Bioinformatics, Faculty of Engineering, Soka University.
+  
+- name: Daisuke Shinmachi
+  github: shinmachi
+  email: d.shinmachi.aist@gmail.com
+  bio: |
+       Daisuke Shinmachi is a research assistant at Soka University.  RDF ontology design lead and front end developer of the glycan repository.
+
+- name: Nobuyuki Aoki
+  github: aokinobu
+  email: aokinobu@gmail.com
+  url: "http://bluetree.jp"
+  bio: |
+    Nobuyuki Aoki is a research assistant at Soka University.  Technical architect, Random Programmer, and Official Plant Watcher of the glycan repository project.
+
+- name: Mitsuko Yamazaki
+  bio: |
+       Mitsuko Yamazaki is a research assistant at Soka University.  Front end design and localization manager of the glycan repository.
+       
+#- name: Akihiro Fujita
+#  bio: |
+#       Akihiro Fujita is a graduate student at Soka University.  Fujita-san helped to create the multiple-sequence conversion and registration system, as well as integrate the localization system.
+#
+#- name: Shinichiro Tsuchiya
+#  bio: |
+#       Shinichiro Tsuchiya is a graduate student at Soka University.  Tsuchiya-san helped to integrate the Glycan Builder on the graphical input pages and assisted in the development of the glycoCT to WURCS translator.
+#       
+#- name: Yushi Takahashi
+#  bio: |
+#       Yushi Takahashi is a graduate student at Soka University.  Takahashi-san created the entire localization system from scratch and helped to integrate it into the glytoucan front end.
+#
+#- name: Issaku Yamada
+#  bio: |
+#       Issaku Yamada is a Chemical Reseacher at Noguchi Institute.  WURCS, wurcsRDF, and wurcsframework architect while adding functionality to the [wurcs working group website](http://wurcs-wg.org/).
+#       
+#- name: Masaaki Matsubara
+#  bio: |
+#       Masaaki Matsubara is a graduate student working at Noguchi Institute.  WURCS, wurcsRDF format, and sparql performance developer.   
+#
+#- name: Noriaki Fujita
+#  bio: |
+#       Noriaki Fujita is a developer currently working at AIST.  Fujita-san created the gs2virt and ms2virt batch programs.
