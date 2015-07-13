@@ -1,7 +1,7 @@
 <h2>GLIC members</h2> 
 <small>All the names are listed in alphabetical order.</small>
 
-|Name|Affiliation| Profile|
+|Name|Affiliation| Related Software|
 |:-------|:-------------| :---------|
 |Daisuke Shinmachi|Soka University | |
 |Davide Alocci| | |
