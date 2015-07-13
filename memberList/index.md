@@ -1,4 +1,8 @@
-<h2>GLIC members</h2> 
+---
+layout: default
+title: Members List
+---
+
 <small>All the names are listed in alphabetical order.</small>
 
 |Name|Affiliation|Software|
