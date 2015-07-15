@@ -1,4 +1,5 @@
 ---
+title:Database Structure
 layout: database
 ---
 <h2>Glossary</h2>
