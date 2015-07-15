@@ -1,0 +1,15 @@
+name: Glycoinformatics Consortium Developer Site
+description: Communication point for glycoscientists to contact glycoinformaticians
+url: http://glic.glycoinfo.org
+permalink: :categories/:title
+exclude: [deprecated]
+safe: true
+highlighter: pygments
+markdown: redcarpet
+paginate: 2
+paginate_path: "/blog/page:num/"
+permalink: pretty
+#permalink: :categories/:title
+redcarpet:
+ extensions: ['tables', 'smart', 'with_toc_data', 'superscript']
+gems: [jekyll-paginate]
