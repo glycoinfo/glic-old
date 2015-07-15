@@ -110,7 +110,7 @@ The Carbohydrate Structure Databases (CSDBs) store structural, bibliographic, ta
 <table>
 <tr>
 <td><strong>Data in database</strong></td>
-structures, NMR spectra, taxon annotations, bibliographic annatations, databases references, supplementary data</td>
+<td>structures, NMR spectra, taxon annotations, bibliographic annatations, databases references, supplementary data</td>
 </tr>
 <tr>
 <td><strong>Search options</strong></td>
