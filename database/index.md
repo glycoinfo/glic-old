@@ -25,8 +25,8 @@ Search of structures based on shared substructures with the query structure. The
 <li><strong>Similarity search</strong><br>
 Search structures that are similar to a query structure. This search is different to the sub-structure search or the MCS search those residues and linkages may vary between the query and result structure.</li><br>
 <li><strong>Search by species</strong><br>
-Search of structures based on their species annotation. This may allow for searches by higher species organization, such as Genus, Rank or Kingdoms.</li><br>
-</ul>
+Search of structures based on their species annotation. This may allow for searches by higher species organization, such as Genus, Rank or Kingdoms.</li>
+</ul><br>
 
 <h2>Database Resources</h2>
 <h3>GlycomeDB</h3>
@@ -54,7 +54,7 @@ Meta database that integrates the structures from several glycomics databases (C
 </tr>
 <tr>
 <td><strong>Funding</strong></td>
-<tr>-</td>
+<td>-</td>
 </tr>
 <tr>
 <td><strong>Future plans</strong></td>
@@ -66,7 +66,7 @@ Meta database that integrates the structures from several glycomics databases (C
 </tr>
 <tr>
 <td><strong>Contact</strong></td>
-<td><a href="mailto:rene@ccrc.uga.edu">Rene Ranzinger</a></td></tr>
+<td>Rene Ranzinger:&nbsp;<a href="mailto:rene@ccrc.uga.edu">rene@ccrc.uga.edu</a></td></tr>
 </table>
 
 <h3>UniCarbKB</h3>
@@ -78,7 +78,7 @@ The UniCarb KnowledgeBase (UniCarbKB) offers public access to a growing, curated
 </tr>
 <tr>
 <td><strong>Search options</strong></td>
-<td>structure search, sub-structure search, species search, glycoprotein search, UniProtKB accession number search, tissue search, composition search, </td>
+<td>structure search, sub-structure search, species search, glycoprotein search, UniProtKB accession number search, tissue search, composition search </td>
 </tr>
 <tr>
 <td><strong>Availability</strong></td>
@@ -103,7 +103,7 @@ The UniCarb KnowledgeBase (UniCarbKB) offers public access to a growing, curated
 <td>Release 1 GitHub public, On-going developments BitBucket user managed</td>
 </tr>
 <td><strong>Contact</strong></td>
-<td>-</td>
+<td></td>
 </tr>
 </table>
 
@@ -120,7 +120,7 @@ The Carbohydrate Structure Databases (CSDBs) store structural, bibliographic, ta
 </tr>
 <tr>
 <td><strong>Availability</strong></td>
-<td>http://csdb.glycoscience.ru/</td>
+<td><a href="http://csdb.glycoscience.ru/">http://csdb.glycoscience.ru/</a></td>
 </tr>
 <tr>
 <td><strong>License</strong></td>
@@ -144,7 +144,7 @@ The Carbohydrate Structure Databases (CSDBs) store structural, bibliographic, ta
 </tr>
 <tr>
 <td><strong>Contact</strong></td>
-<td><a href="mailto:netbox@toukach.ru">Phyl Toukach</a></td></strong></td>
+<td>Phyl Toukach:&nbsp;<a href="mailto:netbox@toukach.ru">netbox@toukach.ru</a></td></strong></td>
 </tr>
 </table>
 
@@ -161,7 +161,7 @@ The SugarBind Database (SugarBindDB) covers knowledge of glycan binding of human
 </tr>
 <tr>
 <td><strong>Availability</strong></td>
-<td>http://sugarbind.expasy.org</td>
+<td><a href="http://sugarbind.expasy.org">http://sugarbind.expasy.org</a></td>
 </tr>
 <tr>
 <td><strong>License</strong></td>
@@ -205,7 +205,7 @@ Database of the Glycosciences.de portal. Contains CarbBank structures + PDB carb
 <td><a href="http://www.glycosciences.de/database/">http://www.glycosciences.de/database/</a></td>
 </tr>
 <tr>
-cLicense</strong></td>
+<td><strong>License</strong></td>
 <td>None</td>
 </tr>
 <tr>
@@ -226,7 +226,7 @@ cLicense</strong></td>
 </tr>
 <tr>
 <td><strong>Contact</strong></td>
-<td>Thomas Lütteke, thomas.luetteke@vetmed.uni-giessen.de</td>
+<td>Thomas Lütteke:&nbsp;<a href="mailto:thomas.luetteke@vetmed.uni-giessen.de">thomas.luetteke@vetmed.uni-giessen.de</td>
 </tr>
 </table>
 
@@ -267,7 +267,7 @@ Monosaccharide database. Contains monosaccharides + name parsing / encoding rout
 </tr>
 <tr>
 <td><strong>Contact</strong></td>
-<td><a href="thomas.luetteke@vetmed.uni-giessen.de">Thomas Lütteke</a></td>
+<td>Thomas Lütteke:&nbsp;<a href="mailto:thomas.luetteke@vetmed.uni-giessen.de">thomas.luetteke@vetmed.uni-giessen.de</td>
 </tr>
 </table>
 
@@ -284,7 +284,7 @@ Database of conformational maps of glycosidic linkages<br>
 </tr>
 <tr>
 <td><strong>Availability</strong></td>
-<td>http://www.glycosciences.de/modeling/glycomapsdb/</td>
+<td><a href="http://www.glycosciences.de/modeling/glycomapsdb/">http://www.glycosciences.de/modeling/glycomapsdb/</a></td>
 </tr>
 <tr>
 <td><strong>License</strong></td>
@@ -308,7 +308,7 @@ Database of conformational maps of glycosidic linkages<br>
 </tr>
 <tr>
 <td><strong>Contact</strong></td>
-<td><a href="thomas.luetteke@vetmed.uni-giessen.de">Thomas Lütteke</a></td>
+<td>Thomas Lütteke:&nbsp;<a href="mailto:thomas.luetteke@vetmed.uni-giessen.de">thomas.luetteke@vetmed.uni-giessen.de</td>
 </tr>
 </table>
 
@@ -349,6 +349,6 @@ Glycan structure/sequence/composition repository<br>
 </tr>
 <tr>
 <td><strong>Contact</strong></td>
-<td><a href="kkiyoko@soka.ac.jp">Kiyoko F. Aoki-Kinoshita</a></td>
+<td>Kiyoko F. Aoki-Kinoshita:&nbsp;<a href="kkiyoko@soka.ac.jp">kkiyoko@soka.ac.jp</a></td>
 </tr>
 </table>
