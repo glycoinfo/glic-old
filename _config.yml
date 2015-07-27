@@ -12,7 +12,5 @@ permalink: pretty
 #permalink: :categories/:title
 redcarpet:
  extensions: ['tables', 'smart', 'with_toc_data', 'superscript']
-gems:
- - jekyll-redirect-from
-
+gems: [jekyll-paginate]
 
