@@ -46,12 +46,12 @@ layout: default
 <h2><a class="anchor" href="#translators" aria-hidden="true"></a>Translators</h2>
 ------------
 
-{% include translate-info.html name="Rene Ranzinger" lang="German" %}
-{% include translate-info.html name="Frederique Lisacek" lang="French" %}
-{% include translate-info.html name="Thomas Lütteke" lang="German" %}
-{% include translate-info.html name="Philip Toukach" lang="Russian" %}
-{% include translate-info.html name="Yan Zhang" lang="Chinese" %}
-{% include translate-info.html name="Issaku Yamada" lang="Japanese" %}
+{% include contact-info.html name="Rene Ranzinger" lang="German" %}
+{% include contact-info.html name="Frederique Lisacek" lang="French" %}
+{% include contact-info.html name="Thomas Lütteke" lang="German" %}
+{% include contact-info.html name="Philip Toukach" lang="Russian" %}
+{% include contact-info.html name="Yan Zhang" lang="Chinese" %}
+{% include contact-info.html name="Issaku Yamada" lang="Japanese" %}
 
 <h2><a class="anchor" href="#support" aria-hidden="true"></a>Institutional Support</h2>
 ---------------------

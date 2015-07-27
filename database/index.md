@@ -5,29 +5,7 @@ layout: database
 <h2>Glossary for Database Resources</h2>
 
 <h3>Data</h3>
-<ul>
-<li><strong>Structure</strong><br>
-Structure of a molecule represented in one or several sequence formats or graphical representation.</li><br>
-<li><strong>Database reference</strong><br>	
-References to other databases of the same type containing the same molecule.</li><br>
-<li><strong>Species annotation</strong><br>	
-Biological annotation describing the species the structure is found.</li>
-</ul>
-
 <h3>Search options</h3>
-<ul>
-<li><strong>Structure search</strong><br> 
-Allows searching for a structure by specifying is sequence.</li><br>
-<li><strong>Sub-structure search</strong><br>
-Search for structure based on a query structure that is a substructure of the structures in the search result.</li><br>
-<li><strong>Maximum common substructure search (MCS)</strong><br>
-Search of structures based on shared substructures with the query structure. The less query structure and another structure have in common the lower the score. If query structure and queried structure are identical or the query structure is subsumed by the other structure the score is maximum.</li><br> 
-<li><strong>Similarity search</strong><br>
-Search structures that are similar to a query structure. This search is different to the sub-structure search or the MCS search those residues and linkages may vary between the query and result structure.</li><br>
-<li><strong>Search by species</strong><br>
-Search of structures based on their species annotation. This may allow for searches by higher species organization, such as Genus, Rank or Kingdoms.</li>
-</ul><br>
-
 <h2>Database Resources</h2>
 <h3>GlycomeDB</h3>
 Meta database that integrates the structures from several glycomics databases (CFG, KEGG, GLYCOSCIENCES.de, GlycoBase, JCGGDB, BCSDB, PDB, GlycO and Carbbank) into one consistent sequence representation and creating a unique index of all structures present in the integrated database. Species annotations from the other databases are retrieved as well and integrated using the NCBI Taxonomy. Each structure in GlycomeDB is linked back to the original database allowing finding and browsing all occurrences of a structure in multiple databases.<br>
