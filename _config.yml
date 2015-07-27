@@ -12,3 +12,4 @@ permalink: pretty
 redcarpet:
  extensions: ['tables', 'smart', 'with_toc_data', 'superscript']
 gems: [jekyll-paginate]
+
