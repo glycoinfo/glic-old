@@ -231,7 +231,7 @@ Database of the Glycosciences.de portal. Contains CarbBank structures + PDB carb
 </table>
 
 <h3>MonosaccharideDB</h3>
-Monosaccharide database. Contains monosaccharides + name parsing / encoding routines<br>
+Monosaccharide database. Contains monosaccharides + name parsing / encoding routines.<br>
 <table>
 <tr>
 <td><strong>Data in database</strong></td>
