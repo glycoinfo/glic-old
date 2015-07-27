@@ -13,3 +13,8 @@ permalink: pretty
 redcarpet:
  extensions: ['tables', 'smart', 'with_toc_data', 'superscript']
 gems: [jekyll-paginate]
+ - jekyll-mentions
+ - jemoji
+ - jekyll-redirect-from
+ - jekyll-sitemap
+
