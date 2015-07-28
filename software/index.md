@@ -3,8 +3,8 @@ title:Software Tools
 layout: default
 ---
 
-<h2>Glossary for Software Tools</h2>
-<h3>Software type</h3>
+<h2>1. Glossary for Software Tools</h2>
+<h3>1-1. Software type</h3>
 <ul>
 <li><strong>Stand-alone software</strong><br>
 Software that is downloaded and installed on a computer.</li><br>
@@ -14,14 +14,14 @@ Application accessed and used using a web browser.</li><br>
 Application invoked over the internet by computational means. It accepts machine readable data and provides remachine readable data as result.</li>
 </ul>
 
-<h3>Data types</h3>
+<h3>1-2. Data types</h3>
 <ul>
 <li><strong>MS</strong><br>
 Mass spectrometric data</li>
 </ul><br>
 
-<h2>Software Tools</h2>
-<h3>GRITS Toolbox</h3>
+<h2>2. Software Tools</h2>
+<h3>2-1. GRITS Toolbox</h3>
 GRITS Toolbox is a glycomics MS data processing software. The software allows not just to load, visualize and browser glycomics MS data but also to annotate the data with glycan structures and their fragments. Automatic annotated data can be manually evaluated, changed and exported to Excel. In addition side by side comparison of the different experiment for the study of glycosylation changes and glycosylation expression changes can be performed as well. In addition the software also captures and manages meta data such as sample description and description of the performed experiment.<br> 
 <table>
 <tr>
@@ -58,7 +58,7 @@ GRITS Toolbox is a glycomics MS data processing software. The software allows no
 </tr>
 </table>
 
-<h3>GODESS</h3>
+<h3>2-2. GODESS</h3>
 NMR spectrum simulation service for carbohydrate-containing molecules (including polymers and glycoconjugates). The output includes signal assignment tables, 1D and multiple 2D spectra. For every simulated chemical shift the predictor reports the expected error, trustworthiness metrics and databases references to data used in the simulation. The software uses empirical approach with own dedicated databases, statistical approach based on CSDB content, and hybrid approach. Supported nuclei are 13C and 1H. Solvent and temperature are taken into account. On the level of structures it supports most structural features of saccharides (several hundred residues, alditols, furanoses, amino acids, fatty acids, sphingoids; glycosidic, amide, or diester linkages). Average accuracy obtained on a large pool of structures was 0.86 ppm for &sup1;&sup3;C and 0.07ppm for &sup1;H.<br>
 <table>
 <tr>
@@ -96,7 +96,7 @@ NMR spectrum simulation service for carbohydrate-containing molecules (including
 <tr>
 </table>
 
-<h3>GlycoDigest</h3>
+<h3>2-3. GlycoDigest</h3>
 GlycoDigest is a tool that simulates the action of exoglycosidases on released oligosaccharides. It has been developed to assist glycobiologists design mixtures of exoglycosidases that can be used to guide the precise determination of glycan structures.<br>
 <table>
 <tr>
@@ -134,7 +134,7 @@ Frederique Lisacek:&nbsp;<a href="frederique.lisacek@isb-sib.ch">frederique.lisa
 </tr>
 </table>
 
-<h3>3D structure validation tools (CARP, pdb-care)</h3>
+<h3>2-4. 3D structure validation tools (CARP, pdb-care)</h3>
 Tools for validation of carbohydrate 3D structure data.<br> 
 <table>
 <tr>
@@ -171,7 +171,7 @@ Tools for validation of carbohydrate 3D structure data.<br>
 </tr>
 </table>
 
-<h3>Sweet-II</h3>
+<h3>2-5. Sweet-II</h3>
 Building of 3D structure models of carbohydrates.<br> 
 <table>
 <tr>
@@ -208,7 +208,7 @@ Building of 3D structure models of carbohydrates.<br>
 </tr>
 </table>
 
-<h3>GlyProt</h3>
+<h3>2-6. GlyProt</h3>
 In-silico glycosylation of protein 3D structures.<br> 
 <table>
 <tr>
@@ -245,7 +245,7 @@ In-silico glycosylation of protein 3D structures.<br>
 </tr>
 </table>
 
-<h3>ISOGlyP (Isoform Specific O-Glycosylation Prediction)</h3>
+<h3>2-7. ISOGlyP (Isoform Specific O-Glycosylation Prediction)</h3>
 ISOGlyP  analizes and roughly predicts isoform specific sites of mucin O-glycosylation for an entered protein sequence .  Future goals are to add the long range enhancing effects of remote O-glycosylation and the action of multiple transferases.  This work is being performed by a collaboration of Thomas Gerken at Case Western Reserve Univ. (School of Medicine) and  Ming-Ying Leung at the Univ. Texas at El Paso (Professor of Mathematical Sci. and Director Bioinformatics Program).  The Gerken  lab is generating the actual data utilizing a series of unique random (glyco)peptides (refs below) and the Leung lab has developed the web site.  We presently have the peptide sequence motif/propensity data for 10 of the 20 isoforms on the site and have generated the remote glycopeptide data on ~11 isoforms (not yet on the site).  We also have plans for developing similar approaches to predict the Core 1, Core 3 and sialylation substitution of the peptide GalNAc by similar methods.<br><br> 
 References:<br> 
 Perrine et al (2009) <a href="http://glycob.oxfordjournals.org/content/19/3/321">http://glycob.oxfordjournals.org/content/19/3/321</a><br>
@@ -287,10 +287,3 @@ Kong et al (2015)  <a href="http://glycob.oxfordjournals.org/content/25/1/55.abs
 M. Y. Leung: <a href="mailto:mleung@utep.edu">mleung@utep.edu</a>&nbsp;Tel:&nbsp;915-747-6836</td>
 </tr>
 </table>
-
-
-
-
-
-
-
