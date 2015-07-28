@@ -57,7 +57,8 @@ a {
   color: #fff;
   text-align: center;
   background-color: #4a0098;
-  background-image: linear-gradient(10deg, #2265d8, #9372b6); }
+  background: linear-gradient(10deg, #7C01AC, #06E1D9, #2804DC);
+  text-shadow:1px 1px 1px #000;}
 
 @media screen and (min-width: 64em) {
   .page-header {
@@ -74,7 +75,8 @@ a {
 .project-name {
   margin-top: 0;
   margin-bottom: 0.1rem;
-  font-family: "Arial Black", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif; }
+  font-family: "Arial Black", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  text-shadow:2px 1px 1px #000;}
 
 @media screen and (min-width: 64em) {
   .project-name {
@@ -113,7 +115,10 @@ a {
   margin-top: 2rem;
   margin-bottom: 1rem;
   font-weight: normal;
-  color: #159957; }
+  color:#00AFBF;
+  text-align:center;
+  text-shadow:1px 0 0 #00646D;
+  white-space:nowrap;}
 .main-content p {
   margin-bottom: 1em; }
 .main-content code {
