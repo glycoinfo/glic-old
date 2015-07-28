@@ -1,13 +1,28 @@
 ---
 title:Database Resources
-layout: database
+layout: default
 ---
-<h2>Glossary for Database Resources</h2>
-
-<h3>Data</h3>
-<h3>Search options</h3>
-<h2>Database Resources</h2>
-<h3>GlycomeDB</h3>
+<h2>1.&nbsp;Glossary for Database Resources</h2>
+<h3>1-1.&nbsp;Data</h3>
+<ul><li><strong>Structure</strong><br>
+Structure of a molecule represented in one or several sequence formats or graphicalrepresentation.</li><br>
+<li><strong>Database reference</strong><br>
+References to other databases of the same type containing the same molecule.</li><br>
+<li><strong>Species annotation</strong><br>
+Biological annotation describing the species the structure is found.</li><br></ul>
+<h3>1-2.&nbsp;Search options</h3>
+<ul><li><strong>Structure search</strong><br>
+Allows searching for a structure by specifying is sequence.</li><br>
+<li><strong>Sub-structure search</strong><br>
+Search for structure based on a query structure that is a substructure of the structures in the search result.</li><br>
+<li><strong>Maximum common substructure search (MCS)</strong><br>
+Search of structures based on shared substructures with the query structure. The less query structure and another structure have in common the lower the score. If query structure and queried structure are identical or the query structure is subsumed by the other structure the score is maximum.</li><br>
+<li><strong>Similarity search</strong><br> 
+Search structures that are similar to a query structure. This search is different to the sub-structure search or the MCS search those residues and linkages may vary between the query and result structure.</li><br>
+<li><strong>Search by species</strong><br>  
+Search of structures based on their species annotation. This may allow for searches by higher species organization, such as Genus, Rank or Kingdoms.</li><br></ul>
+<h2>2.&nbsp;Database Resources</h2>
+<h3>2-1.&nbsp;GlycomeDB</h3>
 Meta database that integrates the structures from several glycomics databases (CFG, KEGG, GLYCOSCIENCES.de, GlycoBase, JCGGDB, BCSDB, PDB, GlycO and Carbbank) into one consistent sequence representation and creating a unique index of all structures present in the integrated database. Species annotations from the other databases are retrieved as well and integrated using the NCBI Taxonomy. Each structure in GlycomeDB is linked back to the original database allowing finding and browsing all occurrences of a structure in multiple databases.<br>
 <table>
 <tr>
@@ -47,7 +62,7 @@ Meta database that integrates the structures from several glycomics databases (C
 <td>Rene Ranzinger:&nbsp;<a href="mailto:rene@ccrc.uga.edu">rene@ccrc.uga.edu</a></td></tr>
 </table>
 
-<h3>UniCarbKB</h3>
+<h3>2-2.&nbsp;UniCarbKB</h3>
 The UniCarb KnowledgeBase (UniCarbKB) offers public access to a growing, curated database of information on the glycan structures of glycoproteins. UniCarbKB is an international effort that aims to further our understanding of structures, pathways and networks involved in glycosylation and glyco-mediated processes by integrating structural, experimental and functional glycoscience information. This initiative builds upon the success of the glycan structure database GlycoSuiteDB, together with the informatic standards introduced by EUROCarbDB, to provide a high-quality and updated resource to support glycomics and glycoproteomics research. UniCarbKB provides comprehensive information concerning glycan structures, and published glycoprotein information including global and site-specific attachment information.<br>
 <table>
 <tr>
@@ -85,7 +100,7 @@ The UniCarb KnowledgeBase (UniCarbKB) offers public access to a growing, curated
 </tr>
 </table>
 
-<h3>Carbohydrate Structure Database (CSDB)</h3>
+<h3>2-3.&nbsp;Carbohydrate Structure Database (CSDB)</h3>
 The Carbohydrate Structure Databases (CSDBs) store structural, bibliographic, taxonomic, NMR spectroscopic, and other data on natural carbohydrates and their derivatives published in the scientific literature. The CSDB project was launched in 2005 for bacterial saccharides (as BCSDB). Currently, it includes two parts, the Bacterial CSDB and the Plant&Fungal CSDB. In March 2015, these databases were merged to the single Carbohydrate Structure Database (CSDB). The combined CSDB includes information on bacterial and archaeal glycans and derivatives (the coverage is close to complete), as well as on plant and fungal glycans and glycoconjugates (almost all structures published up to 1998). CSDB is regularly updated via manual expert annotation of original publications. Both newly annotated data and data imported from other databases are manually curated. The CSDB data are exportable in a number of modern formats, such as GlycoRDF. CSDB provides additional services for simulation of 1H, 13C and 2D NMR spectra of saccharides, NMR-based structure prediction, glycan-based taxon clustering, and other. <br>
 <table>
 <tr>
@@ -126,7 +141,7 @@ The Carbohydrate Structure Databases (CSDBs) store structural, bibliographic, ta
 </tr>
 </table>
 
-<h3>SugarBindDB</h3>
+<h3>2-4.&nbsp;SugarBindDB</h3>
 The SugarBind Database (SugarBindDB) covers knowledge of glycan binding of human pathogen lectins and adhesins. It is a curated database; each glycan-binding event is associated with at least one published reference. The core data of SugarBindDB is a triple constituted of a pathogenic agent, a lectin/adhesin and a glycan ligand. SugarBindDB content is displayed in views. All views are interconnected.<br>
 <table>
 <tr>
@@ -167,7 +182,7 @@ The SugarBind Database (SugarBindDB) covers knowledge of glycan binding of human
 </tr>
 </table>
 
-<h3>Glycosciences.DB</h3>
+<h3>2-5.&nbsp;Glycosciences.DB</h3>
 Database of the Glycosciences.de portal. Contains CarbBank structures + PDB carbohydrates + structures with NMR shifts extracted from the literature.<br>
 <table>
 <tr>
@@ -208,7 +223,7 @@ Database of the Glycosciences.de portal. Contains CarbBank structures + PDB carb
 </tr>
 </table>
 
-<h3>MonosaccharideDB</h3>
+<h3>2-6.&nbsp;MonosaccharideDB</h3>
 Monosaccharide database. Contains monosaccharides + name parsing / encoding routines.<br>
 <table>
 <tr>
@@ -249,7 +264,7 @@ Monosaccharide database. Contains monosaccharides + name parsing / encoding rout
 </tr>
 </table>
 
-<h3>GlycoMapsDB</h3>
+<h3>2-7.&nbsp;GlycoMapsDB</h3>
 Database of conformational maps of glycosidic linkages<br>
 <table>
 <tr>
@@ -290,7 +305,7 @@ Database of conformational maps of glycosidic linkages<br>
 </tr>
 </table>
 
-<h3>GlyTouCan</h3>
+<h3>2-8.&nbsp;GlyTouCan</h3>
 Glycan structure/sequence/composition repository<br>
 <table>
 <tr>
