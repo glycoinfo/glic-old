@@ -76,7 +76,9 @@ a {
   margin-top: 0;
   margin-bottom: 0.1rem; 
   font-family:Arial,Helvetica Neue,Helvetica,sans-serif;
-  text-shadow:2px 1px 1px #000;}
+  text-shadow:2px 1px 1px #000;
+  background:none;
+}
 
 @media screen and (min-width: 64em) {
   .project-name {
