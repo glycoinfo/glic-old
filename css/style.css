@@ -314,6 +314,9 @@ table tfoot {
 
   h1 {
     font-size: 2em;
+    background-image:linear-gradient(10deg, #7C01AC, #06E1D9, #2804DC);
+    color:#fff;
+    text-shadow:2px 1px 1px #000;
   }
   
   h2,h3{
