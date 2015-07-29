@@ -241,14 +241,14 @@ h6:hover .header-link {
 col, colgroup, table, tbody, td, tfoot, th, thead, tr {
   border-spacing: 0; }
 
-table {
+/*table {
   border: 1px solid rgba(0, 0, 0, 0.25);
   border-collapse: collapse;
   display: table;
   empty-cells: hide;
   margin: -1px 0 1.3125em;
   padding: 0;
-  table-layout: fixed; }
+  table-layout: fixed; }*/
 
 col {
   display: table-column; }
