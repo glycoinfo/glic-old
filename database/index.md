@@ -144,7 +144,7 @@ Search of structures based on their species annotation. This may allow for searc
 </tr>
 </table>
 
-<h3>2-4.SugarBindDB</h3>
+<h3>2-4. SugarBindDB</h3>
 <p>The SugarBind Database (SugarBindDB) covers knowledge of glycan binding of human pathogen lectins and adhesins. It is a curated database; each glycan-binding event is associated with at least one published reference. The core data of SugarBindDB is a triple constituted of a pathogenic agent, a lectin/adhesin and a glycan ligand. SugarBindDB content is displayed in views. All views are interconnected.</p>
 <table>
 <tr>
