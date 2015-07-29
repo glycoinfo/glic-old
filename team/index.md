@@ -1,5 +1,5 @@
 ---
-title: Glycoinformatics Consortium Member's List
+title: Glycoinformatics Consortium Members List
 layout: default
 ---
 <h2>1. Glytoucan Project Team</h2>
