@@ -79,8 +79,9 @@ The UniCarb KnowledgeBase (UniCarbKB) offers public access to a growing, curated
 </tr>
 <tr>
 <td><strong>License</strong></td>
-<td>    CC</td>
+<td>CC</td>
 </tr>
+<tr>
 <td><strong>Status</strong></td>    
 <td>stable, maintained</td>
 </tr>
@@ -88,6 +89,7 @@ The UniCarb KnowledgeBase (UniCarbKB) offers public access to a growing, curated
 <td><strong>Funding</strong></td>
 <td>The National eResearch Collaboration Tools and Resources (NeCTAR) Project; Swiss National Science Foundation</td>
 </tr>
+<tr>
 <td><strong>Future plans</strong></td>    
 <td>Continued curation, better integration and support for GlycoRDF, improved search and query functionality</td>
 </tr>    
@@ -95,6 +97,7 @@ The UniCarb KnowledgeBase (UniCarbKB) offers public access to a growing, curated
 <td><strong>Code availability</strong></td>
 <td>Release 1 GitHub public, On-going developments BitBucket user managed</td>
 </tr>
+<tr>
 <td><strong>Contact</strong></td>
 <td></td>
 </tr>
@@ -129,7 +132,7 @@ The Carbohydrate Structure Databases (CSDBs) store structural, bibliographic, ta
 </tr>
 <tr> 
 <td><strong>Future plans</strong></td>
- <td>     see papers</td>
+ <td>see papers</td>
 </tr>
 <tr>
 <td><strong>Code availability</strong></td>
@@ -244,7 +247,7 @@ Monosaccharide database. Contains monosaccharides + name parsing / encoding rout
 </tr>
 <tr>
 <td><strong>Status</strong></td>
-<td>stable, maintained
+<td>stable, maintained</td>
 </tr>
 <tr>
 <td><strong>Funding</strong></td>
@@ -310,7 +313,7 @@ Glycan structure/sequence/composition repository<br>
 <table>
 <tr>
 <td><strong>Data in database</strong></td>
-<td>Glycan structures, as images, GlycoCT and WURCS, and their motifs, monosaccharides and linked to other related databases including GlycomeDB, BCSDB, GlycoEpitope, with others continuing to be added.  Each glycan structure is assigned a GlyTouCan ID.
+<td>Glycan structures, as images, GlycoCT and WURCS, and their motifs, monosaccharides and linked to other related databases including GlycomeDB, BCSDB, GlycoEpitope, with others continuing to be added.  Each glycan structure is assigned a GlyTouCan ID.</td>
 </tr>
 <tr>
 <td><strong>Search options</strong></td>
@@ -322,7 +325,7 @@ Glycan structure/sequence/composition repository<br>
 </tr>
 <tr>
 <td><strong>License</strong></td>
-<td>CC-BY
+<td>CC-BY</td>
 </tr>
 <tr>
 <td><strong>Status</strong></td>
