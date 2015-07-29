@@ -307,13 +307,17 @@ table tfoot {
   a:active {color: #555;}
 
   h1,h2,h3 {
-    font-family:'Crete Round', serif;
+    font-family:Gill Sans,Gill Sans MT,Calibri,sans-serif;
     text-align:center;
     font-weight:normal;
   }
 
   h1 {
     font-size: 2em;
+  }
+  
+  h2,h3{
+    text-align:left;
   }
 
   h1 a,
