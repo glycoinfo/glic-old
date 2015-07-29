@@ -58,11 +58,8 @@ a {
   text-align: center;
   background-color: #159957;
   /*background-image: linear-gradient(120deg, #155799, #159957);*/
-  background-image: liner-gradient(10deg, #7C01AC, #06E1D9, #2804DC)
-  text-shadow: 1px 1px 1px #000;
-  -moz-box-shadow: 1px 1px 1px #000;　/* Firefox用 */  
-  -webkit-box-shadow: 1px 1px 1px #000;　/* Safari,Google Chrome用 */  
-}
+  background-image: liner-gradient(10deg, #7C01AC, #06E1D9, #2804DC);
+  text-shadow: 1px 1px 1px #000;}
 
 @media screen and (min-width: 64em) {
   .page-header {
@@ -79,7 +76,8 @@ a {
 .project-name {
   margin-top: 0;
   margin-bottom: 0.1rem; 
-  font-family:Arial,Helvetica Neue,Helvetica,sans-serif;}
+  font-family:Arial,Helvetica Neue,Helvetica,sans-serif;
+  text-shadow:2px 1px 1px #000;}
 
 @media screen and (min-width: 64em) {
   .project-name {
@@ -118,7 +116,8 @@ a {
   margin-top: 2rem;
   margin-bottom: 1rem;
   font-weight: normal;
-  color: #159957;
+  color: #008B9B;
+  text-shadow:1px 0 0 #696969;
   font-family: Gill Sans,Gill Sans MT,Calibri,sans-serif;}
 .main-content p {
   margin-bottom: 1em; }
