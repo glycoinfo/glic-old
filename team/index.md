@@ -26,7 +26,7 @@ layout: default
 
 {% include contact-info.html name="Masaaki Matsubara" %}
 
-<h2><a class="anchor" href="#glyspace" aria-hidden="true"></a>Glyspace Team</h2>
+<h3><a class="anchor" href="#glyspace" aria-hidden="true"></a>Glyspace Team</h3>
 ------------
 
 {% include contact-info.html name="Rene Ranzinger" %}
