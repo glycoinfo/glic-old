@@ -246,7 +246,7 @@ In-silico glycosylation of protein 3D structures.<br>
 </table>
 
 <h3>2-7. ISOGlyP (Isoform Specific O-Glycosylation Prediction)</h3>
-ISOGlyP  analizes and roughly predicts isoform specific sites of mucin O-glycosylation for an entered protein sequence .  Future goals are to add the long range enhancing effects of remote O-glycosylation and the action of multiple transferases.  This work is being performed by a collaboration of Thomas Gerken at Case Western Reserve Univ. (School of Medicine) and  Ming-Ying Leung at the Univ. Texas at El Paso (Professor of Mathematical Sci. and Director Bioinformatics Program).  The Gerken  lab is generating the actual data utilizing a series of unique random (glyco)peptides (refs below) and the Leung lab has developed the web site.  We presently have the peptide sequence motif/propensity data for 10 of the 20 isoforms on the site and have generated the remote glycopeptide data on ~11 isoforms (not yet on the site).  We also have plans for developing similar approaches to predict the Core 1, Core 3 and sialylation substitution of the peptide GalNAc by similar methods.<br> 
+ISOGlyP  analizes and roughly predicts isoform specific sites of mucin O-glycosylation for an entered protein sequence .  Future goals are to add the long range enhancing effects of remote O-glycosylation and the action of multiple transferases.  This work is being performed by a collaboration of Thomas Gerken at Case Western Reserve Univ. (School of Medicine) and  Ming-Ying Leung at the Univ. Texas at El Paso (Professor of Mathematical Sci. and Director Bioinformatics Program).  The Gerken  lab is generating the actual data utilizing a series of unique random (glyco)peptides (refs below) and the Leung lab has developed the web site.  We presently have the peptide sequence motif/propensity data for 10 of the 20 isoforms on the site and have generated the remote glycopeptide data on ~11 isoforms (not yet on the site).  We also have plans for developing similar approaches to predict the Core 1, Core 3 and sialylation substitution of the peptide GalNAc by similar methods.
 <table>
 <tr>
 <td><strong>Processed Data</strong></td>
@@ -289,11 +289,11 @@ Gerken et al  (2013) <a href="http://www.jbc.org/content/288/27/19900">http://ww
 Kong et al (2015) <a href="http://glycob.oxfordjournals.org/content/25/1/55.abstract">http://glycob.oxfordjournals.org/content/25/1/55.abstract</a><br>
 
 <h3>2-8. GlycReSoft  (1)</h3>
-GlyReSoft is a modular software tool for assigning site specific glycosylation from bottom-up mass spectrometry data sets.  The tool accepts LC-MS data from any vendor converted into public data formats and contains modules for following tasks:<br> 
-* Assigning and scoring glycomics LC-MS profiling data.
-* Calculating glycopeptide search space size informed by glycomics and proteomics information.  
-* Assigning and scoring glycopeptide MS and tandem mass spectra.  
-* Calculating false discovery rates from glycopeptide search spaces constructed using glycomics and proteomics data.<br>
+GlyReSoft is a modular software tool for assigning site specific glycosylation from bottom-up mass spectrometry data sets.  The tool accepts LC-MS data from any vendor converted into public data formats and contains modules for following tasks:<br>
+<ul><li>Assigning and scoring glycomics LC-MS profiling data.</li>
+<li>Calculating glycopeptide search space size informed by glycomics and proteomics information.</li>  
+<li>Assigning and scoring glycopeptide MS and tandem mass spectra.</li>  
+<li>Calculating false discovery rates from glycopeptide search spaces constructed using glycomics and proteomics data.</li></ul>
 <table>
 <tr>
 <td><strong>Processed Data</strong></td>
@@ -327,12 +327,12 @@ GlyReSoft is a modular software tool for assigning site specific glycosylation f
 <td><strong>Contacts</strong></td>
 <td>Joseph Zaia: <a href="mailto:jzaia@bu.edu">jzaia@bu.edu</a></td>
 </tr>
-</table>
+</table><br>
 References:<br> 
 Maxwell, E., Tan, Y., Tan, Y., Hu, H., Benson, G., Aizikov, K., Conley, S., Staples, G. O., Slysz, G. W., Smith, R. D., and Zaia, J. (2012) GlycReSoft:A Software Package for Automated Recognition of Glycans from LC/MS Data. PLoS ONE 7, e45474</a><br>
 
 <h3>2-9. HS-SEQ (2)</h3>
-HS-SEQ is a comprehensive algorithm for sequencing of glycosaminoglycan saccharides from activated electron dissociation (ExD) tandem mass spectra.  ExD methods encompass ion electron detachment dissociation (EDD) and negative electron transfer dissociation (nETD).<br>
+HS-SEQ is a comprehensive algorithm for sequencing of glycosaminoglycan saccharides from activated electron dissociation (ExD) tandem mass spectra. ExD methods encompass ion electron detachment dissociation (EDD) and negative electron transfer dissociation (nETD).
 <table>
 <tr>
 <td><strong>Processed Data</strong></td>
@@ -364,28 +364,27 @@ HS-SEQ is a comprehensive algorithm for sequencing of glycosaminoglycan sacchari
 </tr>
 <tr>
 <td><strong>Contacts</strong></td>
-<td>Joseph Zaia: <a href="mailto:jzaia@bu.edu">jzaia@bu.edu</a></td>
+<td>Joseph Zaia:<a href="mailto:jzaia@bu.edu">jzaia@bu.edu</a></td>
 </tr>
-</table>
+</table><br>
 References:<br> 
 Hu, H., Huang, Y., Mao, Y., Yu, X., Xu, Y., Liu, J., Zong, C., Boons, G. J., Lin, C., Xia, Y., and Zaia, J. (2014) A Computational Framework for Heparan Sulfate Sequencing Using High-resolution Tandem Mass Spectra. Molecular & cellular proteomics : MCP 13, 2490-2502<br>
 
 <h3>2-10. GlyPy</h3>
 GlyPy is a modular and extensible library of glycan manipulation tools built in python with minimal dependencies.   This library is available for researchers as a resource to solve glyco-bioinformatics problems.  All that is required is a minimal knowledge of the general purpose, high level, python programming language.<br>
 The library includes the following functions:<br>
-* Read and write condensed GlycoCT, GlycoMinds Linear Code, IUPAC Linear Code, and read GlycoCT XML glycan structures with repeats but without undefined/alternative sections<br>
-* Calculate structure masses from monoisotopic or average composition, under theoretical neutral charge or under any charge state. 
-<br>
-* Build and modify glycan structures dynamically, with reverse-ability maintained wherever possible, adding or removing modifications, substituents, monosaccharides or even other glycans to the graph structure.<br>
-* Interact with glycan structures using natural pythonic expressions, providing a rich iterative interface for transforming graphs.<br>
-* Generate fragments of glycan structures by cleaving one or more glycosidic bonds. Can generate A, B, C, X, Y and Z ions, as well as internal fragments<br>
-* Derivatize glycan structures with arbitrary substituents. Assumes a universal "white list" of derivatizable substituents<br>
-* CFG-style plots with colored shapes or IUPAC text for nodes.
-* GlycomeDB API and partial support for the recently exposed glySpace REST API
-Self-documenting with Sphinx<br>
-* Near 100% test coverage on the core library<br>
-* Build portable databases of structures, indexed for fast search and retrieval.<br>
-* Define new types of substituents and modifications as needed.<br>
+<ul><li>Read and write condensed GlycoCT, GlycoMinds Linear Code, IUPAC Linear Code, and read GlycoCT XML glycan structures with repeats but without undefined/alternative sections</li>
+<li>Calculate structure masses from monoisotopic or average composition, under theoretical neutral charge or under any charge state.</li> 
+<li>Build and modify glycan structures dynamically, with reverse-ability maintained wherever possible, adding or removing modifications, substituents, monosaccharides or even other glycans to the graph structure.</li>
+<li>Interact with glycan structures using natural pythonic expressions, providing a rich iterative interface for transforming graphs.</li>
+<li>Generate fragments of glycan structures by cleaving one or more glycosidic bonds. Can generate A, B, C, X, Y and Z ions, as well as internal fragments</li>
+<li>Derivatize glycan structures with arbitrary substituents. Assumes a universal "white list" of derivatizable substituents</li>
+<li>CFG-style plots with colored shapes or IUPAC text for nodes.</li>
+<li>GlycomeDB API and partial support for the recently exposed glySpace REST API
+Self-documenting with Sphinx</li>
+<li>Near 100% test coverage on the core library</li>
+<li>Build portable databases of structures, indexed for fast search and retrieval.</li>
+<li>Define new types of substituents and modifications as needed.</li></ul>
 <table>
 <tr>
 <td><strong>Processed Data</strong></td>
