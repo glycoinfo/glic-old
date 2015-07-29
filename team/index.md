@@ -2,7 +2,7 @@
 title: Glycoinformatics Consortium Member's List
 layout: default
 ---
-<h2>Glytoucan Project Team</h2>
+<h2>1. Glytoucan Project Team</h2>
 <h3><a class="anchor" href="#soka-university" aria-hidden="true"></a>Soka University</h3>
 -------------------
 {% include contact-info.html name="Kiyoko F. Kinoshita" %}
