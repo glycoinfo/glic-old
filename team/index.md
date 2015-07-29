@@ -1,9 +1,9 @@
 ---
-title: Glytoucan Project Team
+title: Glycoinformatics Consortium Member's List
 layout: default
 ---
-
-<h2><a class="anchor" href="#soka-university" aria-hidden="true"></a>Soka University</h2>
+<h2>Glytoucan Project Team</h2>
+<h3><a class="anchor" href="#soka-university" aria-hidden="true"></a>Soka University</h3>
 -------------------
 {% include contact-info.html name="Kiyoko F. Kinoshita" %}
 
@@ -19,7 +19,7 @@ layout: default
 
 {% include contact-info.html name="Yushi Takahashi" %}
 
-<h2><a class="anchor" href="#noguchi-institute" aria-hidden="true"></a>Noguchi Institute</h2>
+<h3><a class="anchor" href="#noguchi-institute" aria-hidden="true"></a>Noguchi Institute</h3>
 -------------------
 
 {% include contact-info.html name="Issaku Yamada" %}
@@ -32,18 +32,18 @@ layout: default
 {% include contact-info.html name="Rene Ranzinger" %}
 {% include contact-info.html name="Sena Arpa" %}
 
-<h2><a class="anchor" href="#niigata" aria-hidden="true"></a>Niigata University</h2>
+<h3><a class="anchor" href="#niigata" aria-hidden="true"></a>Niigata University</h3>
 ------------
 
 {% include contact-info.html name="Okuda" %}
 {% include contact-info.html name="Yamaguchi" %}
 
-<h2><a class="anchor" href="#jaist" aria-hidden="true"></a>JAIST</h2>
+<h3><a class="anchor" href="#jaist" aria-hidden="true"></a>JAIST</h3>
 ------------
 
 {% include contact-info.html name="Noriaki Fujita" %}
 
-<h2><a class="anchor" href="#translators" aria-hidden="true"></a>Translators</h2>
+<h3><a class="anchor" href="#translators" aria-hidden="true"></a>Translators</h3>
 ------------
 
 {% include contact-info.html name="Rene Ranzinger" lang="German" %}
@@ -53,7 +53,8 @@ layout: default
 {% include contact-info.html name="Yan Zhang" lang="Chinese" %}
 {% include contact-info.html name="Issaku Yamada" lang="Japanese" %}
 
-<h2><a class="anchor" href="#support" aria-hidden="true"></a>Institutional Support</h2>
+
+<h3><a class="anchor" href="#support" aria-hidden="true"></a>Institutional Support</h3>
 ---------------------
 
 The development of this repository is funded by the Integrated Database Project by MEXT (Ministry of Education, Culture, Sports, Science & Technology) and the Program for Coordination Toward Integration of Related Databases by JST (Japan Science and Technology Agency).
