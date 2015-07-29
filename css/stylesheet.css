@@ -114,14 +114,15 @@ a {
 .main-content img {
   max-width: 100%; }
 .main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 {
-  margin-top: 2rem;
-  margin-bottom: 1rem;
+  margin-top: 10px;
+  margin-bottom: 8px;
   font-weight: normal;
   color: #008B9B;
   text-shadow:1px 0 0 #696969;
   font-family: Gill Sans,Gill Sans MT,Calibri,sans-serif;}
 .main-content p {
-  margin-bottom: 1em; }
+  margin-bottom: 1em;
+  font-size:16px;}
 .main-content code {
   padding: 2px 4px;
   font-family: Consolas, "Liberation Mono", Menlo, Courier, monospace;
@@ -172,7 +173,10 @@ a {
   .main-content pre code:before, .main-content pre code:after, .main-content pre tt:before, .main-content pre tt:after {
     content: normal; }
 .main-content ul, .main-content ol {
-  margin-top: 0; }
+  margin-top: 0; 
+  font-size:16px;
+  line-height:1.25em;
+}
 .main-content blockquote {
   padding: 0 1rem;
   margin-left: 0;
@@ -192,13 +196,14 @@ a {
     font-weight: bold; }
   .main-content table th, .main-content table td {
     padding: 0.5rem 1rem;
-    border: 1px solid #e9ebec; }
+    border: 1px solid #e9ebec;
+    font-size:16px;}
 .main-content dl {
   padding: 0; }
   .main-content dl dt {
     padding: 0;
     margin-top: 1rem;
-    font-size: 1rem;
+    font-size: 16px;
     font-weight: bold; }
   .main-content dl dd {
     padding: 0;
