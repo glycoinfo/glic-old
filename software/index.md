@@ -1,6 +1,6 @@
 ---
 title: Software Tools
-layout: top
+layout: default
 ---
 
 <h2>1. Glossary for Software Tools</h2>
