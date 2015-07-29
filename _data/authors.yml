@@ -1,45 +1,9 @@
-- name: Kiyoko F. Kinoshita
-  github: kiyoko
-  email: kkiyoko@soka.ac.jp
-  url: "http://rings.t.soka.ac.jp/lab_info/Kinoshita_Laboratory/index_en.html"
-  twitter: kiyoko
-  bio: |
-    Kiyoko F. Kinoshita is a Professor in the Department of Bioinformatics, Faculty of Engineering, Soka University.
-
-
-- name: Issaku Yamada
-  github: 
-  email:
-  url:
-  bio: |
-
-
-- name: Masaharu Matsubara
-  github: 
-  email:
-  url:
-  bio: |
-    
-  
-- name: Daisuke Shinmachi
+-name: Daisuke Shinmachi
   github: shinmachi
   email: d.shinmachi.aist@gmail.com
   bio: |
     Daisuke Shinmachi is a research assistant at Soka University.  RDF ontology design lead and front end developer of the glycan repository.
 
-- name: Nobuyuki Aoki
-  github: aokinobu
-  email: aokinobu@gmail.com
-  url: "http://bluetree.jp"
-  bio: |
-    Nobuyuki Aoki is a research assistant at Soka University.  Technical architect, Random Programmer, and Official Plant Watcher of the glycan repository project.
-
-- name: Mitsuko Yamazaki
-  github: yamazakiM
-  email: ymitsuko@soka.ac.jp
-  bio: |
-    Mitsuko Yamazaki is a research assistant at Soka University.  Front end design and localization manager of the glycan repository.
- 
 - name: Davide Alocci
   github: 
   email:
@@ -47,14 +11,28 @@
   bio: |
     
   
+- name: Evan Bolton
+  github: 
+  email:
+  url:
+  bio: |
+   
+  
 - name: Frederique Lisacek
   github: 
   email:
   url:
   bio: |      
     
-
+  
 - name: Hiren Jitendra Joshi
+  github: 
+  email:
+  url:
+  bio: |
+   
+  
+- name: Issaku Yamada
   github: 
   email:
   url:
@@ -66,7 +44,7 @@
   email:
   url:
   bio: |
-    
+   
   
 - name: Joshua Klein
   github: 
@@ -74,13 +52,28 @@
   url:
   bio: |
     
-
+  
 - name: Julien Mariethoz
   github: 
   email:
   url:
   bio: |
-    
+   
+  
+- name: Kiyoko F. Kinoshita
+  github: kiyoko
+  email: kkiyoko@soka.ac.jp
+  url: "http://rings.t.soka.ac.jp/lab_info/Kinoshita_Laboratory/index_en.html"
+  twitter: kiyoko
+  bio: |
+    Kiyoko F. Kinoshita is a Professor in the Department of Bioinformatics, Faculty of Engineering, Soka University.
+
+- name: Masaharu Matsubara
+  github: 
+  email:
+  url:
+  bio: |
+   
   
 - name: Matthew Campbell
   github: 
@@ -88,13 +81,26 @@
   url:
   bio: |
     
-  
+
+- name: Mitsuko Yamazaki
+  github: yamazakiM
+  email: ymitsuko@soka.ac.jp
+  bio: |
+    Mitsuko Yamazaki is a research assistant at Soka University.  Front end design and localization manager of the glycan repository.
+
 - name: Nathan Edwards
   github: 
   email:
   url:
   bio: |
     
+  
+- name: Nobuyuki Aoki
+  github: aokinobu
+  email: aokinobu@gmail.com
+  url: "http://bluetree.jp"
+  bio: |
+    Nobuyuki Aoki is a research assistant at Soka University.  Technical architect, Random Programmer, and Official Plant Watcher of the glycan repository project.
 
 - name: Philip Toukach
   github: 
@@ -108,15 +114,22 @@
   email:
   url:
   bio: |
-
+   
   
 - name: Sanjay Agravat
   github: 
   email:
   url:
   bio: |
-    
+   
   
+- name: Serge Perez
+  github: 
+  email:
+  url:
+  bio: |
+    
+
 - name: Sophie Zhao
   github: 
   email:
