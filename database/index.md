@@ -1,5 +1,5 @@
 ---
-title:Database Resources
+title: Database Resources
 layout: default
 ---
 <h2>1. Glossary for Database Resources</h2>
