@@ -22,7 +22,7 @@ Mass spectrometric data</li>
 
 <h2>2. Software Tools</h2>
 <h3>2-1. GRITS Toolbox</h3>
-GRITS Toolbox is a glycomics MS data processing software. The software allows not just to load, visualize and browser glycomics MS data but also to annotate the data with glycan structures and their fragments. Automatic annotated data can be manually evaluated, changed and exported to Excel. In addition side by side comparison of the different experiment for the study of glycosylation changes and glycosylation expression changes can be performed as well. In addition the software also captures and manages meta data such as sample description and description of the performed experiment.<br> 
+<p>GRITS Toolbox is a glycomics MS data processing software. The software allows not just to load, visualize and browser glycomics MS data but also to annotate the data with glycan structures and their fragments. Automatic annotated data can be manually evaluated, changed and exported to Excel. In addition side by side comparison of the different experiment for the study of glycosylation changes and glycosylation expression changes can be performed as well. In addition the software also captures and manages meta data such as sample description and description of the performed experiment.</p> 
 <table>
 <tr>
 <td><strong>Processed data</strong></td>
@@ -59,7 +59,7 @@ GRITS Toolbox is a glycomics MS data processing software. The software allows no
 </table>
 
 <h3>2-2. GODESS</h3>
-NMR spectrum simulation service for carbohydrate-containing molecules (including polymers and glycoconjugates). The output includes signal assignment tables, 1D and multiple 2D spectra. For every simulated chemical shift the predictor reports the expected error, trustworthiness metrics and databases references to data used in the simulation. The software uses empirical approach with own dedicated databases, statistical approach based on CSDB content, and hybrid approach. Supported nuclei are 13C and 1H. Solvent and temperature are taken into account. On the level of structures it supports most structural features of saccharides (several hundred residues, alditols, furanoses, amino acids, fatty acids, sphingoids; glycosidic, amide, or diester linkages). Average accuracy obtained on a large pool of structures was 0.86 ppm for &sup1;&sup3;C and 0.07ppm for &sup1;H.<br>
+<p>NMR spectrum simulation service for carbohydrate-containing molecules (including polymers and glycoconjugates). The output includes signal assignment tables, 1D and multiple 2D spectra. For every simulated chemical shift the predictor reports the expected error, trustworthiness metrics and databases references to data used in the simulation. The software uses empirical approach with own dedicated databases, statistical approach based on CSDB content, and hybrid approach. Supported nuclei are 13C and 1H. Solvent and temperature are taken into account. On the level of structures it supports most structural features of saccharides (several hundred residues, alditols, furanoses, amino acids, fatty acids, sphingoids; glycosidic, amide, or diester linkages). Average accuracy obtained on a large pool of structures was 0.86 ppm for &sup1;&sup3;C and 0.07ppm for &sup1;H.</p>
 <table>
 <tr>
 <td><strong>Processed data</strong></td>
@@ -97,7 +97,7 @@ NMR spectrum simulation service for carbohydrate-containing molecules (including
 </table>
 
 <h3>2-3. GlycoDigest</h3>
-GlycoDigest is a tool that simulates the action of exoglycosidases on released oligosaccharides. It has been developed to assist glycobiologists design mixtures of exoglycosidases that can be used to guide the precise determination of glycan structures.<br>
+<p>GlycoDigest is a tool that simulates the action of exoglycosidases on released oligosaccharides. It has been developed to assist glycobiologists design mixtures of exoglycosidases that can be used to guide the precise determination of glycan structures.</p>
 <table>
 <tr>
 <td><strong>Processed data</strong></td>
@@ -135,7 +135,7 @@ Frederique Lisacek:&nbsp;<a href="frederique.lisacek@isb-sib.ch">frederique.lisa
 </table>
 
 <h3>2-4. 3D structure validation tools (CARP, pdb-care)</h3>
-Tools for validation of carbohydrate 3D structure data.<br> 
+<p>Tools for validation of carbohydrate 3D structure data.</p>
 <table>
 <tr>
 <td><strong>Processed data</strong></td>
@@ -172,7 +172,7 @@ Tools for validation of carbohydrate 3D structure data.<br>
 </table>
 
 <h3>2-5. Sweet-II</h3>
-Building of 3D structure models of carbohydrates.<br> 
+<p>Building of 3D structure models of carbohydrates.</p> 
 <table>
 <tr>
 <td><strong>Processed data</strong></td>
@@ -209,7 +209,7 @@ Building of 3D structure models of carbohydrates.<br>
 </table>
 
 <h3>2-6. GlyProt</h3>
-In-silico glycosylation of protein 3D structures.<br> 
+<p>In-silico glycosylation of protein 3D structures.</p> 
 <table>
 <tr>
 <td><strong>Processed data</strong></td>
@@ -246,7 +246,7 @@ In-silico glycosylation of protein 3D structures.<br>
 </table>
 
 <h3>2-7. ISOGlyP (Isoform Specific O-Glycosylation Prediction)</h3>
-ISOGlyP  analizes and roughly predicts isoform specific sites of mucin O-glycosylation for an entered protein sequence .  Future goals are to add the long range enhancing effects of remote O-glycosylation and the action of multiple transferases.  This work is being performed by a collaboration of Thomas Gerken at Case Western Reserve Univ. (School of Medicine) and  Ming-Ying Leung at the Univ. Texas at El Paso (Professor of Mathematical Sci. and Director Bioinformatics Program).  The Gerken  lab is generating the actual data utilizing a series of unique random (glyco)peptides (refs below) and the Leung lab has developed the web site.  We presently have the peptide sequence motif/propensity data for 10 of the 20 isoforms on the site and have generated the remote glycopeptide data on ~11 isoforms (not yet on the site).  We also have plans for developing similar approaches to predict the Core 1, Core 3 and sialylation substitution of the peptide GalNAc by similar methods.
+<p>ISOGlyP  analizes and roughly predicts isoform specific sites of mucin O-glycosylation for an entered protein sequence .  Future goals are to add the long range enhancing effects of remote O-glycosylation and the action of multiple transferases.  This work is being performed by a collaboration of Thomas Gerken at Case Western Reserve Univ. (School of Medicine) and  Ming-Ying Leung at the Univ. Texas at El Paso (Professor of Mathematical Sci. and Director Bioinformatics Program).  The Gerken  lab is generating the actual data utilizing a series of unique random (glyco)peptides (refs below) and the Leung lab has developed the web site.  We presently have the peptide sequence motif/propensity data for 10 of the 20 isoforms on the site and have generated the remote glycopeptide data on ~11 isoforms (not yet on the site).  We also have plans for developing similar approaches to predict the Core 1, Core 3 and sialylation substitution of the peptide GalNAc by similar methods.</p>
 <table>
 <tr>
 <td><strong>Processed Data</strong></td>
@@ -281,7 +281,7 @@ ISOGlyP  analizes and roughly predicts isoform specific sites of mucin O-glycosy
 <td>T. Gerken: <a href="mailto:txg2@cwru.edu">txg2@cwru.edu</a>&nbsp;Tel:&nbsp;216-368-4556<br>
 M. Y. Leung: <a href="mailto:mleung@utep.edu">mleung@utep.edu</a>&nbsp;Tel:&nbsp;915-747-6836</td>
 </tr>
-</table>
+</table><br>
 References:<br> 
 Perrine et al (2009) <a href="http://glycob.oxfordjournals.org/content/19/3/321">http://glycob.oxfordjournals.org/content/19/3/321</a><br>
 Gerken et al. (2011) <a href="http://www.jbc.org/content/286/16/14493">http://www.jbc.org/content/286/16/14493</a><br> 
@@ -332,7 +332,7 @@ References:<br>
 Maxwell, E., Tan, Y., Tan, Y., Hu, H., Benson, G., Aizikov, K., Conley, S., Staples, G. O., Slysz, G. W., Smith, R. D., and Zaia, J. (2012) GlycReSoft:A Software Package for Automated Recognition of Glycans from LC/MS Data. PLoS ONE 7, e45474</a><br>
 
 <h3>2-9. HS-SEQ (2)</h3>
-HS-SEQ is a comprehensive algorithm for sequencing of glycosaminoglycan saccharides from activated electron dissociation (ExD) tandem mass spectra. ExD methods encompass ion electron detachment dissociation (EDD) and negative electron transfer dissociation (nETD).
+<p>HS-SEQ is a comprehensive algorithm for sequencing of glycosaminoglycan saccharides from activated electron dissociation (ExD) tandem mass spectra. ExD methods encompass ion electron detachment dissociation (EDD) and negative electron transfer dissociation (nETD).</p>
 <table>
 <tr>
 <td><strong>Processed Data</strong></td>
