@@ -3,6 +3,7 @@ title: Glycoinformatics Consortium Members List
 layout: default
 ---
 Alphabetical order
+************* 
 {% include contact-info.html name="Daisuke Shinmachi" %}
 
 {% include contact-info.html name="David Alocci" %}
