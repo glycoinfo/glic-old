@@ -2,7 +2,7 @@
 title: Glycoinformatics Consortium Members List
 layout: default
 ---
-Alphabetical order
+Listed in alphabetical order
 ************* 
 {% include contact-info.html name="Daisuke Shinmachi" %}
 
@@ -24,7 +24,7 @@ Alphabetical order
 
 {% include contact-info.html name="Kiyoko F. Kinoshita" %}
 
-{% include contact-info.html name="Masaharu Matsubara" %}
+{% include contact-info.html name="Masaaki Matsubara" %}
 
 {% include contact-info.html name="Matthew Campbell" %}
 
