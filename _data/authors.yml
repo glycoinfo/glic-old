@@ -3,10 +3,11 @@
   email: d.shinmachi.aist@gmail.com
   bio: |
     Daisuke Shinmachi is a research assistant at Soka University.  RDF ontology design lead and front end developer of the glycan repository.
+
 - name: Davide Alocci
   github: 
-  email:
-  url:
+  email: 
+  url: 
   bio: |
     
   
@@ -36,7 +37,7 @@
   email:
   url:
   bio: |
-    Issaku Yamada is a Chemical Reseacher at Noguchi Institute.  WURCS, wurcsRDF, and wurcsframework architect while adding functionality to the wurcs working group website <a href="http://wurcs-wg.org/">(http://wurcs-wg.org/)</a>.
+    Issaku Yamada is a Chemical Reseacher at Noguchi Institute.  WURCS, wurcsRDF, and wurcsframework architect while adding functionality to the wurcs working group website (<a href="http://wurcs-wg.org/">http://wurcs-wg.org/</a>).
   
 - name: Joseph Zaia
   github: 
