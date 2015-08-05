@@ -2,7 +2,7 @@
   github: shinmachi
   email: d.shinmachi.aist@gmail.com
   bio: |
-    Daisuke Shinmachi is a research assistant at Soka University.  RDF ontology design lead and front end developer of the glycan repository.
+    Daisuke Shinmachi is a research assistant at Soka University. RDF ontology design lead and front end developer of the glycan repository.
 
 - name: Davide Alocci
   github: 
@@ -26,15 +26,15 @@
     
   
 - name: Hiren Jitendra Joshi
-  github: 
-  email:
+  github: hirenj
+  email: joshi@sund.ku.dk
   url:
   bio: |
    
   
 - name: Issaku Yamada
-  github: 
-  email:
+  github: yamadaissaku
+  email: yamadaissaku@gmail.com
   url:
   bio: |
     Issaku Yamada is a Chemical Reseacher at Noguchi Institute.  WURCS, wurcsRDF, and wurcsframework architect while adding functionality to the wurcs working group website (<a href="http://wurcs-wg.org/">http://wurcs-wg.org/</a>).
@@ -66,7 +66,7 @@
   url: "http://rings.t.soka.ac.jp/lab_info/Kinoshita_Laboratory/index_en.html"
   twitter: kiyoko
   bio: |
-    Kiyoko F. Kinoshita is a Professor in the Department of Bioinformatics, Faculty of Engineering, Soka University.
+    Kiyoko F. Kinoshita is a Professor in the Department of Science and Enginnering for Sustainable Innovation, Faculty of Science and Engineering, Soka University.
 
 - name: Masaaki Matsubara
   github: 
@@ -86,7 +86,7 @@
   github: yamazakiM
   email: ymitsuko@soka.ac.jp
   bio: |
-    Mitsuko Yamazaki is a research assistant at Soka University.  Front end design and localization manager of the glycan repository.
+    Mitsuko Yamazaki is a research assistant at Soka University. Front end design and localization manager of the glycan repository.
 
 - name: Nathan Edwards
   github: 
@@ -100,7 +100,7 @@
   email: aokinobu@gmail.com
   url: "http://bluetree.jp"
   bio: |
-    Nobuyuki Aoki is a research assistant at Soka University.  Technical architect, Random Programmer, and Official Plant Watcher of the glycan repository project.
+    Nobuyuki Aoki is a research assistant at Soka University. Technical architect, Random Programmer, and Official Plant Watcher of the glycan repository project.
 
 - name: Philip Toukach
   github: 
@@ -110,7 +110,7 @@
     
   
 - name: Rene Ranzinger
-  github: 
+  github: ReneRanzinger
   email:
   url:
   bio: |
@@ -142,4 +142,3 @@
   email:
   url:
   bio: |
-  
