@@ -198,6 +198,9 @@ a {
     padding: 0.5rem 1rem;
     border: 1px solid #e9ebec;
     font-size:16px;}
+  .main-content table td.title{
+    white-space: nowrap;
+  }
 .main-content dl {
   padding: 0; }
   .main-content dl dt {
