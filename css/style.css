@@ -545,9 +545,12 @@ table tfoot {
 
   .avatar {
     float: left;
-	margin: 0 15px 15px 0;
-	width: 100px;
+	  margin: 0 15px 15px 0;
+	  width: 100px;
+    border: 1px solid #808080;
+    box-shadow: 2px 2px rgba(0,0,0,0.5);
   }
+
   .toc-author {
     display: block;
 	float: right;
