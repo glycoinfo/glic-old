@@ -26,35 +26,35 @@ Mass spectrometric data</li>
 <table>
 <tr>
 <td class="title"><strong>Processed data</strong></td>
-<td classs="content">MS</td>
+<td class="content">MS</td>
 </tr>
 <tr>
 <td class="title"><strong>Software type</strong></td>
-<td classs="content">Standalone software</td>
+<td class="content">Standalone software</td>
 </tr>
 <tr>
 <td class="title"><strong>Availability</strong></td>
-<td classs="content"><a href="http://www.grits-toolbox.org/">http://www.grits-toolbox.org/</a></td>
+<td class="content"><a href="http://www.grits-toolbox.org/">http://www.grits-toolbox.org/</a></td>
 </tr>
 <tr>
 <td class="title"><strong>License
-<td classs="content">none</td>
+<td class="content">none</td>
 </tr>
 <tr>
 <td class="title"><strong>Status</strong></td>
-<td classs="content">stable, continues development</td>
+<td class="content">stable, continues development</td>
 </tr>
 <tr>
 <td class="title"><strong>Funding</strong></td>
-<td classs="content">NIH</td>
+<td class="content">NIH</td>
 </tr>
 <tr>
 <td class="title"><strong>Future plans</strong></td>
-<td classs="content">quantification of glycomics data; CMS like methods for glycomics; integration of other data types, such as qRT-PCR</td>
+<td class="content">quantification of glycomics data; CMS like methods for glycomics; integration of other data types, such as qRT-PCR</td>
 </tr>
 <tr>
 <td class="title"><strong>Contact</strong></td>
-<td classs="content">Rene Ranzinger:&nbsp;<a href="mailto:rene@ccrc.uga.edu">rene@ccrc.uga.edu</a></td>
+<td class="content">Rene Ranzinger:&nbsp;<a href="mailto:rene@ccrc.uga.edu">rene@ccrc.uga.edu</a></td>
 </tr>
 </table>
 
@@ -63,35 +63,35 @@ Mass spectrometric data</li>
 <table>
 <tr>
 <td class="title"><strong>Processed data</strong></td>
-<td classs="content">NMR, structures</td>
+<td class="content">NMR, structures</td>
 </tr>
 <tr>
 <td class="title"><strong>Software type</strong></td>
-<td classs="content">web application</td>
+<td class="content">web application</td>
 </tr>
 <tr>
 <td class="title"><strong>Availability</strong></td>
-<td classs="content"><a href="http://csdb.glycoscience.ru/database/core/nmrsim.html">http://csdb.glycoscience.ru/database/core/nmrsim.html</a></td>
+<td class="content"><a href="http://csdb.glycoscience.ru/database/core/nmrsim.html">http://csdb.glycoscience.ru/database/core/nmrsim.html</a></td>
 </tr>
 <tr>
 <td class="title"><strong>License</strong></td>
-<td classs="content">none (free)</td>
+<td class="content">none (free)</td>
 </tr>
 <tr>
 <td class="title"><strong>Status</strong></td>
-<td classs="content">stable, continues development</td>
+<td class="content">stable, continues development</td>
 </tr>
 <tr>
 <td class="title"><strong>Funding</strong></td>
-<td classs="content">Russiann Foundation for Basic Research</td>
+<td class="content">Russiann Foundation for Basic Research</td>
 </tr>
 <tr>
 <td class="title"><strong>Future plans</strong></td>
-<td classs="content">HMBC prediction, structure iterator & ranking</td>
+<td class="content">HMBC prediction, structure iterator & ranking</td>
 </tr>
 <tr>
 <td class="title"><strong>Contact</strong></td>
-<td classs="content">Phyl Toukach:&nbsp;<a href="mailto:netbox@toukach.ru">netbox@toukach.ru</a></td>
+<td class="content">Phyl Toukach:&nbsp;<a href="mailto:netbox@toukach.ru">netbox@toukach.ru</a></td>
 </tr>
 <tr>
 </table>
@@ -101,27 +101,27 @@ Mass spectrometric data</li>
 <table>
 <tr>
 <td class="title"><strong>Processed data</strong></td>
-<td classs="content">glycan structures</td>
+<td class="content">glycan structures</td>
 </tr>
 <tr>
 <td class="title"><strong>Software type</strong></td>
-<td classs="content">Standalone software and integrated in GlycoBase and UniCarbKB</td>
+<td class="content">Standalone software and integrated in GlycoBase and UniCarbKB</td>
 </tr>
 <tr>
 <td class="title"><strong>Availability</strong></td>
-<td classs="content"><a href="http://www.glycodigest.org">http://www.glycodigest.org</a></td>
+<td class="content"><a href="http://www.glycodigest.org">http://www.glycodigest.org</a></td>
 </tr>
 <tr>
 <td class="title"><strong>License</strong></td>
-<td classs="content">CC</td>
+<td class="content">CC</td>
 </tr>
 <tr>
 <td class="title"><strong>Status</strong></td>
-<td classs="content">stable, continues development</td>
+<td class="content">stable, continues development</td>
 </tr>
 <tr>
 <td class="title"><strong>Funding</strong></td>
-<td classs="content">SIB; National eResearch Collaboration Tools and Resources (NeCTAR) Project</td>
+<td class="content">SIB; National eResearch Collaboration Tools and Resources (NeCTAR) Project</td>
 </tr>
 <tr>
 <td class="title"><strong>Future plans</strong></td>
@@ -129,7 +129,7 @@ Mass spectrometric data</li>
 </tr>
 <tr>
 <td class="title"><strong>Contact</strong></td>
-<td classs="content">Matthew Campbell:&nbsp;<a href="mailto:matthew.campbell@mq.edu.au">matthew.campbell@mq.edu.au</a><br>
+<td class="content">Matthew Campbell:&nbsp;<a href="mailto:matthew.campbell@mq.edu.au">matthew.campbell@mq.edu.au</a><br>
 Frederique Lisacek:&nbsp;<a href="frederique.lisacek@isb-sib.ch">frederique.lisacek@isb-sib.ch</a></td>
 </tr>
 </table>
@@ -139,35 +139,35 @@ Frederique Lisacek:&nbsp;<a href="frederique.lisacek@isb-sib.ch">frederique.lisa
 <table>
 <tr>
 <td class="title"><strong>Processed data</strong></td>
-<td classs="content">PDB-formatted 3D structures (carbohydrates, glycoproteins, protein-carbohydrate complexes)</td>
+<td class="content">PDB-formatted 3D structures (carbohydrates, glycoproteins, protein-carbohydrate complexes)</td>
 </tr>
 <tr>
 <td class="title"><strong>Software type</strong></td>
-<td classs="content">Web application, Integrated in Glycosciences.de</td>
+<td class="content">Web application, Integrated in Glycosciences.de</td>
 </tr>
 <tr>
 <td class="title"><strong>Availability</strong></td>
-<td classs="content"><a href="http://www.glycosciences.de/tools/">http://www.glycosciences.de/tools/</a></td>
+<td class="content"><a href="http://www.glycosciences.de/tools/">http://www.glycosciences.de/tools/</a></td>
 </tr>
 <tr>
 <td class="title"><strong>License</strong></td>
-<td classs="content"></td>	
+<td class="content"></td>	
 </tr>
 <tr>
 <td class="title"><strong>Status</strong></td>
-<td classs="content">stable, continues development</td>
+<td class="content">stable, continues development</td>
 </tr>
 <tr>
 <td class="title"><strong>Funding</strong></td>
-<td classs="content">-</td>
+<td class="content">-</td>
 </tr>
 <tr>
 <td class="title"><strong>Future plans</strong></td>
-<td classs="content">Include MonosaccharideDB routines for improved handling of modified residues.</td>
+<td class="content">Include MonosaccharideDB routines for improved handling of modified residues.</td>
 </tr>
 <tr>
 <td class="title"><strong>Contact</strong></td>
-<td classs="content">Thomas Lütteke:&nbsp;<a href="mailto:thomas.luetteke@vetmed.uni-giessen.de">thomas.luetteke@vetmed.uni-giessen.de</a></td>
+<td class="content">Thomas Lütteke:&nbsp;<a href="mailto:thomas.luetteke@vetmed.uni-giessen.de">thomas.luetteke@vetmed.uni-giessen.de</a></td>
 </tr>
 </table>
 
@@ -180,31 +180,31 @@ Frederique Lisacek:&nbsp;<a href="frederique.lisacek@isb-sib.ch">frederique.lisa
 </tr>
 <tr>
 <td class="title"><strong>Software type</strong></td>
-<td classs="content">Web application, Integrated in Glycosciences.de</td>
+<td class="content">Web application, Integrated in Glycosciences.de</td>
 </tr>
 <tr>
 <td class="title"><strong>Availability</strong></td>
-<td classs="content"><a href="http://www.glycosciences.de/modeling/sweet2/">http://www.glycosciences.de/modeling/sweet2/</a></td>
+<td class="content"><a href="http://www.glycosciences.de/modeling/sweet2/">http://www.glycosciences.de/modeling/sweet2/</a></td>
 </tr>
 <tr>
 <td class="title"><strong>License</strong></td>
-<td classs="content"></td>
+<td class="content"></td>
 </tr>
 <tr>
 <td class="title"><strong>Status</strong></td>
-<td classs="content">stable</td>
+<td class="content">stable</td>
 </tr>
 <tr>
 <td class="title"><strong>Funding</strong></td>
-<td classs="content">-</td>
+<td class="content">-</td>
 </tr>
 <tr>
 <td class="title"><strong>Future plans</strong></td>
-<td classs="content">-</td>
+<td class="content">-</td>
 </tr>
 <tr>
 <td class="title"><strong>Contact</strong></td>
-<td classs="content">Thomas Lütteke:&nbsp;<a href="mailto:thomas.luetteke@vetmed.uni-giessen.de">thomas.luetteke@vetmed.uni-giessen.de</a></td>
+<td class="content">Thomas Lütteke:&nbsp;<a href="mailto:thomas.luetteke@vetmed.uni-giessen.de">thomas.luetteke@vetmed.uni-giessen.de</a></td>
 </tr>
 </table>
 
@@ -213,35 +213,35 @@ Frederique Lisacek:&nbsp;<a href="frederique.lisacek@isb-sib.ch">frederique.lisa
 <table>
 <tr>
 <td class="title"><strong>Processed data</strong></td>
-<td classs="content">Protein 3D structure (PDB format), carbohydrate “sequence” (2D-structure)</td>
+<td class="content">Protein 3D structure (PDB format), carbohydrate “sequence” (2D-structure)</td>
 </tr>
 <tr>
 <td class="title"><strong>Software type</strong></td>
-<td classs="content">Web application, Integrated in Glycosciences.de</td>
+<td class="content">Web application, Integrated in Glycosciences.de</td>
 </tr>
 <tr>
 <td class="title"><strong>Availability</strong></td>
-<td classs="content"><a href="http://www.glycosciences.de/modeling/glyprot/">http://www.glycosciences.de/modeling/glyprot/</a></td>
+<td class="content"><a href="http://www.glycosciences.de/modeling/glyprot/">http://www.glycosciences.de/modeling/glyprot/</a></td>
 </tr>
 <tr>
 <td class="title"><strong>License</strong></td>
-<td classs="content"></td>
+<td class="content"></td>
 </tr>
 <tr>
 <td class="title"><strong>Status</strong></td>
-<td classs="content">stable</td>
+<td class="content">stable</td>
 </tr>
 <tr>
 <td class="title"><strong>Funding</strong></td>
-<td classs="content">-</td>
+<td class="content">-</td>
 </tr>
 <tr>
 <td class="title"><strong>Future plans</strong></td>
-<td classs="content">-</td>
+<td class="content">-</td>
 </tr>
 <tr>
 <td class="title"><strong>Contact</strong></td>
-<td classs="content">Thomas Lütteke:&nbsp;<a href="mailto:thomas.luetteke@vetmed.uni-giessen.de">thomas.luetteke@vetmed.uni-giessen.de</a></td>
+<td class="content">Thomas Lütteke:&nbsp;<a href="mailto:thomas.luetteke@vetmed.uni-giessen.de">thomas.luetteke@vetmed.uni-giessen.de</a></td>
 </tr>
 </table>
 
@@ -250,35 +250,35 @@ Frederique Lisacek:&nbsp;<a href="frederique.lisacek@isb-sib.ch">frederique.lisa
 <table>
 <tr>
 <td class="title"><strong>Processed Data</strong></td>
-<td classs="content">FASTA format protein sequence (manual or file input)</td> 
+<td class="content">FASTA format protein sequence (manual or file input)</td> 
 </tr>
 <tr>
 <td class="title"><strong>Software type</strong></td>
-<td classs="content">web application</td>  
+<td class="content">web application</td>  
 </tr>
 <tr>
 <td class="title"><strong>Availability</strong></td>
-<td classs="content"><a href="http://isoglyp.utep.edu/">http://isoglyp.utep.edu/</a></td>
+<td class="content"><a href="http://isoglyp.utep.edu/">http://isoglyp.utep.edu/</a></td>
 </tr>
 <tr>
 <td class="title"><strong>License</strong></td>
-<td classs="content">none</td>
+<td class="content">none</td>
 </tr>
 <tr>
 <td class="title"><strong>Status</strong></td>
-<td classs="content">available, under development</td>
+<td class="content">available, under development</td>
 </tr>
 <tr>
 <td class="title"><strong>Funding</strong></td>
-<td classs="content">NIH (data acquisition and web site 1/2015-11/2018)</td>
+<td class="content">NIH (data acquisition and web site 1/2015-11/2018)</td>
 </tr>
 <tr>
 <td class="title"><strong>Future plans</strong></td>
-<td classs="content">include remote glycosylation with improved output graphics, add core 1 & 3 and sialylation predictions</td>
+<td class="content">include remote glycosylation with improved output graphics, add core 1 & 3 and sialylation predictions</td>
 </tr>
 <tr>
 <td class="title"><strong>Contacts</strong></td>
-<td classs="content">T. Gerken: <a href="mailto:txg2@cwru.edu">txg2@cwru.edu</a>&nbsp;Tel:&nbsp;216-368-4556<br>
+<td class="content">T. Gerken: <a href="mailto:txg2@cwru.edu">txg2@cwru.edu</a>&nbsp;Tel:&nbsp;216-368-4556<br>
 M. Y. Leung: <a href="mailto:mleung@utep.edu">mleung@utep.edu</a>&nbsp;Tel:&nbsp;915-747-6836</td>
 </tr>
 </table>
@@ -299,35 +299,35 @@ GlyReSoft is a modular software tool for assigning site specific glycosylation f
 <table>
 <tr>
 <td class="title"><strong>Processed Data</strong></td>
-<td classs="content">Spectrometry data</td> 
+<td class="content">Spectrometry data</td> 
 </tr>
 <tr>
 <td class="title"><strong>Software type</strong></td>
-<td classs="content">web application</td>  
+<td class="content">web application</td>  
 </tr>
 <tr>
-<td class="title"><td class="title"><strong>Availability</strong></td>
-<td classs="content"><a href="https://github.com/GlycReSoft2">https://github.com/GlycReSoft2</a></td>
+<td class="title"><strong>Availability</strong></td>
+<td class="content"><a href="https://github.com/GlycReSoft2">https://github.com/GlycReSoft2</a></td>
 </tr>
 <tr>
 <td class="title"><strong>License</strong></td>
-<td classs="content"></td>
+<td class="content"></td>
 </tr>
 <tr>
 <td class="title"><strong>Status</strong></td>
-<td classs="content"></td>
+<td class="content"></td>
 </tr>
 <tr>
 <td class="title"><strong>Funding</strong></td>
-<td classs="content"></td>
+<td class="content"></td>
 </tr>
 <tr>
 <td class="title"><strong>Future plans</strong></td>
-<td classs="content"></td>
+<td class="content"></td>
 </tr>
 <tr>
 <td class="title"><strong>Contacts</strong></td>
-<td classs="content">Joseph Zaia: <a href="mailto:jzaia@bu.edu">jzaia@bu.edu</a></td>
+<td class="content">Joseph Zaia: <a href="mailto:jzaia@bu.edu">jzaia@bu.edu</a></td>
 </tr>
 </table>
 <p>
@@ -340,35 +340,35 @@ Maxwell, E., Tan, Y., Tan, Y., Hu, H., Benson, G., Aizikov, K., Conley, S., Stap
 <table>
 <tr>
 <td class="title"><strong>Processed Data</strong></td>
-<td classs="content"></td> 
+<td class="content"></td> 
 </tr>
 <tr>
 <td class="title"><strong>Software type</strong></td>
-<td classs="content">web application</td>  
+<td class="content">web application</td>  
 </tr>
 <tr>
 <td class="title"><strong>Availability</strong></td>
-<td classs="content"><a href="https://github.com/hh1985/glycan-pipeline">https://github.com/hh1985/glycan-pipeline.</a></td>
+<td class="content"><a href="https://github.com/hh1985/glycan-pipeline">https://github.com/hh1985/glycan-pipeline.</a></td>
 </tr>
 <tr>
 <td class="title"><strong>License</strong></td>
-<td classs="content"></td>
+<td class="content"></td>
 </tr>
 <tr>
 <td class="title"><strong>Status</strong></td>
-<td classs="content"></td>
+<td class="content"></td>
 </tr>
 <tr>
 <td class="title"><strong>Funding</strong></td>
-<td classs="content"></td>
+<td class="content"></td>
 </tr>
 <tr>
 <td class="title"><strong>Future plans</strong></td>
-<td classs="content"></td>
+<td class="content"></td>
 </tr>
 <tr>
 <td class="title"><strong>Contacts</strong></td>
-<td classs="content">Joseph Zaia:<a href="mailto:jzaia@bu.edu">jzaia@bu.edu</a></td>
+<td class="content">Joseph Zaia:<a href="mailto:jzaia@bu.edu">jzaia@bu.edu</a></td>
 </tr>
 </table>
 <p>
@@ -394,34 +394,34 @@ Self-documenting with Sphinx</li>
 <table>
 <tr>
 <td class="title"><strong>Processed Data</strong></td>
-<td classs="content"></td> 
+<td class="content"></td> 
 </tr>
 <tr>
 <td class="title"><strong>Software type</strong></td>
-<td classs="content">web application</td>  
+<td class="content">web application</td>  
 </tr>
 <tr>
 <td class="title"><strong>Availability</strong></td>
-<td classs="content"><a href="https://github.com/mobiusklein/glypy">https://github.com/mobiusklein/glypy.</a></td>
+<td class="content"><a href="https://github.com/mobiusklein/glypy">https://github.com/mobiusklein/glypy.</a></td>
 </tr>
 <tr>
 <td class="title"><strong>License</strong></td>
-<td classs="content"></td>
+<td class="content"></td>
 </tr>
 <tr>
 <td class="title"><strong>Status</strong></td>
-<td classs="content"></td>
+<td class="content"></td>
 </tr>
 <tr>
 <td class="title"><strong>Funding</strong></td>
-<td classs="content"></td>
+<td class="content"></td>
 </tr>
 <tr>
 <td class="title"><strong>Future plans</strong></td>
-<td classs="content"></td>
+<td class="content"></td>
 </tr>
 <tr>
 <td class="title"><strong>Contacts</strong></td>
-<td classs="content">Joseph Zaia: <a href="mailto:jzaia@bu.edu">jzaia@bu.edu</a></td>
+<td class="content">Joseph Zaia: <a href="mailto:jzaia@bu.edu">jzaia@bu.edu</a></td>
 </tr>
 </table>
