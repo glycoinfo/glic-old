@@ -7,9 +7,9 @@ Listed in alphabetical order
 ************* 
 {% include contact-info.html name="Daisuke Shinmachi" %}
 
-{% include contact-info.html name="David Alocci" %}
+{% include contact-info.html name="Davide Alocci" %}
 
-{% include contact-info.html name="Evan Balton" %}
+{% include contact-info.html name="Evan Bolton" %}
 
 {% include contact-info.html name="Frederique Lisacek" %}
 
