@@ -27,31 +27,31 @@ Search of structures based on their species annotation. This may allow for searc
 <table>
 <tr>
 <td class="title"><strong>Data in database</strong></td>
-<td>structure, databases references, species annotation</td>
+<td class="content">structure, databases references, species annotation</td>
 </tr>
 <tr>
 <td class="title"><strong>Search options</strong></td>
-<td>structure search, sub-structure search, similarity search, maximum common substructure search, species search</td>
+<td class="content">structure search, sub-structure search, similarity search, maximum common substructure search, species search</td>
 </tr>
 <tr>
 <td class="title"><strong>Availability</strong></td>
-<td><a href="http://www.glycome-db.org/">http://www.glycome-db.org/</a></td>
+<td class="content"><a href="http://www.glycome-db.org/">http://www.glycome-db.org/</a></td>
 </tr>
 <tr>
 <td class="title"><strong>License</strong></td>
-<td>None</td>
+<td class="content">None</td>
 </tr>
 <tr>
 <td class="title"><strong>Status</strong></td>
-<td>stable, maintained</td>
+<td class="content">stable, maintained</td>
 </tr>
 <tr>
 <td class="title"><strong>Funding</strong></td>
-<td>-</td>
+<td class="content">-</td>
 </tr>
 <tr>
 <td class="title"><strong>Future plans</strong></td>
-<td>-</td>
+<td class="content">-</td>
 </tr>
 <tr>
 <td class="title"><strong>Code availability</strong></td>
@@ -59,7 +59,7 @@ Search of structures based on their species annotation. This may allow for searc
 </tr>
 <tr>
 <td class="title"><strong>Contact</strong></td>
-<td>Rene Ranzinger:&nbsp;<a href="mailto:rene@ccrc.uga.edu">rene@ccrc.uga.edu</a></td></tr>
+<td class="content">Rene Ranzinger:&nbsp;<a href="mailto:rene@ccrc.uga.edu">rene@ccrc.uga.edu</a></td></tr>
 </table>
 
 <h3>2-2. UniCarbKB</h3>
@@ -67,39 +67,39 @@ Search of structures based on their species annotation. This may allow for searc
 <table>
 <tr>
 <td class="title"><strong>Data in database</strong></td>
-<td>structure, glycoproteins, site-specific information, databases references, species annotation, tissue, cell line, biological fluid, methods</td>
+<td class="content">structure, glycoproteins, site-specific information, databases references, species annotation, tissue, cell line, biological fluid, methods</td>
 </tr>
 <tr>
 <td class="title"><strong>Search options</strong></td>
-<td>structure search, sub-structure search, species search, glycoprotein search, UniProtKB accession number search, tissue search, composition search </td>
+<td class="content">structure search, sub-structure search, species search, glycoprotein search, UniProtKB accession number search, tissue search, composition search </td>
 </tr>
 <tr>
 <td class="title"><strong>Availability</strong></td>
-<td><a href="http://unicarbkb.org">http://unicarbkb.org</a></td>
+<td class="content"><a href="http://unicarbkb.org">http://unicarbkb.org</a></td>
 </tr>
 <tr>
 <td class="title"><strong>License</strong></td>
-<td>CC</td>
+<td class="content">CC</td>
 </tr>
 <tr>
 <td class="title"><strong>Status</strong></td>    
-<td>stable, maintained</td>
+<td class="content">stable, maintained</td>
 </tr>
 <tr>
 <td class="title"><strong>Funding</strong></td>
-<td>The National eResearch Collaboration Tools and Resources (NeCTAR) Project; Swiss National Science Foundation</td>
+<td class="content">The National eResearch Collaboration Tools and Resources (NeCTAR) Project; Swiss National Science Foundation</td>
 </tr>
 <tr>
 <td class="title"><strong>Future plans</strong></td>    
-<td>Continued curation, better integration and support for GlycoRDF, improved search and query functionality</td>
+<td class="content">Continued curation, better integration and support for GlycoRDF, improved search and query functionality</td>
 </tr>    
 <tr>
 <td class="title"><strong>Code availability</strong></td>
-<td>Release 1 GitHub public, On-going developments BitBucket user managed</td>
+<td class="content">Release 1 GitHub public, On-going developments BitBucket user managed</td>
 </tr>
 <tr>
 <td class="title"><strong>Contact</strong></td>
-<td></td>
+<td class="content"></td>
 </tr>
 </table>
 
@@ -108,39 +108,39 @@ Search of structures based on their species annotation. This may allow for searc
 <table>
 <tr>
 <td class="title"><strong>Data in database</strong></td>
-<td>structures, NMR spectra, taxon annotations, bibliographic annatations, databases references, supplementary data</td>
+<td class="content">structures, NMR spectra, taxon annotations, bibliographic annatations, databases references, supplementary data</td>
 </tr>
 <tr>
 <td class="title"><strong>Search options</strong></td>
-<td>structure search, sub-structure search, composition search, taxon search, bibliography search, NMR signal search, id search</td>
+<td class="content">structure search, sub-structure search, composition search, taxon search, bibliography search, NMR signal search, id search</td>
 </tr>
 <tr>
 <td class="title"><strong>Availability</strong></td>
-<td><a href="http://csdb.glycoscience.ru/">http://csdb.glycoscience.ru/</a></td>
+<td class="content"><a href="http://csdb.glycoscience.ru/">http://csdb.glycoscience.ru/</a></td>
 </tr>
 <tr>
 <td class="title"><strong>License</strong></td>
-<td>None (free)</td>
+<td class="content">None (free)</td>
 </tr>
 <tr>
 <td class="title"><strong>Status</strong></td>
-<td> stable, maintained</td>
+<td class="content">stable, maintained</td>
 </tr>
 <tr>
 <td class="title"><strong>Funding</strong></td>
-<td>Russian Foundation for Basic Research</td>
+<td class="content">Russian Foundation for Basic Research</td>
 </tr>
 <tr> 
 <td class="title"><strong>Future plans</strong></td>
- <td>see papers</td>
+<td class="content">see papers</td>
 </tr>
 <tr>
 <td class="title"><strong>Code availability</strong></td>
-<td>no</td>
+<td class="content">no</td>
 </tr>
 <tr>
 <td class="title"><strong>Contact</strong></td>
-<td>Phyl Toukach:&nbsp;<a href="mailto:netbox@toukach.ru">netbox@toukach.ru</a></td></strong></td>
+<td class="content">Phyl Toukach:&nbsp;<a href="mailto:netbox@toukach.ru">netbox@toukach.ru</a></td></strong></td>
 </tr>
 </table>
 
@@ -149,39 +149,39 @@ Search of structures based on their species annotation. This may allow for searc
 <table>
 <tr>
 <td class="title"><strong>Data in database</strong></td>
-<td>structure, pathogenic lectin/adhesin, protein-carbohydrate interactions, cross-references, binding annotation, tissue, disease, symptoms, methods</td>
+<td class="content">structure, pathogenic lectin/adhesin, protein-carbohydrate interactions, cross-references, binding annotation, tissue, disease, symptoms, methods</td>
 </tr>
 <tr>
 <td class="title"><strong>Search options</strong></td>
-<td>species search, lectin search, ligand search, tissue search, disease search, multi-criteria search</td> 
+<td class="content">species search, lectin search, ligand search, tissue search, disease search, multi-criteria search</td> 
 </tr>
 <tr>
 <td class="title"><strong>Availability</strong></td>
-<td><a href="http://sugarbind.expasy.org">http://sugarbind.expasy.org</a></td>
+<td class="content"><a href="http://sugarbind.expasy.org">http://sugarbind.expasy.org</a></td>
 </tr>
 <tr>
 <td class="title"><strong>License</strong></td>
-<td>CC</td>
+<td class="content">CC</td>
 </tr>
 <tr>
 <td class="title"><strong>Status</strong></td>
-<td>stable, maintained</td>
+<td class="content">stable, maintained</td>
 </tr>
 <tr>
 <td class="title"><strong>Funding</strong></td>
-<td>SIB Swiss Institute of Bioinformatics + Swiss National Fund</td>
+<td class="content">SIB Swiss Institute of Bioinformatics + Swiss National Fund</td>
 </tr>
 <tr>
 <td class="title"><strong>Future plans</strong></td>
-<td>increased data integration, continued data curation, addition of binding prediction tools</td>
+<td class="content">increased data integration, continued data curation, addition of binding prediction tools</td>
 </tr>
 <tr>
 <td class="title"><strong>Code availability</strong></td>
-<td><a href="https://bitbucket.org/sib-pig/sugarbind">https://bitbucket.org/sib-pig/sugarbind</a></td>
+<td class="content"><a href="https://bitbucket.org/sib-pig/sugarbind">https://bitbucket.org/sib-pig/sugarbind</a></td>
 </tr>
 <tr>
 <td class="title"><strong>Contact</strong></td>
-<td>-</td>
+<td class="content">-</td>
 </tr>
 </table>
 
@@ -190,11 +190,11 @@ Search of structures based on their species annotation. This may allow for searc
 <table>
 <tr>
 <td class="title"><strong>Data in database</strong></td>
-<td>structure, 3D structure models, pdb data, nmr shifts, species annotation, literature references</td>
+<td class="content">structure, 3D structure models, pdb data, nmr shifts, species annotation, literature references</td>
 </tr>
 <tr>
 <td class="title"><strong>Search options</strong></td>
-<td>structure search, sub-structure search, motif search, n-glycan properties search, literature search, nmr peak search</td>
+<td class="content">structure search, sub-structure search, motif search, n-glycan properties search, literature search, nmr peak search</td>
 </tr>
 <tr>
 <td class="title"><strong>Availability</strong></td>
@@ -202,27 +202,27 @@ Search of structures based on their species annotation. This may allow for searc
 </tr>
 <tr>
 <td class="title"><strong>License</strong></td>
-<td>None</td>
+<td class="content">None</td>
 </tr>
 <tr>
 <td class="title"><strong>Status</strong></td>
-<td>stable, maintained</td>
+<td class="content">stable, maintained</td>
 </tr>
 <tr>
 <td class="title"><strong>Funding</strong></td>
-<td>-</td>
+<td class="content">-</td>
 </tr>
 <tr>
 <td class="title"><strong>Future plans</strong></td>
-<td>-</td>
+<td class="content">-</td>
 </tr>
 <tr>
 <td class="title"><strong>Code availability</strong></td>
-<td></td>
+<td class="content"></td>
 </tr>
 <tr>
 <td class="title"><strong>Contact</strong></td>
-<td>Thomas Lütteke:&nbsp;<a href="mailto:thomas.luetteke@vetmed.uni-giessen.de">thomas.luetteke@vetmed.uni-giessen.de</td>
+<td class="content">Thomas Lütteke:&nbsp;<a href="mailto:thomas.luetteke@vetmed.uni-giessen.de">thomas.luetteke@vetmed.uni-giessen.de</td>
 </tr>
 </table>
 
@@ -231,39 +231,39 @@ Search of structures based on their species annotation. This may allow for searc
 <table>
 <tr>
 <td class="title"><strong>Data in database</strong></td>
-<td>monosaccharide properties, residue names</td>
+<td class="content">monosaccharide properties, residue names</td>
 </tr>
 <tr>
 <td class="title"><strong>Search options</strong></td>
-<td>name search, properties search</td>
+<td class="content">name search, properties search</td>
 </tr>
 <tr>
 <td class="title"><strong>Availability</strong></td>
-<td><a href="http://www.mononsaccharidedb.org">http://www.mononsaccharidedb.org</a></td>
+<td class="content"><a href="http://www.mononsaccharidedb.org">http://www.mononsaccharidedb.org</a></td>
 </tr>
 <tr>
 <td class="title"><strong>License</strong></td>
-<td>-</td>
+<td class="content">-</td>
 </tr>
 <tr>
 <td class="title"><strong>Status</strong></td>
-<td>stable, maintained</td>
+<td class="content">stable, maintained</td>
 </tr>
 <tr>
 <td class="title"><strong>Funding</strong></td>
-<td>-</td>
+<td class="content">-</td>
 </tr>
 <tr>
 <td class="title"><strong>Future plans</strong></td>
-<td>-</td>
+<td class="content">-</td>
 </tr>
 <tr>
 <td class="title"><strong>Code availability</strong></td>
-<td></td>
+<td class="content"></td>
 </tr>
 <tr>
 <td class="title"><strong>Contact</strong></td>
-<td>Thomas Lütteke:&nbsp;<a href="mailto:thomas.luetteke@vetmed.uni-giessen.de">thomas.luetteke@vetmed.uni-giessen.de</td>
+<td class="content">Thomas Lütteke:&nbsp;<a href="mailto:thomas.luetteke@vetmed.uni-giessen.de">thomas.luetteke@vetmed.uni-giessen.de</td>
 </tr>
 </table>
 
@@ -272,39 +272,39 @@ Search of structures based on their species annotation. This may allow for searc
 <table>
 <tr>
 <td class="title"><strong>Data in database</strong></td>
-<td>conformational maps derived from MD simulations</td>
+<td class="content">conformational maps derived from MD simulations</td>
 </tr>
 <tr>
 <td class="title"><strong>Search options</strong></td>
-<td>disaccharide search</td>
+<td class="content">disaccharide search</td>
 </tr>
 <tr>
 <td class="title"><strong>Availability</strong></td>
-<td><a href="http://www.glycosciences.de/modeling/glycomapsdb/">http://www.glycosciences.de/modeling/glycomapsdb/</a></td>
+<td class="content"><a href="http://www.glycosciences.de/modeling/glycomapsdb/">http://www.glycosciences.de/modeling/glycomapsdb/</a></td>
 </tr>
 <tr>
 <td class="title"><strong>License</strong></td>
-<td>-</td>
+<td class="content">-</td>
 </tr>
 <tr>
 <td class="title"><strong>Status</strong></td>
-<td>stable</td>
+<td class="content">stable</td>
 </tr>
 <tr>
 <td class="title"><strong>Funding</strong></td>
-<td>-</td>
+<td class="content">-</td>
 </tr>
 <tr>
 <td class="title"><strong>Future plans</strong></td>
-<td>-</td>
+<td class="content">-</td>
 </tr>
 <tr>
 <td class="title"><strong>Code availability</strong></td>
-<td></td>
+<td class="content"></td>
 </tr>
 <tr>
 <td class="title"><strong>Contact</strong></td>
-<td>Thomas Lütteke:&nbsp;<a href="mailto:thomas.luetteke@vetmed.uni-giessen.de">thomas.luetteke@vetmed.uni-giessen.de</td>
+<td class="content">Thomas Lütteke:&nbsp;<a href="mailto:thomas.luetteke@vetmed.uni-giessen.de">thomas.luetteke@vetmed.uni-giessen.de</td>
 </tr>
 </table>
 
@@ -313,39 +313,39 @@ Search of structures based on their species annotation. This may allow for searc
 <table>
 <tr>
 <td class="title"><strong>Data in database</strong></td>
-<td>Glycan structures, as images, GlycoCT and WURCS, and their motifs, monosaccharides and linked to other related databases including GlycomeDB, BCSDB, GlycoEpitope, with others continuing to be added.  Each glycan structure is assigned a GlyTouCan ID.</td>
+<td class="content">Glycan structures, as images, GlycoCT and WURCS, and their motifs, monosaccharides and linked to other related databases including GlycomeDB, BCSDB, GlycoEpitope, with others continuing to be added.  Each glycan structure is assigned a GlyTouCan ID.</td>
 </tr>
 <tr>
 <td class="title"><strong>Search options</strong></td>
-<td>Graphical and textual substructure search, ID search and motif search</td>
+<td class="content">Graphical and textual substructure search, ID search and motif search</td>
 </tr>
 <tr>
 <td class="title"><strong>Availability</strong></td>
-<td><a href="http://www.glytoucan.org">http://www.glytoucan.org</a></td>
+<td class="content"><a href="http://www.glytoucan.org">http://www.glytoucan.org</a></td>
 </tr>
 <tr>
 <td class="title"><strong>License</strong></td>
-<td>CC-BY</td>
+<td class="content">CC-BY</td>
 </tr>
 <tr>
 <td class="title"><strong>Status</strong></td>
-<td>stable, maintained</td>
+<td class="content">stable, maintained</td>
 </tr>
 <tr>
 <td class="title"><strong>Funding</strong></td>
-<td>Integrated Database Project of Japan</td>
+<td class="content">Integrated Database Project of Japan</td>
 </tr>
 <tr>
 <td class="title"><strong>Future plans</strong></td>
-<td>Incorporation of UniCarbKB and other JCGGDB databases</td>
+<td class="content">Incorporation of UniCarbKB and other JCGGDB databases</td>
 </tr>
 <tr>
 <td class="title"><strong>Code availability</strong></td>
-<td>open source</td>
+<td class="content">open source</td>
 </tr>
 <tr>
 <td class="title"><strong>Contact</strong></td>
-<td>Kiyoko F. Aoki-Kinoshita:&nbsp;<a href="kkiyoko@soka.ac.jp">kkiyoko@soka.ac.jp</a></td>
+<td class="content">Kiyoko F. Aoki-Kinoshita:&nbsp;<a href="kkiyoko@soka.ac.jp">kkiyoko@soka.ac.jp</a></td>
 </tr>
 </table>
 
@@ -355,23 +355,23 @@ support the analysis of glycan array data for the Consortium for Functional Glyc
 <table>
 <tr>
 <td class="title"><strong>Data in database</strong></td>
-<td></td>
+<td class="content"></td>
 </tr>
 <tr>
 <td class="title"><strong>Search options</strong></td>
-<td></td>
+<td class="content"></td>
 </tr>
 <tr>
 <td class="title"><strong>Availability</strong></td>
-<td><a href="https://glycopattern.emory.edu/">https://glycopattern.emory.edu/</a></td>
+<td class="content"><a href="https://glycopattern.emory.edu/">https://glycopattern.emory.edu/</a></td>
 </tr>
 <tr>
 <td class="title"><strong>License</strong></td>
-<td></td>
+<td class="content"></td>
 </tr>
 <tr>
 <td><strong>Status</strong></td>
-<td></td>
+<td class="content"></td>
 </tr>
 <tr>
 <td class="title"><strong>Funding</strong></td>
@@ -379,14 +379,14 @@ support the analysis of glycan array data for the Consortium for Functional Glyc
 </tr>
 <tr>
 <td class="title"><strong>Future plans</strong></td>
-<td></td>
+<td class="content"></td>
 </tr>
 <tr>
 <td class="title"><strong>Code availability</strong></td>
-<td></td>
+<td class="content"></td>
 </tr>
 <tr>
 <td class="title"><strong>Contact</strong></td>
-<td><a href="sanjay.agravat@emory.edu">sanjay.agravat@emory.edu</a></td>
+<td class="content"><a href="sanjay.agravat@emory.edu">sanjay.agravat@emory.edu</a></td>
 </tr>
 </table>
