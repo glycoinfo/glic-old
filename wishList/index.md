@@ -4,7 +4,7 @@ title: Wish List
 redirect_from: /blog.html
 ---
 
-Ask for specific tools you need developed here #[IssueNumber].
+Ask for specific tools you need developed here.
 
 
 {% for post in site.posts %}
