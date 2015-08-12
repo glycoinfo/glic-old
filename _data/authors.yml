@@ -13,7 +13,7 @@
   
 - name: Evan Bolton
   github: evan-bolton
-  email:
+  email: bolton@ncbi.nlm.nih.gov
   url:
   bio: |
     Evan Bolton is a Lead Scientist at the National Center for Biotechnology Information (NCBI) and helps to lead the PubChem project (<a href="http://pubchem.ncbi.nlm.nih.gov">https://pubchem.ncbi.nlm.nih.gov</a>).
@@ -125,10 +125,10 @@
   
 - name: Serge Perez
   github: 
-  email:
+  email: spsergeperez@gmail.com
   url:
   bio: |
-    Serge Perez
+    Serge Perez is a developer of Glyco3D software and a founder of the internet site "<a href="http://www.glycopedia.eu/>glycopedia.eu</a>". Affiliation:CNRS, France 
 
 - name: Sophie Zhao
   github: 
