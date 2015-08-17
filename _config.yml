@@ -1,7 +1,8 @@
 name: Glycoinformatics Consortium Developer Site
 description: Communication point for glycoscientists to contact glycoinformaticians
 url: http://glic.glycoinfo.org
-exclude: [deprecated]
+#exclude: [deprecated]
+exclude: ['vendor']
 safe: true
 highlighter: pygments
 markdown: redcarpet
