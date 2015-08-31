@@ -45,4 +45,4 @@ Listed in alphabetical order
 
 {% include contact-info.html name="Sophie Zhao" %}
 
-{% include contact-info.html name="Thomas Lütteke" %}
+{% include contact-info.html name="Thomas L&uuml;tteke" %}
