@@ -294,8 +294,9 @@ Kong et al (2015) <a href="http://glycob.oxfordjournals.org/content/25/1/55.abst
 GlyReSoft is a modular software tool for assigning site specific glycosylation from bottom-up mass spectrometry data sets.  The tool accepts LC-MS data from any vendor converted into public data formats and contains modules for following tasks:<br>
 <ul><li>Assigning and scoring glycomics LC-MS profiling data.</li>
 <li>Calculating glycopeptide search space size informed by glycomics and proteomics information.</li>  
-<li>Assigning and scoring glycopeptide MS and tandem mass spectra.</li>  
-<li>Calculating false discovery rates from glycopeptide search spaces constructed using glycomics and proteomics data.</li></ul>
+<li>Assigning and scoring glycan and glycopeptide MS and tandem mass spectra.</li>
+<li>Calculating false discovery rates from glycopeptide search spaces constructed using glycomics and proteomics data.</li>
+</ul>
 <table>
 <tr>
 <td class="title"><strong>Processed Data</strong></td>
@@ -303,7 +304,7 @@ GlyReSoft is a modular software tool for assigning site specific glycosylation f
 </tr>
 <tr>
 <td class="title"><strong>Software type</strong></td>
-<td class="content">web application</td>  
+<td class="content">Stand-alone and Web application</td>  
 </tr>
 <tr>
 <td class="title"><strong>Availability</strong></td>
@@ -311,11 +312,13 @@ GlyReSoft is a modular software tool for assigning site specific glycosylation f
 </tr>
 <tr>
 <td class="title"><strong>License</strong></td>
-<td class="content"></td>
+<td class="content">
+Tentatively Apache2, but always free for academic use
+</td>
 </tr>
 <tr>
 <td class="title"><strong>Status</strong></td>
-<td class="content"></td>
+<td class="content">Available, Under Development</td>
 </tr>
 <tr>
 <td class="title"><strong>Funding</strong></td>
@@ -344,7 +347,7 @@ Maxwell, E., Tan, Y., Tan, Y., Hu, H., Benson, G., Aizikov, K., Conley, S., Stap
 </tr>
 <tr>
 <td class="title"><strong>Software type</strong></td>
-<td class="content">web application</td>  
+<td class="content">Stand-alone</td>  
 </tr>
 <tr>
 <td class="title"><strong>Availability</strong></td>
@@ -377,17 +380,18 @@ Hu, H., Huang, Y., Mao, Y., Yu, X., Xu, Y., Liu, J., Zong, C., Boons, G. J., Lin
 </p>
 
 <h3>2-10. GlyPy</h3>
-GlyPy is a modular and extensible library of glycan manipulation tools built in python with minimal dependencies.   This library is available for researchers as a resource to solve glyco-bioinformatics problems.  All that is required is a minimal knowledge of the general purpose, high level, python programming language.<br>
+GlyPy is a modular and extensible library of glycan manipulation tools built in python with minimal dependencies.   This library is available for researchers as a resource to solve glyco-bioinformatics problems.  All that is required is a minimal knowledge of the general purpose, high level, python programming language. Designed for both batch processing and interactive use.<br>
 The library includes the following functions:<br>
-<ul><li>Read and write condensed GlycoCT, GlycoMinds Linear Code, IUPAC Linear Code, and read GlycoCT XML glycan structures with repeats but without undefined/alternative sections</li>
+<ul>
+<li>Read and write condensed GlycoCT, GlycoMinds Linear Code, IUPAC Linear Code, and read GlycoCT XML glycan structures</li>
 <li>Calculate structure masses from monoisotopic or average composition, under theoretical neutral charge or under any charge state.</li> 
-<li>Build and modify glycan structures dynamically, with reverse-ability maintained wherever possible, adding or removing modifications, substituents, monosaccharides or even other glycans to the graph structure.</li>
+<li>Build and modify glycan structures dynamically, with reverse-ability maintained wherever possible, adding or removing modifications, substituents, monosaccharides or other glycans to the graph structure.</li>
 <li>Interact with glycan structures using natural pythonic expressions, providing a rich iterative interface for transforming graphs.</li>
 <li>Generate fragments of glycan structures by cleaving one or more glycosidic bonds. Can generate A, B, C, X, Y and Z ions, as well as internal fragments</li>
-<li>Derivatize glycan structures with arbitrary substituents. Assumes a universal "white list" of derivatizable substituents</li>
+<li>Derivatize glycan structures with arbitrary substituents.</li>
 <li>CFG-style plots with colored shapes or IUPAC text for nodes.</li>
-<li>GlycomeDB API and partial support for the recently exposed glySpace REST API
-Self-documenting with Sphinx</li>
+<li>GlycomeDB API and partial support for the recently exposed glySpace REST API</li>
+<li>Self-documenting with Sphinx</li>
 <li>Near 100% test coverage on the core library</li>
 <li>Build portable databases of structures, indexed for fast search and retrieval.</li>
 <li>Define new types of substituents and modifications as needed.</li></ul>
@@ -398,7 +402,7 @@ Self-documenting with Sphinx</li>
 </tr>
 <tr>
 <td class="title"><strong>Software type</strong></td>
-<td class="content">web application</td>  
+<td class="content">Software Library</td>  
 </tr>
 <tr>
 <td class="title"><strong>Availability</strong></td>
@@ -406,11 +410,13 @@ Self-documenting with Sphinx</li>
 </tr>
 <tr>
 <td class="title"><strong>License</strong></td>
-<td class="content"></td>
+<td class="content">
+Tentatively Apache2, always free for academic use
+</td>
 </tr>
 <tr>
 <td class="title"><strong>Status</strong></td>
-<td class="content"></td>
+<td class="content">Available, Under Active Development (Feature Requests and Pull Requests Welcome)</td>
 </tr>
 <tr>
 <td class="title"><strong>Funding</strong></td>
@@ -418,7 +424,8 @@ Self-documenting with Sphinx</li>
 </tr>
 <tr>
 <td class="title"><strong>Future plans</strong></td>
-<td class="content"></td>
+<td class="content">
+Continued development of glycan structure model and algorithms on that model.</td>
 </tr>
 <tr>
 <td class="title"><strong>Contacts</strong></td>
