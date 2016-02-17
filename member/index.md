@@ -3,8 +3,6 @@ title: Glycoinformatics Consortium Members List
 layout: default
 ---
 
-Listed in alphabetical order
-************* 
 {% include contact-info.html name="Chris Barnett" %}
 
 {% include contact-info.html name="Daisuke Shinmachi" %}
