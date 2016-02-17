@@ -46,18 +46,18 @@
     Issaku Yamada is a Chemical Reseacher at Noguchi Institute.  WURCS, wurcsRDF, and WURCSFramework architect while adding functionality to the wurcs working group website (<a href="http://wurcs-wg.org/">http://wurcs-wg.org/</a>).
   
 - name: Joseph Zaia
-  github: 
+  github: jzaia
   email:
   url:
   bio: |
-    Joseph Zaia
+    Joe Zaia is Professor of Biochemistry at Boston University.
   
 - name: Joshua Klein
   github: mobiusklein
   email:
   url:
   bio: |
-    Joshua Klein
+    Bioinformatics Ph.D. Candidate at Boston University, working for Joe Zaia.  Primary author of glypy, a glycoinformatics toolkit for python, taxonomylite, and the current incarnation of GlycReSoft, all of which are hosted publically on GitHub.  Primarily working in Python, JavaScript, SQL, and (to an extent) C.
   
 - name: Julien Mariethoz
   github: julienmariethoz
@@ -143,8 +143,8 @@
     Sophie Zhao
 
 - name: Thomas L&uuml;tteke
-  github: 
-  email:
+  github: glycosciences
+  email: 
   url:
   bio: |
     Thomas L&uuml;tteke
