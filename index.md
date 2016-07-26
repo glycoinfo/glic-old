@@ -7,6 +7,9 @@ layout: top
  Variety of databases in glycoinformatics field has been developed in different countries as a result of glycoscience research projects. However, usage of these developed databases has became difficult because of closure of databases corresponding to ending of projects. The closure of databases is becoming obstacles in glycoscience research. The Glycoinformatics Consortium is found to solve the obstacles and glycoinformaticians to develop databases and tools with a coalition.<br>   
 The purpose of Glycoinformatics Consortium(GLIC) is to provide and maintain a centralized source software repository for the glycoscientists. In addition, it is aimed to provide communication point for glycoscientists and glycoinformaticians.
 
+<h2>Meetings</h2>
+List of past and upcoming [meetings](meetings).
+
 <h2>Members List</h2>
 Helpful page to know about GLIC [members](member).
 
