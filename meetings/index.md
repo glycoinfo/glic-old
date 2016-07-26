@@ -1,4 +1,7 @@
-
+---
+title: Glycoinformatics Consortium Meetings
+layout: default
+---
 <h2> Upcoming meetings</h2>
 <ul>
 <li> July 28, 2016: Skype meeting
