@@ -12,5 +12,5 @@ layout: default
 <h2> Past meetings</h2>
 <ul>
 <li> July 7, 2016: Skype meeting 
-(Notes: https://goo.gl/vB6o0q)
+(<a href="https://goo.gl/vB6o0q">Notes</a>)
 </ul>
