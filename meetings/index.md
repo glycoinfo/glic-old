@@ -12,5 +12,5 @@ layout: default
 <h2> Past meetings</h2>
 <ul>
 <li> July 7, 2016: Skype meeting 
-(Notes: https://docs.google.com/document/d/1L24lY3ulaLA7s216j9Qe1PDj4cgDvnqCJHFkRxO0Fwk/edit?usp=sharing)
+(Notes: https://docs.google.com/document/d/1L24lY3ulaLA7s216j9Qe1PDj4cgDvnqCJHFkRxO0Fwk/edit?usp=sharing[https://docs.google.com/document/d/1L24lY3ulaLA7s216j9Qe1PDj4cgDvnqCJHFkRxO0Fwk/edit?usp=sharing])
 </ul>
