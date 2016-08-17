@@ -4,7 +4,7 @@ layout: default
 ---
 <h2> Upcoming meetings</h2>
 <ul>
-<li> August 26, 2016, 16:00-19:00: Glycohackathon after <a href="http://warrenworkshop2016.glycoinfo.org">Warren Workshop</a>
+<li> August 26, 2016: Glycohackathon after <a href="http://warrenworkshop2016.glycoinfo.org">Warren Workshop</a>
 <li> Distributed Hackathon around September 18-23, 2016.
 </ul>
 
