@@ -390,3 +390,44 @@ support the analysis of glycan array data for the Consortium for Functional Glyc
 <td class="content"><a href="sanjay.agravat@emory.edu">sanjay.agravat@emory.edu</a></td>
 </tr>
 </table>
+
+<h3>2-10. UniCarb-DB</h3>
+<p>UniCarb­DB is the glycomics fragmentation database that stores, integrates and processes data from manually annotated ms spectra. </p>
+<table>
+<tr>
+<td class="title"><strong>Data in database</strong></td>
+<td class="content">MS/MS spectra, structures, peak lists, references, methods, tissue and taxonomy annotations</td>
+</tr>
+<tr>
+<td class="title"><strong>Search options</strong></td>
+<td class="content">Species, tissue, composition, recorded mass, observed mass, peak list</td>
+</tr>
+<tr>
+<td class="title"><strong>Availability</strong></td>
+<td class="content"><a href="http://www.unicarb-db.org/">http://www.unicarb-db.org/</a></td>
+</tr>
+<tr>
+<td class="title"><strong>License</strong></td>
+<td class="content">CC</td>
+</tr>
+<tr>
+<td><strong>Status</strong></td>
+<td class="content">Stable, maintained</td>
+</tr>
+<tr>
+<td class="title"><strong>Funding</strong></td>
+<td>NeCTAR, ANDS, STINT, SIB ExPASy</td>
+</tr>
+<tr>
+<td class="title"><strong>Future plans</strong></td>
+<td class="content"></td>
+</tr>
+<tr>
+<td class="title"><strong>Code availability</strong></td>
+<td class="content">Open Source</td>
+</tr>
+<tr>
+<td class="title"><strong>Contact</strong></td>
+<td class="content"><a href="niclas.karlsson@medkem.gu.se">niclas.karlsson@medkem.gu.se</a></td>
+</tr>
+</table>

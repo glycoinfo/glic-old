@@ -88,11 +88,18 @@
   bio: |
     Matthew Campbell
 
+- name: Miguel Rojas Macias
+  github: miktilo
+  email: miguel.rojas@gu.se
+  bio: |
+    Miguel Rojas Macias.
+
 - name: Mitsuko Yamazaki
   github: yamazakiM
   email: ymitsuko@soka.ac.jp
   bio: |
     Mitsuko Yamazaki is a research assistant at Soka University. Front end design and localization manager of the glycan repository, creater of the glic repository.
+
 - name: Nathan Edwards
   github: 
   email:
@@ -100,6 +107,13 @@
   bio: |
     Nathan Edwards
   
+- name: Niclas Karlsson
+  github:
+  email: niclas.karlsson@medkem.gu.se
+  url: "http://biomedicine.gu.se/biomedicine/research/niclas-karlsson"
+  bio: |
+    Niclas Karlsson leads the Glyco Inflammatory Group (GIG) at the Institute of Biomedicine in Gothenburg Sweden.
+
 - name: Nobuyuki Aoki
   github: aokinobu
   email: aokinobu@gmail.com
