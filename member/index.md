@@ -3,9 +3,13 @@ title: Glycoinformatics Consortium Members List
 layout: default
 ---
 
+{% include contact-info.html name="Akihiro Fujita" %}
+
 {% include contact-info.html name="Chris Barnett" %}
 
 {% include contact-info.html name="Daisuke Shinmachi" %}
+
+{% include contact-info.html name="David Matten" %}
 
 {% include contact-info.html name="Davide Alocci" %}
 
@@ -23,9 +27,13 @@ layout: default
 
 {% include contact-info.html name="Julien Mariethoz" %}
 
+{% include contact-info.html name="Keiko Tokunaga" %}
+
 {% include contact-info.html name="Kiyoko F. Kinoshita" %}
 
 {% include contact-info.html name="Masaaki Matsubara" %}
+
+{% include contact-info.html name="Masae Hosoda" %}
 
 {% include contact-info.html name="Matthew Campbell" %}
 
@@ -43,12 +51,22 @@ layout: default
 
 {% include contact-info.html name="Rene Ranzinger" %}
 
+{% include contact-info.html name="Renji Inomoto" %}
+
 {% include contact-info.html name="Sanjay Agravat" %}
 
 {% include contact-info.html name="Serge Perez" %}
+
+{% include contact-info.html name="Shinichiro Higashimoto" %}
 
 {% include contact-info.html name="Shujiro Okuda" %}
 
 {% include contact-info.html name="Sophie Zhao" %}
 
 {% include contact-info.html name="Thomas L&uuml;tteke" %}
+
+{% include contact-info.html name="Yuki Ushioda" %}
+
+{% include contact-info.html name="Yukie Akune" %}
+
+{% include contact-info.html name="Yushi Takahashi" %}
