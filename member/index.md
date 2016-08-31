@@ -47,6 +47,8 @@ layout: default
 
 {% include contact-info.html name="Serge Perez" %}
 
+{% include contact-info.html name="Shujiro Okuda" %}
+
 {% include contact-info.html name="Sophie Zhao" %}
 
 {% include contact-info.html name="Thomas L&uuml;tteke" %}
