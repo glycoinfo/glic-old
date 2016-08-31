@@ -5,7 +5,7 @@ url:  http://glic.glycoinfo.org
 exclude: ['vendor']
 safe: true
 highlighter: rouge
-markdown: redcarpet
+markdown: kramdown
 paginate: 2
 paginate_path: "/blog/page:num/"
 permalink: pretty
