@@ -1,3 +1,9 @@
+- name: Akihiro Fujita
+  github: akihirof0005
+  email: akihirof0005@gmail.com
+  bio: |
+   Akihiro Fujita
+
 - name: Chris Barnett
   github: 
   email: chris.barnett@uct.ac.za 
@@ -9,6 +15,12 @@
   email: d.shinmachi.aist@gmail.com
   bio: |
     Daisuke Shinmachi is a research assistant at Soka University. RDF ontology design lead and front end developer of the glycan repository.
+
+- name: David Matten
+  github: davidmatten
+  email: dmatten@gmail.com
+  bio: |
+    David Matten
 
 - name: Davide Alocci
   github: alodavide
@@ -66,6 +78,13 @@
   bio: |
     Julien Mariethoz
   
+- name: Keiko Tokunaga
+  github: Keiko-T
+  email: keiko.t914@gmail.com
+  url:
+  bio: |
+    Keiko Tokunaga
+  
 - name: Kiyoko F. Kinoshita
   github: kiyoko
   email: kkiyoko@soka.ac.jp
@@ -80,6 +99,13 @@
   url:
   bio: |
     Masaaki Matsubara is a graduate student working at Noguchi Institute.  WURCS, wurcsRDF format, and sparql performance developer.
+
+- name: Masae Hosoda
+  github: mhosoda
+  email: e12d5605@gmail.com
+  url:
+  bio: |
+    Masae Hosoda
 
 - name: Matthew Campbell
   github: 
@@ -135,6 +161,13 @@
   bio: |
     Rene Ranzinger
   
+- name: Renji Inomoto
+  github: tyokorenji
+  email: renjiseminar@gmail.com
+  url:
+  bio: |
+    Renji Inomoto  
+  
 - name: Sanjay Agravat
   github: 
   email:
@@ -148,6 +181,13 @@
   url:
   bio: |
     Serge Perez is a developer of "Glyco3D" software and a founder of the internet site "<a href="http://www.glycopedia.eu/">glycopedia.eu</a>". Affiliation:CNRS, France 
+
+- name: Shinichi Higashimoto
+  github: Higashimoto
+  email: azumabonn@gmail.com
+  url:
+  bio: |
+    Shinichi Higashimoto
 
 - name: Shujiro Okuda
   github: shuo50@gmail.com
@@ -169,3 +209,26 @@
   url:
   bio: |
     Thomas L&uuml;tteke
+    
+- name: Yuki Ushioda
+  github: egaruk
+  email: byr.wgp.jg.cg.1229@gmail.com
+  url:
+  bio: |
+    Yuki Ushioda is master student in graduate school of Soka University. Developer of FlyGlycoDB, the semantic web database of drosophila glycan related gene.
+
+- name: Yukie Akune
+  github: YukieAkune
+  email: yukie.akune@gmail.com
+  url:
+  bio: |
+    Yukie Akune
+    
+- name: Yushi Takahashi
+  github: AnnPin
+  email: e0956224@gmail.com
+  url:
+  bio: |
+    Yushi Takahashi
+    
+    
