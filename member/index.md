@@ -63,7 +63,7 @@ layout: default
 
 {% include contact-info.html name="Sophie Zhao" %}
 
-{% include contact-info.html name="Thomas L&uuml;tteke" %}
+{% include contact-info.html name="Thomas Lutteke" %}
 
 {% include contact-info.html name="Yuki Ushioda" %}
 
