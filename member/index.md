@@ -5,6 +5,8 @@ layout: default
 
 {% include contact-info.html name="Akihiro Fujita" %}
 
+{% include contact-info.html name="Chiharu Elizabeth Aoki" %}
+
 {% include contact-info.html name="Chris Barnett" %}
 
 {% include contact-info.html name="Daisuke Shinmachi" %}
