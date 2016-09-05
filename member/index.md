@@ -57,7 +57,7 @@ layout: default
 
 {% include contact-info.html name="Serge Perez" %}
 
-{% include contact-info.html name="Shinichiro Higashimoto" %}
+{% include contact-info.html name="Shinichi Higashimoto" %}
 
 {% include contact-info.html name="Shujiro Okuda" %}
 
