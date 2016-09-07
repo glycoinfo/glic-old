@@ -41,8 +41,6 @@ layout: default
 
 {% include contact-info.html name="Miguel Rojas Macias" %}
 
-{% include contact-info.html name="Mitsuko Yamazaki" %}
-
 {% include contact-info.html name="Nathan Edwards" %}
 
 {% include contact-info.html name="Niclas Karlsson" %}
