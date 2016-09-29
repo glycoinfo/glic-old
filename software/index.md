@@ -6,17 +6,17 @@ layout: default
 ## 1. Glossary for Software Tools
 ### 1-1. Software type
 
-  * **Stand-alone software**
+  * **Stand-alone software**  
     Software that is downloaded and installed on a computer.
   * **Web application** 	
     Application accessed and used using a web browser.
-  * **Web service**
+  * **Web service**  
     Application invoked over the internet by computational means. It accepts machine readable data and provides remachine readable data as result.
 
 ### 1-2. Data types
 
-  * **MS**
-    Mass spectrometric data
+  * **MS**  
+  Mass spectrometric data
 
 ## 2. Software Tools
 ### 2-1. GRITS Toolbox
