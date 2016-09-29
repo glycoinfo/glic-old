@@ -4,7 +4,7 @@ layout: default
 ---
 <h2> Upcoming meetings</h2>
 <ul>
-<li> October 17~22, 2016: GLIC GlycoHackathon
+<li> October 17~22, 2016: GLIC Distributed GlycoHackathon
 </ul>
 
 
