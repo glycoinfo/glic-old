@@ -5,7 +5,6 @@ layout: default
 <h2> Upcoming meetings</h2>
 <ul>
 <li> October 17~22, 2016: GLIC Distributed GlycoHackathon
-</ul>
 
 
 <h2> Past meetings</h2>
@@ -15,4 +14,3 @@ layout: default
 (<a href="https://goo.gl/Ur22GK">Notes</a>)
 <li> July 7, 2016: Skype meeting 
 (<a href="https://goo.gl/vB6o0q">Notes</a>)
-</ul>
