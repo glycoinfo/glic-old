@@ -3,63 +3,39 @@ title: Software Tools
 layout: default
 ---
 
-<h2>1. Glossary for Software Tools</h2>
-<h3>1-1. Software type</h3>
-<ul>
-<li><strong>Stand-alone software</strong><br>
-Software that is downloaded and installed on a computer.</li><br>
-<li><strong>Web application</strong><br> 	
-Application accessed and used using a web browser.</li><br>
-<li><strong>Web service</strong><br>	
-Application invoked over the internet by computational means. It accepts machine readable data and provides remachine readable data as result.</li>
-</ul>
+## 1. Glossary for Software Tools
+### 1-1. Software type
 
-<h3>1-2. Data types</h3>
-<ul>
-<li><strong>MS</strong><br>
-Mass spectrometric data</li>
-</ul>
+  * **Stand-alone software**
+    Software that is downloaded and installed on a computer.
+  * **Web application** 	
+    Application accessed and used using a web browser.
+  * **Web service**
+    Application invoked over the internet by computational means. It accepts machine readable data and provides remachine readable data as result.
 
-<h2>2. Software Tools</h2>
-<h3>2-1. GRITS Toolbox</h3>
-<p>GRITS Toolbox is a glycomics MS data processing software. The software allows not just to load, visualize and browser glycomics MS data but also to annotate the data with glycan structures and their fragments. Automatic annotated data can be manually evaluated, changed and exported to Excel. In addition side by side comparison of the different experiment for the study of glycosylation changes and glycosylation expression changes can be performed as well. In addition the software also captures and manages meta data such as sample description and description of the performed experiment.</p> 
-<table>
-<tr>
-<td class="title"><strong>Processed data</strong></td>
-<td class="content">MS</td>
-</tr>
-<tr>
-<td class="title"><strong>Software type</strong></td>
-<td class="content">Standalone software</td>
-</tr>
-<tr>
-<td class="title"><strong>Availability</strong></td>
-<td class="content"><a href="http://www.grits-toolbox.org/">http://www.grits-toolbox.org/</a></td>
-</tr>
-<tr>
-<td class="title"><strong>License
-<td class="content">none</td>
-</tr>
-<tr>
-<td class="title"><strong>Status</strong></td>
-<td class="content">stable, continues development</td>
-</tr>
-<tr>
-<td class="title"><strong>Funding</strong></td>
-<td class="content">NIH</td>
-</tr>
-<tr>
-<td class="title"><strong>Future plans</strong></td>
-<td class="content">quantification of glycomics data; CMS like methods for glycomics; integration of other data types, such as qRT-PCR</td>
-</tr>
-<tr>
-<td class="title"><strong>Contact</strong></td>
-<td class="content">Rene Ranzinger:&nbsp;<a href="mailto:rene@ccrc.uga.edu">rene@ccrc.uga.edu</a></td>
-</tr>
-</table>
+### 1-2. Data types
 
-<h3>2-2. GODESS</h3>
-<p>NMR spectrum simulation service for carbohydrate-containing molecules (including polymers and glycoconjugates). The output includes signal assignment tables, 1D and multiple 2D spectra. For every simulated chemical shift the predictor reports the expected error, trustworthiness metrics and databases references to data used in the simulation. The software uses empirical approach with own dedicated databases, statistical approach based on CSDB content, and hybrid approach. Supported nuclei are 13C and 1H. Solvent and temperature are taken into account. On the level of structures it supports most structural features of saccharides (several hundred residues, alditols, furanoses, amino acids, fatty acids, sphingoids; glycosidic, amide, or diester linkages). Average accuracy obtained on a large pool of structures was 0.86 ppm for &sup1;&sup3;C and 0.07ppm for &sup1;H.</p>
+  * **MS**
+    Mass spectrometric data
+
+## 2. Software Tools
+### 2-1. GRITS Toolbox
+  GRITS Toolbox is a glycomics MS data processing software. The software allows not just to load, visualize and browser glycomics MS data but also to annotate the data with glycan structures and their fragments. Automatic annotated data can be manually evaluated, changed and exported to Excel. In addition side by side comparison of the different experiment for the study of glycosylation changes and glycosylation expression changes can be performed as well. In addition the software also captures and manages meta data such as sample description and description of the performed experiment.
+
+| | |
+---|---
+**Processed Data** | MS
+**Software Type** | Standalone Software
+**Availabitlity** | http://www.grits-toolbox.org/
+**License** | none
+**Status** | stable, continues development
+**Funding** | NIH
+**Future Plans** | quantification of glycomics data; CMS like methods for glycomics; integration of other data types, such as qRT-PCR
+**Contact** | Rene Ranzinger: rene@ccrc.uga.edu
+
+### 2-2. GODESS
+  NMR spectrum simulation service for carbohydrate-containing molecules (including polymers and glycoconjugates). The output includes signal assignment tables, 1D and multiple 2D spectra. For every simulated chemical shift the predictor reports the expected error, trustworthiness metrics and databases references to data used in the simulation. The software uses empirical approach with own dedicated databases, statistical approach based on CSDB content, and hybrid approach. Supported nuclei are 13C and 1H. Solvent and temperature are taken into account. On the level of structures it supports most structural features of saccharides (several hundred residues, alditols, furanoses, amino acids, fatty acids, sphingoids; glycosidic, amide, or diester linkages). Average accuracy obtained on a large pool of structures was 0.86 ppm for &sup1;&sup3;C and 0.07ppm for &sup1;H.
+  
 <table>
 <tr>
 <td class="title"><strong>Processed data</strong></td>
