@@ -3,7 +3,8 @@ title: Database Resources
 layout: default
 ---
 ## 1. Glossary for Database Resources
-### 1-1. Data 
+
+### 1-1. Data  
   * **Structure**  
   Structure of a molecule represented in one or several sequence formats or graphicalrepresentation.  
   * **Database reference**  
@@ -12,18 +13,19 @@ layout: default
   Biological annotation describing the species the structure is found.
 
 ### 1-2. Search options
-  * **Structure search**
+  * **Structure search**  
   Allows searching for a structure by specifying is sequence.
-  * **Sub-structure search**
+  * **Sub-structure search**  
   Search for structure based on a query structure that is a substructure of the structures in the search result.
-  * **Maximum common substructure search (MCS)**
+  * **Maximum common substructure search (MCS)**  
   Search of structures based on shared substructures with the query structure. The less query structure and another structure have in common the lower the score. If query structure and queried structure are identical or the query structure is subsumed by the other structure the score is maximum.
-  * **Similarity search**
+  * **Similarity search**  
   Search structures that are similar to a query structure. This search is different to the sub-structure search or the MCS search those residues and linkages may vary between the query and result structure.
-  * **Search by species**
+  * **Search by species**  
   Search of structures based on their species annotation. This may allow for searches by higher species organization, such as Genus, Rank or Kingdoms.
   
 ## 2. Database Resources
+
 ### 2-1. GlycomeDB
   Meta database that integrates the structures from several glycomics databases (CFG, KEGG, GLYCOSCIENCES.de, GlycoBase, JCGGDB, BCSDB, PDB, GlycO and Carbbank) into one consistent sequence representation and creating a unique index of all structures present in the integrated database. Species annotations from the other databases are retrieved as well and integrated using the NCBI Taxonomy. Each structure in GlycomeDB is linked back to the original database allowing finding and browsing all occurrences of a structure in multiple databases.
 
