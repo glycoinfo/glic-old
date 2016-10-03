@@ -263,7 +263,8 @@ tfoot {
   display: table-footer-group; }
 
 thead {
-   display: table-header-group; }
+   display: table-header-group; 
+   empty-cells: hide; }
 
 td, tr {
   display: table-cell; }
