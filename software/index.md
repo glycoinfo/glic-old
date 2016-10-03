@@ -4,6 +4,7 @@ layout: default
 ---
 
 ## 1. Glossary for Software Tools
+
 ### 1-1. Software type
 
   * **Stand-alone software**  
@@ -19,6 +20,7 @@ layout: default
   Mass spectrometric data
 
 ## 2. Software Tools
+
 ### 2-1. GRITS Toolbox
   GRITS Toolbox is a glycomics MS data processing software. The software allows not just to load, visualize and browser glycomics MS data but also to annotate the data with glycan structures and their fragments. Automatic annotated data can be manually evaluated, changed and exported to Excel. In addition side by side comparison of the different experiment for the study of glycosylation changes and glycosylation expression changes can be performed as well. In addition the software also captures and manages meta data such as sample description and description of the performed experiment.
 
