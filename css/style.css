@@ -243,7 +243,7 @@ col, colgroup, table, tbody, td, tfoot, th, thead, tr {
 
 /*table {
   border: 1px solid rgba(0, 0, 0, 0.25);
-  border-collapse: collapse;
+  border-collapse: separate;
   display: table;
   empty-cells: hide;
   margin: -1px 0 1.3125em;
