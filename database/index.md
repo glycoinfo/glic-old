@@ -9,7 +9,7 @@ layout: default
   Structure of a molecule represented in one or several sequence formats or graphicalrepresentation.  
   * **Database reference**  
   References to other databases of the same type containing the same molecule.
-  * **Species annotation**
+  * **Species annotation**  
   Biological annotation describing the species the structure is found.
 
 ### 1-2. Search options
