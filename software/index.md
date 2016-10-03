@@ -9,7 +9,7 @@ layout: default
 
   * **Stand-alone software**  
     Software that is downloaded and installed on a computer.
-  * **Web application** 	
+  * **Web application**  
     Application accessed and used using a web browser.
   * **Web service**  
     Application invoked over the internet by computational means. It accepts machine readable data and provides remachine readable data as result.
