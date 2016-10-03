@@ -279,8 +279,7 @@ table th, table td {
 table thead {
   background: rgba(0, 0, 0, 0.15);
   border: 1px solid rgba(0, 0, 0, 0.15);
-  border-bottom: 1px solid rgba(0, 0, 0, 0.2); 
-  empty-cells: 0px; }
+  border-bottom: 1px solid rgba(0, 0, 0, 0.2); }
 
 table tbody {
   background: rgba(0, 0, 0, 0.05); }
