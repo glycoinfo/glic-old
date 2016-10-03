@@ -263,3 +263,10 @@ a {
 
 h3{
   clear:both;}
+
+th:empty {
+  font-size: 0px;
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
