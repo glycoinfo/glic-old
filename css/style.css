@@ -273,7 +273,7 @@ tr {
 
 table th, table td {
   font-size: 1.1em;
-  line-height: 23px;
+  line-height: 0px;
   padding: 0 1em; }
 
 table thead {
