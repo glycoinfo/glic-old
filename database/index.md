@@ -2,7 +2,8 @@
 title: Database Resources
 layout: default
 ---
-## 1. Glossary for Database Resources
+1. Glossary for Database Resources
+-----
 
 ### 1-1. Data  
   * **Structure**  
@@ -30,7 +31,8 @@ layout: default
   * **Search by species**  
   Search of structures based on their species annotation. This may allow for searches by higher species organization, such as Genus, Rank or Kingdoms.
   
-## 2. Database Resources
+2. Database Resources
+-----
 
 ### 2-1. GlycomeDB
   Meta database that integrates the structures from several glycomics databases (CFG, KEGG, GLYCOSCIENCES.de, GlycoBase, JCGGDB, BCSDB, PDB, GlycO and Carbbank) into one consistent sequence representation and creating a unique index of all structures present in the integrated database. Species annotations from the other databases are retrieved as well and integrated using the NCBI Taxonomy. Each structure in GlycomeDB is linked back to the original database allowing finding and browsing all occurrences of a structure in multiple databases.
