@@ -7,20 +7,26 @@ layout: default
 ### 1-1. Data  
   * **Structure**  
   Structure of a molecule represented in one or several sequence formats or graphicalrepresentation.  
+  
   * **Database reference**  
   References to other databases of the same type containing the same molecule.
+  
   * **Species annotation**  
   Biological annotation describing the species the structure is found.
 
 ### 1-2. Search options
   * **Structure search**  
   Allows searching for a structure by specifying is sequence.
+  
   * **Sub-structure search**  
   Search for structure based on a query structure that is a substructure of the structures in the search result.
+  
   * **Maximum common substructure search (MCS)**  
   Search of structures based on shared substructures with the query structure. The less query structure and another structure have in common the lower the score. If query structure and queried structure are identical or the query structure is subsumed by the other structure the score is maximum.
+  
   * **Similarity search**  
   Search structures that are similar to a query structure. This search is different to the sub-structure search or the MCS search those residues and linkages may vary between the query and result structure.
+  
   * **Search by species**  
   Search of structures based on their species annotation. This may allow for searches by higher species organization, such as Genus, Rank or Kingdoms.
   
