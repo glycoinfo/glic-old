@@ -265,6 +265,12 @@ tfoot {
 thead {
   display: table-header-group; }
 
+thead > tr {
+  padding: 0;
+  margin: 0;
+  border: 0;
+}
+
 td, th {
   display: table-cell; }
 
