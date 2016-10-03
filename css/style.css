@@ -268,6 +268,13 @@ thead {
 td, th {
   display: table-cell; }
 
+th:empty {
+  font-size: 0px;
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
 tr {
   display: table-row; }
 
