@@ -266,8 +266,7 @@ thead {
    display: table-header-group; }
 
 td, tr {
-  display: table-cell; 
-  empty-cells: hide; }
+  display: table-cell; }
 
 tr {
   display: table-row; }
@@ -280,7 +279,8 @@ table th, table td {
 table thead {
   background: rgba(0, 0, 0, 0.15);
   border: 1px solid rgba(0, 0, 0, 0.15);
-  border-bottom: 1px solid rgba(0, 0, 0, 0.2); }
+  border-bottom: 1px solid rgba(0, 0, 0, 0.2); 
+  empty-cells: 0px; }
 
 table tbody {
   background: rgba(0, 0, 0, 0.05); }
