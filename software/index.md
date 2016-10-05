@@ -76,7 +76,7 @@ Tools for validation of carbohydrate 3D structure data.
 **Processed Data** | PDB-formatted 3D structures<br>(carbohydrates, glycoproteins, protein-carbohydrate complexes)
 **Software Type** | Web application, Integrated in Glycosciences.de
 **Availabitlity** | [http://www.glycosciences.de/tools](http://www.glycosciences.de/tools)
-**License** | 
+**License** | -
 **Status** | stable, continues development
 **Funding** | -
 **Future Plans** | Include MonosaccharideDB routines for improved handling of modified residues.
@@ -91,7 +91,7 @@ Building of 3D structure models of carbohydrates.
 **Processed Data** | carbohydrate “sequence” (2D-structure)
 **Software Type** | Web application, Integrated in Glycosciences.de
 **Availabitlity** | [http://www.glycosciences.de/modeling/sweet2](http://www.glycosciences.de/modeling/sweet2)
-**License** | 
+**License** | -
 **Status** | stable
 **Funding** | -
 **Future Plans** | -
@@ -106,7 +106,7 @@ In-silico glycosylation of protein 3D structures.
 **Processed Data** | Protein 3D structure (PDB format), carbohydrate “sequence” (2D-structure)
 **Software Type** | Web application, Integrated in Glycosciences.de
 **Availabitlity** | [http://www.glycosciences.de/modeling/glyprot](http://www.glycosciences.de/modeling/glyprot)
-**License** | 
+**License** | -
 **Status** | stable
 **Funding** | -
 **Future Plans** | -
@@ -152,8 +152,8 @@ Kong et al (2015)    [http://glycob.oxfordjournals.org/content/25/1/55.abstract]
 **Availabitlity** | [https://github.com/GlycReSoft2](https://github.com/GlycReSoft2)
 **License** | Tentatively Apache2, but always free for academic use
 **Status** | Available, Under Development
-**Funding** | 
-**Future Plans** | 
+**Funding** | -
+**Future Plans** | -
 **Contact** | Joseph Zaia: jzaia@bu.edu
 
 References: 
@@ -164,13 +164,13 @@ HS-SEQ is a comprehensive algorithm for sequencing of glycosaminoglycan sacchari
 
 | | |
 ---|---
-**Processed Data** | 
+**Processed Data** | -
 **Software Type** | Stand-alone
 **Availabitlity** | [https://github.com/hh1985/glycan-pipeline](https://github.com/hh1985/glycan-pipeline)
-**License** | 
-**Status** | 
-**Funding** | 
-**Future Plans** | 
+**License** | -
+**Status** | -
+**Funding** | -
+**Future Plans** | -
 **Contact** | Joseph Zaia: jzaia@bu.edu
 
 References:
@@ -207,11 +207,11 @@ The library includes the following functions:
 
 | | |
 ---|---
-**Processed Data** | 
+**Processed Data** | -
 **Software Type** | Software Library
 **Availabitlity** | [https://github.com/mobiusklein/glypy](https://github.com/mobiusklein/glypy)
 **License** | Tentatively Apache2, but always free for academic use
 **Status** | Available, Under Active Development (Feature Requests and Pull Requests Welcome)
-**Funding** | 
+**Funding** | -
 **Future Plans** | Continued development of glycan structure model and algorithms on that model.
 **Contact** | Joseph Zaia: jzaia@bu.edu
