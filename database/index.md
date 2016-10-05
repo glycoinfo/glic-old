@@ -40,7 +40,7 @@ layout: default
 ---|---
 **Data in Database** | structure, databases references, species annotation
 **Search Options** | structure search, sub-structure search, similarity search, maximum common substructure search, species search
-**Availability** | [http://www.glycome-db.org/](http://www.glycome-db.org/)
+**Availability** | [http://www.glycome-db.org](http://www.glycome-db.org)
 **License** | None
 **Status** | stable, maintained
 **Funding** | -
@@ -55,7 +55,7 @@ layout: default
 ---|---
 **Data in Database** | structure, glycoproteins, site-specific information, databases references, species annotation, tissue, cell line, biological fluid, methods
 **Search Options** | structure search, sub-structure search, species search, glycoprotein search, UniProtKB accession number search, tissue search, composition search
-**Availability** | http://unicarbkb.org
+**Availability** | [http://unicarbkb.org](http://unicarbkb.org)
 **License** | CC
 **Status** | stable, maintained
 **Funding** | The National eResearch Collaboration Tools and Resources (NeCTAR) Project; Swiss National Science Foundation
@@ -70,7 +70,7 @@ layout: default
 ---|---
 **Data in Database** | structures, NMR spectra, taxon annotations, bibliographic annatations, databases references, supplementary data
 **Search Options** | structure search, sub-structure search, composition search, taxon search, bibliography search, NMR signal search, id search
-**Availability** | http://csdb.glycoscience.ru/
+**Availability** | [http://csdb.glycoscience.ru](http://csdb.glycoscience.ru)
 **License** | None (free)
 **Status** | stable, maintained
 **Funding** | Russian Foundation for Basic Research
@@ -85,12 +85,12 @@ The SugarBind Database (SugarBindDB) covers knowledge of glycan binding of human
 ---|---
 **Data in Database** | structure, pathogenic lectin/adhesin, protein-carbohydrate interactions, cross-references, binding annotation, tissue, disease, symptoms, methods
 **Search Options** | species search, lectin search, ligand search, tissue search, disease search, multi-criteria search<
-**Availability** | http://sugarbind.expasy.org
+**Availability** | [http://sugarbind.expasy.org](http://sugarbind.expasy.org)
 **License** | CC
 **Status** | stable, maintained
 **Funding** | SIB Swiss Institute of Bioinformatics + Swiss National Fund
 **Future Plans** | increased data integration, continued data curation, addition of binding prediction tools
-**Code Availablity** | https://bitbucket.org/sib-pig/sugarbind
+**Code Availablity** | [https://bitbucket.org/sib-pig/sugarbind](https://bitbucket.org/sib-pig/sugarbind)
 **Contact** | -
 
 ### 2-5. Glycosciences.DB
@@ -100,7 +100,7 @@ The SugarBind Database (SugarBindDB) covers knowledge of glycan binding of human
 ---|---
 **Data in Database** | structure, 3D structure models, pdb data, nmr shifts, species annotation, literature references
 **Search Options** | structure search, sub-structure search, motif search, n-glycan properties search, literature search, nmr peak search
-**Availability** | http://www.glycosciences.de/database/
+**Availability** | [http://www.glycosciences.de/database](http://www.glycosciences.de/database)
 **License** | None
 **Status** | stable, maintained
 **Funding** | -
@@ -115,7 +115,7 @@ The SugarBind Database (SugarBindDB) covers knowledge of glycan binding of human
 ---|---
 **Data in Database** | monosaccharide properties, residue names
 **Search Options** | name search, properties search
-**Availability** | http://www.mononsaccharidedb.org
+**Availability** | [http://www.mononsaccharidedb.org](http://www.mononsaccharidedb.org)
 **License** | -
 **Status** | stable, maintained
 **Funding** | -
@@ -130,7 +130,7 @@ The SugarBind Database (SugarBindDB) covers knowledge of glycan binding of human
 ---|---
 **Data in Database** | conformational maps derived from MD simulations
 **Search Options** | disaccharide search
-**Availability** | http://www.glycosciences.de/modeling/glycomapsdb/
+**Availability** | [http://www.glycosciences.de/modeling/glycomapsdb](http://www.glycosciences.de/modeling/glycomapsdb)
 **License** | -
 **Status** | stable
 **Funding** | -
@@ -145,7 +145,7 @@ The SugarBind Database (SugarBindDB) covers knowledge of glycan binding of human
 ---|---
 **Data in Database** | Glycan structures, as images, GlycoCT and WURCS, and their motifs, monosaccharides and linked to other related databases including GlycomeDB, BCSDB, GlycoEpitope, with others continuing to be added.  Each glycan structure is assigned a GlyTouCan ID.
 **Search Options** | Graphical and textual substructure search, ID search and motif search
-**Availability** | http://www.glytoucan.org
+**Availability** | [http://www.glytoucan.org](http://www.glytoucan.org)
 **License** | CC-BY
 **Status** | stable, maintained
 **Funding** | Integrated Database Project of Japan
@@ -161,7 +161,7 @@ support the analysis of glycan array data for the Consortium for Functional Glyc
 ---|---
 **Data in Database** | -
 **Search Options** | -
-**Availability** | https://glycopattern.emory.edu/
+**Availability** | [https://glycopattern.emory.edu](https://glycopattern.emory.edu)
 **License** | -
 **Status** | -
 **Funding** | -
@@ -176,7 +176,7 @@ support the analysis of glycan array data for the Consortium for Functional Glyc
 ---|---
 **Data in Database** | MS/MS spectra, structures, peak lists, references, methods, tissue and taxonomy annotations
 **Search Options** | Species, tissue, composition, recorded mass, observed mass, peak list
-**Availability** | http://www.unicarb-db.org/
+**Availability** | [http://www.unicarb-db.org](http://www.unicarb-db.org)
 **License** | CC
 **Status** | Stable, maintained
 **Funding** | NeCTAR, ANDS, STINT, SIB ExPASy
