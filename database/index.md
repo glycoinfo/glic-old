@@ -40,7 +40,7 @@ layout: default
 ---|---
 **Data in Database** | structure, databases references, species annotation
 **Search Options** | structure search, sub-structure search, similarity search,<br>maximum common substructure search, species search
-**Availability** | [http://www.glycome-db.org](http://www.glycome-db.org)
+**Availability** | <http://www.glycome-db.org>
 **License** | None
 **Status** | stable, maintained
 **Funding** | -
