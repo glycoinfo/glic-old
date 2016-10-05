@@ -46,7 +46,7 @@ layout: default
 **Funding** | -
 **Future Plans** | -
 **Code Availablity** | on request
-**Contact** | Rene Ranzinger: rene@ccrc.uga.edu
+**Contact** | Rene Ranzinger: <rene@ccrc.uga.edu>
 
 ### 2-2. UniCarbKB
   The UniCarb KnowledgeBase (UniCarbKB) offers public access to a growing, curated database of information on the glycan structures of glycoproteins. UniCarbKB is an international effort that aims to further our understanding of structures, pathways and networks involved in glycosylation and glyco-mediated processes by integrating structural, experimental and functional glycoscience information. This initiative builds upon the success of the glycan structure database GlycoSuiteDB, together with the informatic standards introduced by EUROCarbDB, to provide a high-quality and updated resource to support glycomics and glycoproteomics research. UniCarbKB provides comprehensive information concerning glycan structures, and published glycoprotein information including global and site-specific attachment information.
@@ -55,7 +55,7 @@ layout: default
 ---|---
 **Data in Database** | structure, glycoproteins, site-specific information, databases references,<br>species annotation, tissue, cell line, biological fluid, methods
 **Search Options** | structure search, sub-structure search, species search, glycoprotein search,<br>UniProtKB accession number search, tissue search, composition search
-**Availability** | [http://unicarbkb.org](http://unicarbkb.org)
+**Availability** | <http://unicarbkb.org>
 **License** | CC
 **Status** | stable, maintained
 **Funding** | The National eResearch Collaboration Tools and Resources (NeCTAR) Project;<br>Swiss National Science Foundation
@@ -70,13 +70,13 @@ layout: default
 ---|---
 **Data in Database** | structures, NMR spectra, taxon annotations, bibliographic annatations,<br>databases references, supplementary data
 **Search Options** | structure search, sub-structure search, composition search, taxon search,<br>bibliography search, NMR signal search, id search
-**Availability** | [http://csdb.glycoscience.ru](http://csdb.glycoscience.ru)
+**Availability** | <http://csdb.glycoscience.ru>
 **License** | None (free)
 **Status** | stable, maintained
 **Funding** | Russian Foundation for Basic Research
 **Future Plans** | see papers
 **Code Availablity** | no
-**Contact** | Phyl Toukach: netbox@toukach.ru
+**Contact** | Phyl Toukach: <netbox@toukach.ru>
 
 ### 2-4. SugarBindDB
 The SugarBind Database (SugarBindDB) covers knowledge of glycan binding of human pathogen lectins and adhesins. It is a curated database; each glycan-binding event is associated with at least one published reference. The core data of SugarBindDB is a triple constituted of a pathogenic agent, a lectin/adhesin and a glycan ligand. SugarBindDB content is displayed in views. All views are interconnected.
@@ -85,12 +85,12 @@ The SugarBind Database (SugarBindDB) covers knowledge of glycan binding of human
 ---|---
 **Data in Database** | structure, pathogenic lectin/adhesin, protein-carbohydrate interactions,<br>cross-references, binding annotation, tissue, disease, symptoms, methods
 **Search Options** | species search, lectin search, ligand search, tissue search, disease search,<br>multi-criteria search
-**Availability** | [http://sugarbind.expasy.org](http://sugarbind.expasy.org)
+**Availability** | <http://sugarbind.expasy.org>
 **License** | CC
 **Status** | stable, maintained
 **Funding** | SIB Swiss Institute of Bioinformatics + Swiss National Fund
 **Future Plans** | increased data integration, continued data curation, addition of binding prediction tools
-**Code Availablity** | [https://bitbucket.org/sib-pig/sugarbind](https://bitbucket.org/sib-pig/sugarbind)
+**Code Availablity** | <https://bitbucket.org/sib-pig/sugarbind>
 **Contact** | -
 
 ### 2-5. Glycosciences.DB
@@ -100,13 +100,13 @@ The SugarBind Database (SugarBindDB) covers knowledge of glycan binding of human
 ---|---
 **Data in Database** | structure, 3D structure models, pdb data, nmr shifts, species annotation,<br>literature references
 **Search Options** | structure search, sub-structure search, motif search, n-glycan properties search,<br>literature search, nmr peak search
-**Availability** | [http://www.glycosciences.de/database](http://www.glycosciences.de/database)
+**Availability** | <http://www.glycosciences.de/database>
 **License** | None
 **Status** | stable, maintained
 **Funding** | -
 **Future Plans** | -
 **Code Availablity** | -
-**Contact** | Thomas Lütteke: thomas.luetteke@vetmed.uni-giessen.de
+**Contact** | Thomas Lütteke: <thomas.luetteke@vetmed.uni-giessen.de>
 
 ### 2-6. MonosaccharideDB
   Monosaccharide database. Contains monosaccharides + name parsing / encoding routines.
@@ -115,13 +115,13 @@ The SugarBind Database (SugarBindDB) covers knowledge of glycan binding of human
 ---|---
 **Data in Database** | monosaccharide properties, residue names
 **Search Options** | name search, properties search
-**Availability** | [http://www.mononsaccharidedb.org](http://www.mononsaccharidedb.org)
+**Availability** | <http://www.mononsaccharidedb.org>
 **License** | -
 **Status** | stable, maintained
 **Funding** | -
 **Future Plans** | -
 **Code Availablity** | -
-**Contact** | Thomas Lütteke: thomas.luetteke@vetmed.uni-giessen.de
+**Contact** | Thomas Lütteke: <thomas.luetteke@vetmed.uni-giessen.de>
 
 ### 2-7. GlycoMapsDB 
   Database of conformational maps of glycosidic linkages
@@ -130,13 +130,13 @@ The SugarBind Database (SugarBindDB) covers knowledge of glycan binding of human
 ---|---
 **Data in Database** | conformational maps derived from MD simulations
 **Search Options** | disaccharide search
-**Availability** | [http://www.glycosciences.de/modeling/glycomapsdb](http://www.glycosciences.de/modeling/glycomapsdb)
+**Availability** | <http://www.glycosciences.de/modeling/glycomapsdb>
 **License** | -
 **Status** | stable
 **Funding** | -
 **Future Plans** | -
 **Code Availablity** | -
-**Contact** | Thomas Lütteke: thomas.luetteke@vetmed.uni-giessen.de
+**Contact** | Thomas Lütteke: <thomas.luetteke@vetmed.uni-giessen.de>
 
 ### 2-8. GlyTouCan
   Glycan structure/sequence/composition repository
@@ -145,13 +145,13 @@ The SugarBind Database (SugarBindDB) covers knowledge of glycan binding of human
 ---|---
 **Data in Database** | Glycan structures, as images, GlycoCT and WURCS, and their motifs,<br>monosaccharides and linked to other related databases including GlycomeDB, BCSDB,<br>GlycoEpitope, with others continuing to be added. Each glycan structure is assigned a GlyTouCan ID.
 **Search Options** | Graphical and textual substructure search, ID search and motif search
-**Availability** | [http://www.glytoucan.org](http://www.glytoucan.org)
+**Availability** | <http://www.glytoucan.org>
 **License** | CC-BY
 **Status** | stable, maintained
 **Funding** | Integrated Database Project of Japan
 **Future Plans** | Incorporation of UniCarbKB and other JCGGDB databases
 **Code Availablity** | open source
-**Contact** | Kiyoko F. Aoki-Kinoshita: kkiyoko@soka.ac.jp
+**Contact** | Kiyoko F. Aoki-Kinoshita: <kkiyoko@soka.ac.jp>
 
 ### 2-9. GlycoPattern
   GlycoPattern is Web-based bioinformatics resource to
@@ -161,13 +161,13 @@ support the analysis of glycan array data for the Consortium for Functional Glyc
 ---|---
 **Data in Database** | -
 **Search Options** | -
-**Availability** | [https://glycopattern.emory.edu](https://glycopattern.emory.edu)
+**Availability** | <https://glycopattern.emory.edu>
 **License** | -
 **Status** | -
 **Funding** | -
 **Future Plans** | -
 **Code Availablity** | -
-**Contact** | sanjay.agravat@emory.edu
+**Contact** | <sanjay.agravat@emory.edu>
 
 ### 2-10. UniCarb-DB
   UniCarb-DB is the glycomics fragmentation database that stores, integrates and processes data from manually annotated ms spectra.
@@ -176,11 +176,11 @@ support the analysis of glycan array data for the Consortium for Functional Glyc
 ---|---
 **Data in Database** | MS/MS spectra, structures, peak lists, references, methods, tissue<br>and taxonomy annotations
 **Search Options** | Species, tissue, composition, recorded mass, observed mass, peak list
-**Availability** | [http://www.unicarb-db.org](http://www.unicarb-db.org)
+**Availability** | <http://www.unicarb-db.org>
 **License** | CC
 **Status** | Stable, maintained
 **Funding** | NeCTAR, ANDS, STINT, SIB ExPASy
 **Future Plans** | -
 **Code Availablity** | Open Source
-**Contact** | niclas.karlsson@medkem.gu.se
+**Contact** | <niclas.karlsson@medkem.gu.se>
 
