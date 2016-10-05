@@ -260,6 +260,7 @@ thead {
   background: rgba(0, 0, 0, 0.15);
   border: 1px solid rgba(0, 0, 0, 0.15);
   border-bottom: 1px solid rgba(0, 0, 0, 0.2); 
+  font-size: 0px;
 }
 
 thead > tr {
@@ -274,7 +275,6 @@ td, tr {
 }
 
 thead:empty {
-  font-size: 0px;
   margin: 0;
   padding: 0;
   border: 0; 
