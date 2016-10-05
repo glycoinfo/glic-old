@@ -280,7 +280,8 @@ table thead {
   background: rgba(0, 0, 0, 0.15);
   border: 1px solid rgba(0, 0, 0, 0.15);
   border-bottom: 1px solid rgba(0, 0, 0, 0.2);
-  padding: 0;
+　empty-cells: 1px;
+　padding: 0;
   margin: 0;
   border: 0; }
 
@@ -290,14 +291,7 @@ table tbody {
 table tfoot {
   background: rgba(0, 0, 0, 0.15);
   border: 1px solid rgba(0, 0, 0, 0.15);
-  border-top: 1px solid rgba(0, 0, 0, 0.2); }
-
-table th:empty {
-  font-size: 0px;
-  margin: 0;
-  padding: 0;
-  border: 0;
-}	
+  border-top: 1px solid rgba(0, 0, 0, 0.2); }	
 	
   html {
       margin:0; padding:0;
