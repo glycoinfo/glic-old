@@ -273,7 +273,7 @@ td, tr {
   line-height: 23px; 
 }
 
-th:empty {
+thead:empty {
   font-size: 0px;
   margin: 0;
   padding: 0;
