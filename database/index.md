@@ -83,7 +83,7 @@ The SugarBind Database (SugarBindDB) covers knowledge of glycan binding of human
 
 | | |
 ---|---
-**Data in Database** | structure, pathogenic lectin/adhesin, protein-carbohydrate interactions, cross-references,<br>binding annotation, tissue, disease, symptoms, methods
+**Data in Database** | structure, pathogenic lectin/adhesin, protein-carbohydrate interactions,<br>cross-references, binding annotation, tissue, disease, symptoms, methods
 **Search Options** | species search, lectin search, ligand search, tissue search, disease search,<br>multi-criteria search
 **Availability** | [http://sugarbind.expasy.org](http://sugarbind.expasy.org)
 **License** | CC
@@ -143,7 +143,7 @@ The SugarBind Database (SugarBindDB) covers knowledge of glycan binding of human
   
 | | |
 ---|---
-**Data in Database** | Glycan structures, as images, GlycoCT and WURCS, and their motifs, monosaccharides<br>and linked to other related databases including GlycomeDB, BCSDB, GlycoEpitope,<br>with others continuing to be added. Each glycan structure is assigned a GlyTouCan ID.
+**Data in Database** | Glycan structures, as images, GlycoCT and WURCS, and their motifs,<br>monosaccharides and linked to other related databases including GlycomeDB, BCSDB, GlycoEpitope,<br>with others continuing to be added. Each glycan structure is assigned a GlyTouCan ID.
 **Search Options** | Graphical and textual substructure search, ID search and motif search
 **Availability** | [http://www.glytoucan.org](http://www.glytoucan.org)
 **License** | CC-BY
