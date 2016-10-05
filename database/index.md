@@ -143,7 +143,7 @@ The SugarBind Database (SugarBindDB) covers knowledge of glycan binding of human
   
 | | |
 ---|---
-**Data in Database** | Glycan structures, as images, GlycoCT and WURCS, and their motifs,<br>monosaccharides and linked to other related databases including GlycomeDB, BCSDB, GlycoEpitope,<br>with others continuing to be added. Each glycan structure is assigned a GlyTouCan ID.
+**Data in Database** | Glycan structures, as images, GlycoCT and WURCS, and their motifs,<br>monosaccharides and linked to other related databases including GlycomeDB, BCSDB,<br>GlycoEpitope, with others continuing to be added. Each glycan structure is assigned a GlyTouCan ID.
 **Search Options** | Graphical and textual substructure search, ID search and motif search
 **Availability** | [http://www.glytoucan.org](http://www.glytoucan.org)
 **License** | CC-BY
