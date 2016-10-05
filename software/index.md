@@ -127,10 +127,10 @@ In-silico glycosylation of protein 3D structures.
 **Future Plans** | include remote glycosylation with improved output graphics, add core 1 & 3 and sialylation predictions
 **Contact** | T. Gerken: txg2@cwru.edu Tel: 216-368-4556<br>M. Y. Leung: mleung@utep.edu Tel: 915-747-6836
 
-References:
-Perrine et al (2009) [http://glycob.oxfordjournals.org/content/19/3/321](http://glycob.oxfordjournals.org/content/19/3/321)
-Gerken et al. (2011) [http://www.jbc.org/content/286/16/14493](http://www.jbc.org/content/286/16/14493)
-Gerken et al  (2013) [http://www.jbc.org/content/288/27/19900](http://www.jbc.org/content/288/27/19900)
+References:  
+Perrine et al (2009) [http://glycob.oxfordjournals.org/content/19/3/321](http://glycob.oxfordjournals.org/content/19/3/321)  
+Gerken et al. (2011) [http://www.jbc.org/content/286/16/14493](http://www.jbc.org/content/286/16/14493)  
+Gerken et al  (2013) [http://www.jbc.org/content/288/27/19900](http://www.jbc.org/content/288/27/19900)  
 Kong et al (2015)    [http://glycob.oxfordjournals.org/content/25/1/55.abstract](http://glycob.oxfordjournals.org/content/25/1/55.abstract)
 
 
@@ -158,7 +158,6 @@ Kong et al (2015)    [http://glycob.oxfordjournals.org/content/25/1/55.abstract]
 
 References: 
 Maxwell, E., Tan, Y., Tan, Y., Hu, H., Benson, G., Aizikov, K., Conley, S., Staples, G. O., Slysz, G. W., Smith, R. D., and Zaia, J. (2012) GlycReSoft:A Software Package for Automated Recognition of Glycans from LC/MS Data. PLoS ONE 7, e45474
-
 
 ### 2-9. HS-SEQ (2)
 HS-SEQ is a comprehensive algorithm for sequencing of glycosaminoglycan saccharides from activated electron dissociation (ExD) tandem mass spectra. ExD methods encompass ion electron detachment dissociation (EDD) and negative electron transfer dissociation (nETD).
