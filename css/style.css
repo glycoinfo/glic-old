@@ -237,10 +237,6 @@ h6:hover .header-link {
 
 /* from Bret Terpstra's Marked style */
 /* https://github.com/ttscoff/MarkedCustomStyles/blob/master/default_styles/swiss.css */
-
-col, colgroup, table, tbody, td, tfoot, th, thead, tr {
-  border-spacing: 0; }
-
 /*table {
   border: 1px solid rgba(0, 0, 0, 0.25);
   border-collapse: collapse;
@@ -249,12 +245,6 @@ col, colgroup, table, tbody, td, tfoot, th, thead, tr {
   margin: -1px 0 1.3125em;
   padding: 0;
   table-layout: fixed; }*/
-
-col {
-  display: table-column; }
-
-colgroup {
-  display: table-column-group; }
 
 tbody {
   display: table-row-group; 
@@ -272,6 +262,11 @@ thead {
   border-bottom: 1px solid rgba(0, 0, 0, 0.2); 
   display: table-header-group; }
 
+thead > tr {
+  padding: 0;
+  margin: 0;
+  border: 0; }	
+
 td, tr {
   font-size: 1.1em;
   line-height: 23px; 
@@ -285,11 +280,6 @@ th:empty {
   margin: 0;
   padding: 0;
   border: 0; }
-
-thead > tr {
-  padding: 0;
-  margin: 0;
-  border: 0; }	
 	
   html {
       margin:0; padding:0;
