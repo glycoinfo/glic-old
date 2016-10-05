@@ -247,32 +247,38 @@ h6:hover .header-link {
   table-layout: fixed; }*/
 
 tbody {
-  background: rgba(0, 0, 0, 0.05); }
+  background: rgba(0, 0, 0, 0.05); 
+}
 
 tfoot {
   background: rgba(0, 0, 0, 0.15);
   border: 1px solid rgba(0, 0, 0, 0.15);
-  border-top: 1px solid rgba(0, 0, 0, 0.2); }
+  border-top: 1px solid rgba(0, 0, 0, 0.2); 
+}
 
 thead {
   background: rgba(0, 0, 0, 0.15);
   border: 1px solid rgba(0, 0, 0, 0.15);
-  border-bottom: 1px solid rgba(0, 0, 0, 0.2); }
+  border-bottom: 1px solid rgba(0, 0, 0, 0.2); 
+}
 
 thead > tr {
   padding: 0;
   margin: 0;
-  border: 0; }	
+  border: 0; 
+}	
 
 td, tr {
   font-size: 1.1em;
-  line-height: 23px; }
+  line-height: 23px; 
+}
 
 th:empty {
   font-size: 0px;
   margin: 0;
   padding: 0;
-  border: 0; }
+  border: 0; 
+}
 	
   html {
       margin:0; padding:0;
