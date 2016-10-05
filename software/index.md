@@ -34,7 +34,7 @@ layout: default
 **License** | none
 **Status** | stable, continues development
 **Funding** | NIH
-**Future Plans** | quantification of glycomics data; CMS like methods for glycomics;  integration of other data types, such as qRT-PCR
+**Future Plans** | quantification of glycomics data; CMS like methods for glycomics;<br>integration of other data types, such as qRT-PCR
 **Contact** | Rene Ranzinger: rene@ccrc.uga.edu
 
 
@@ -73,7 +73,7 @@ Tools for validation of carbohydrate 3D structure data.
 
 | | |
 ---|---
-**Processed Data** | PDB-formatted 3D structures  (carbohydrates, glycoproteins, protein-carbohydrate complexes)
+**Processed Data** | PDB-formatted 3D structures<br>(carbohydrates, glycoproteins, protein-carbohydrate complexes)
 **Software Type** | Web application, Integrated in Glycosciences.de
 **Availabitlity** | [http://www.glycosciences.de/tools](http://www.glycosciences.de/tools)
 **License** | 
@@ -124,7 +124,7 @@ In-silico glycosylation of protein 3D structures.
 **License** | none
 **Status** | available, under development
 **Funding** | NIH (data acquisition and web site 1/2015-11/2018)
-**Future Plans** | include remote glycosylation with improved output graphics, add core 1 & 3 and  sialylation predictions
+**Future Plans** | include remote glycosylation with improved output graphics, add core 1 & 3<br>and sialylation predictions
 **Contact** | T. Gerken: txg2@cwru.edu Tel: 216-368-4556<br>M. Y. Leung: mleung@utep.edu Tel: 915-747-6836
 
 References:  
