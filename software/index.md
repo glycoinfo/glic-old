@@ -65,7 +65,7 @@ layout: default
 **Status** | stable, continues development
 **Funding** | SIB; National eResearch Collaboration Tools and Resources (NeCTAR) Project
 **Future Plans** | Extend range of enzymes for simulation of activity; budding plan with CAZy team.
-**Contact** | Matthew Campbell:matthew.campbell@mq.edu.au<br>Frederique Lisacek: frederique.lisacek@isb-sib.ch
+**Contact** | Matthew Campbell: matthew.campbell@mq.edu.au<br>Frederique Lisacek: frederique.lisacek@isb-sib.ch
 
 
 ### 2-4. 3D structure validation tools (CARP, pdb-care)
