@@ -265,8 +265,7 @@ tfoot {
 thead {
   background: rgba(0, 0, 0, 0.15);
   border: 1px solid rgba(0, 0, 0, 0.15);
-  border-bottom: 1px solid rgba(0, 0, 0, 0.2); 
-  display: table-header-group; }
+  border-bottom: 1px solid rgba(0, 0, 0, 0.2); }
 
 thead > tr {
   padding: 0;
