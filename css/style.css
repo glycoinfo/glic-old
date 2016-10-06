@@ -279,8 +279,8 @@ td, tr {
   display: table-cell; }
 
 th {
-  font-size: 1em;
-  line-height: 1px; }
+  font-size: 0em;
+  line-height: 0px; }
 
 table thead {
   background: rgba(0, 0, 0, 0.15);
