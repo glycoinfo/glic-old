@@ -275,10 +275,10 @@ thead > tr {
 
 td, tr {
   font-size: 1.1em;
-  line-height: 23px; 
+  line-height: 20px; 
   display: table-cell; }
 
-table th, table td {
+th {
   font-size: 1.1em;
   line-height: 2px; }
 
