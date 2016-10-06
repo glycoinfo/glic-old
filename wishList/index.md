@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Wish List
-css: wishliststyle.css
 redirect_from: /blog.html
 ---
 
