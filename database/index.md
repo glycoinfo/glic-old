@@ -39,7 +39,7 @@ layout: default
 | | |
 ---|---
 **Data in Database** | structure, databases references, species annotation
-**Search Options** | structure search, sub-structure search, similarity search,<br>maximum common substructure search, species search
+**Search Options** | structure search, sub-structure search, similarity search, maximum common substructure search, species search
 **Availability** | <http://www.glycome-db.org>
 **License** | None
 **Status** | stable, maintained
@@ -53,13 +53,13 @@ layout: default
   
 | | |
 ---|---
-**Data in Database** | structure, glycoproteins, site-specific information, databases references,<br>species annotation, tissue, cell line, biological fluid, methods
-**Search Options** | structure search, sub-structure search, species search, glycoprotein search,<br>UniProtKB accession number search, tissue search, composition search
+**Data in Database** | structure, glycoproteins, site-specific information, databases references, species annotation, tissue, cell line, biological fluid, methods
+**Search Options** | structure search, sub-structure search, species search, glycoprotein search, UniProtKB accession number search, tissue search, composition search
 **Availability** | <http://unicarbkb.org>
 **License** | CC
 **Status** | stable, maintained
-**Funding** | The National eResearch Collaboration Tools and Resources (NeCTAR) Project;<br>Swiss National Science Foundation
-**Future Plans** | Continued curation, better integration and support for GlycoRDF, improved search<br>and query functionality
+**Funding** | The National eResearch Collaboration Tools and Resources (NeCTAR) Project; Swiss National Science Foundation
+**Future Plans** | Continued curation, better integration and support for GlycoRDF, improved search and query functionality
 **Code Availablity** | Release 1 GitHub public, On-going developments BitBucket user managed
 **Contact** | -
 
@@ -68,8 +68,8 @@ layout: default
   
 | | |
 ---|---
-**Data in Database** | structures, NMR spectra, taxon annotations, bibliographic annatations,<br>databases references, supplementary data
-**Search Options** | structure search, sub-structure search, composition search, taxon search,<br>bibliography search, NMR signal search, id search
+**Data in Database** | structures, NMR spectra, taxon annotations, bibliographic annatations, databases references, supplementary data
+**Search Options** | structure search, sub-structure search, composition search, taxon search, bibliography search, NMR signal search, id search
 **Availability** | <http://csdb.glycoscience.ru>
 **License** | None (free)
 **Status** | stable, maintained
@@ -83,8 +83,8 @@ The SugarBind Database (SugarBindDB) covers knowledge of glycan binding of human
 
 | | |
 ---|---
-**Data in Database** | structure, pathogenic lectin/adhesin, protein-carbohydrate interactions,<br>cross-references, binding annotation, tissue, disease, symptoms, methods
-**Search Options** | species search, lectin search, ligand search, tissue search, disease search,<br>multi-criteria search
+**Data in Database** | structure, pathogenic lectin/adhesin, protein-carbohydrate interactions, cross-references, binding annotation, tissue, disease, symptoms, methods
+**Search Options** | species search, lectin search, ligand search, tissue search, disease search, multi-criteria search
 **Availability** | <http://sugarbind.expasy.org>
 **License** | CC
 **Status** | stable, maintained
@@ -98,8 +98,8 @@ The SugarBind Database (SugarBindDB) covers knowledge of glycan binding of human
   
 | | |
 ---|---
-**Data in Database** | structure, 3D structure models, pdb data, nmr shifts, species annotation,<br>literature references
-**Search Options** | structure search, sub-structure search, motif search, n-glycan properties search,<br>literature search, nmr peak search
+**Data in Database** | structure, 3D structure models, pdb data, nmr shifts, species annotation, literature references
+**Search Options** | structure search, sub-structure search, motif search, n-glycan properties search, literature search, nmr peak search
 **Availability** | <http://www.glycosciences.de/database>
 **License** | None
 **Status** | stable, maintained
@@ -143,7 +143,7 @@ The SugarBind Database (SugarBindDB) covers knowledge of glycan binding of human
   
 | | |
 ---|---
-**Data in Database** | Glycan structures, as images, GlycoCT and WURCS, and their motifs,<br>monosaccharides and linked to other related databases including GlycomeDB, BCSDB,<br>GlycoEpitope, with others continuing to be added. Each glycan structure is assigned a GlyTouCan ID.
+**Data in Database** | Glycan structures, as images, GlycoCT and WURCS, and their motifs, monosaccharides and linked to other related databases including GlycomeDB, BCSDB, GlycoEpitope, with others continuing to be added. Each glycan structure is assigned a GlyTouCan ID.
 **Search Options** | Graphical and textual substructure search, ID search and motif search
 **Availability** | <http://www.glytoucan.org>
 **License** | CC-BY
@@ -174,7 +174,7 @@ support the analysis of glycan array data for the Consortium for Functional Glyc
 
 | | |
 ---|---
-**Data in Database** | MS/MS spectra, structures, peak lists, references, methods, tissue<br>and taxonomy annotations
+**Data in Database** | MS/MS spectra, structures, peak lists, references, methods, tissue and taxonomy annotations
 **Search Options** | Species, tissue, composition, recorded mass, observed mass, peak list
 **Availability** | <http://www.unicarb-db.org>
 **License** | CC
