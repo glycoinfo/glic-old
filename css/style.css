@@ -280,7 +280,7 @@ td, tr {
 
 table th, table td {
   font-size: 1.1em;
-  line-height: 23px; }
+  line-height: 2px; }
 
 table thead {
   background: rgba(0, 0, 0, 0.15);
