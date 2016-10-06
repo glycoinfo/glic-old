@@ -281,14 +281,14 @@ th {
   font-size: 0em;
   line-height: 0px; }
 
-tr {
-  display: table-row; }
-
 th:empty {
   font-size: 0px;
   margin: 0;
   padding: 0;
   border: 0; }
+
+tr {
+  display: table-row; }
 	
   html {
       margin:0; padding:0;
