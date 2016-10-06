@@ -275,12 +275,12 @@ thead > tr {
 
 td, tr {
   font-size: 1.1em;
-  line-height: 20px; 
+  line-height: 23px; 
   display: table-cell; }
 
 th {
-  font-size: 1.1em;
-  line-height: 2px; }
+  font-size: 1em;
+  line-height: 1px; }
 
 table thead {
   background: rgba(0, 0, 0, 0.15);
