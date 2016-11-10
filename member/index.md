@@ -70,3 +70,8 @@ layout: default
 {% include contact-info.html name="Yukie Akune" %}
 
 {% include contact-info.html name="Yushi Takahashi" %}
+
+&nbsp;
+
+&nbsp;
+
