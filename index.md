@@ -13,11 +13,15 @@ List of past and upcoming [meetings](meetings).
 <h2>Members List</h2>
 Helpful page to know about GLIC [members](member).
 
+<br>
+
 <h2>Database Resources</h2>
 List of [database resources](database) with detail information available specific for glycoinformaticians.
 
 <h2>Software Tools</h2>
 List of [software tools](software) with detail information available specific for glycoinformaticians.
+
+<br>
 
 <h2>Wish List</h2>
 [Post](wishList) specific tools you wish to be developed.
