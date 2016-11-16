@@ -3,27 +3,27 @@ title: Glycoinformatics Consortium
 layout: top
 ---
 
-<h2>Welcome to the Glycoinformatics Consortium page!</h2>
- Variety of databases in glycoinformatics field has been developed in different countries as a result of glycoscience research projects. However, usage of these developed databases has became difficult because of closure of databases corresponding to ending of projects. The closure of databases is becoming obstacles in glycoscience research. The Glycoinformatics Consortium is found to solve the obstacles and glycoinformaticians to develop databases and tools with a coalition.<br>   
-The purpose of Glycoinformatics Consortium(GLIC) is to provide and maintain a centralized source software repository for the glycoscientists. In addition, it is aimed to provide communication point for glycoscientists and glycoinformaticians.
+## Welcome to the Glycoinformatics Consortium page!  
+A variety of databases in the glycoinformatics field has been developed in different countries as a result of glycoscience research projects. However, the usage of these developed databases has grown difficult because of the closure of databases that correspond to the ending of projects. The closure of databases has become an obstacle in glycoscience research. The Glycoinformatics Consortium is found to solve these obstacles and glycoinformaticians to develop databases and tools with a coalition.<br>  
+The purpose of Glycoinformatics Consortium(GLIC) is to provide and maintain a centralized source of software repository for the glycoscientists. In addition, it is aimed to be provided as a communication point for glycoscientists and glycoinformaticians.
 
 <br>
 
-<h2>Meetings</h2>
+## Meetings  
 List of past and upcoming [meetings](meetings).
 
-<h2>Members List</h2>
+## Members List  
 Helpful page to know about GLIC [members](member).
 
 <br>
 
-<h2>Database Resources</h2>
+## Database Resources  
 List of [database resources](database) with detail information available specific for glycoinformaticians.
 
-<h2>Software Tools</h2>
+## Software Tools  
 List of [software tools](software) with detail information available specific for glycoinformaticians.
 
 <br>
 
-<h2>Wish List</h2>
+## Wish List  
 [Post](wishList) specific tools you wish to be developed.
