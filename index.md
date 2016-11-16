@@ -18,10 +18,10 @@ Helpful page to know about GLIC [members](member).
 <br>
 
 ## Database Resources  
-List of [database resources](database) with detail information available specific for glycoinformaticians.
+List of [database resources](database) with detailed information available specifically for glycoinformaticians.
 
 ## Software Tools  
-List of [software tools](software) with detail information available specific for glycoinformaticians.
+List of [software tools](software) with detailed information available specifically for glycoinformaticians.
 
 <br>
 
