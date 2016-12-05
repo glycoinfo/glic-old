@@ -26,4 +26,4 @@ List of [software tools](software) with detailed information available specifica
 <br>
 
 ## Wish List  
-[Post](wishList) specific tools you wish to be developed.
+Fill out a [Form](wishList) for specific tools you wish to be developed.
