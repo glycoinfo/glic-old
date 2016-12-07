@@ -72,10 +72,11 @@
   
 - name: Joshua Klein
   github: mobiusklein
-  email:
-  url:
+  email: jaklein@bu.edu
+  url: "http://mobiusklein.github.io/"
   bio: |
-    Bioinformatics Ph.D. Candidate at Boston University, working for Joe Zaia.  Primary author of glypy, a glycoinformatics toolkit for python, taxonomylite, and the current incarnation of GlycReSoft, all of which are hosted publically on GitHub.  Primarily working in Python, JavaScript, SQL, and (to an extent) C.
+    Bioinformatics Ph.D. Candidate at Boston University, working for Joseph Zaia.  Author of <a href="https://github.com/mobiusklein/glypy">glypy</a>, a
+    glycoinformatics toolkit for Python. 
   
 - name: Julien Mariethoz
   github: julienmariethoz
