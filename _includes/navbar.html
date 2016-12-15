@@ -14,8 +14,13 @@ padding: 5px;;
 width: 130px;
 z-index: 100;
 position: fixed;
--webkit-transition: top 0.5s;
-transition: top 0.5s;
+    visibility:hidden;
+    opacity:0;
+    filter:alpha(opacity=0);
+    -webkit-transition:200ms ease;
+    -moz-transition:200ms ease;
+    -o-transition:200ms ease;
+    transition:200ms ease;
 }
 
 .floating-menu a, 
@@ -28,6 +33,9 @@ color: white;
 
 .floating-menu.fixed {
     top: 0;
+    visibility:visible;
+    opacity:1;
+    filter:alpha(opacity=100);
 }
 </style>
 
