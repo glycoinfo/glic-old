@@ -42,3 +42,17 @@ color: white;
 <a href="http://glic.glycoinfo.org/wishList/" target="_blank">Wishlist</a>
 
 </nav>
+
+<script type="text/javascript">
+(function($) {          
+    $(document).ready(function(){                    
+        $(window).scroll(function(){                          
+            if ($(this).scrollTop() > 200) {
+                $('.floating-menu.fixed').fadeIn(500);
+            } else {
+                $('.floating-menu.fixed').fadeOut(500);
+            }
+        });
+    });
+})(jQuery);
+</script>
