@@ -1,24 +1,43 @@
-<head>   
-   <link rel="stylesheet" type="text/css" href="https://github.com/glycoinfo/glic/blob/gh-pages/css/customnav.css">
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
-  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-  <style>
-  /* Note: Try to remove the following lines to see the effect of CSS positioning */
-  .affix {
-      top: 0px;
-  }
 
-  .affix + .container-fluid {
-      padding-top: 70px;
-  }
-  </style>
+<head>
+<!-- CSS -->	
+<style>
+body {
+background-image: url('/pix/samples/bg1.gif');
+}
+
+main {
+margin-bottom: 200%;
+}
+
+.floating-menu {
+font-family: sans-serif;
+background: yellowgreen;
+padding: 5px;;
+width: 130px;
+z-index: 100;
+position: fixed;
+}
+
+.floating-menu a, 
+.floating-menu h3 {
+font-size: 0.9em;
+display: block;
+margin: 0 0.5em;
+color: white;
+}
+</style>
+
 </head>
 
-<nav class="navbar navbar-glicdefault" data-spy="affix" data-offset-top="197">
-  <ul class="nav navbar-nav">
-    <li class="active"><a href="http://glic.glycoinfo.org/">Glic Home</a></li>
-    <li><a href="http://glic.glycoinfo.org/database/">Database</a></li>
-    <li><a href="http://glic.glycoinfo.org/software/">Software</a></li>
-    <li><a href="#">Wishlist List</a></li>
-  </ul>
+<!-- HTML -->
+
+<nav class="floating-menu">
+<h3>Floating Menu</h3>
+
+<a href="http://glic.glycoinfo.org/">Glic Home</a>
+<a href="http://glic.glycoinfo.org/database/">Database</a>
+<a href="http://glic.glycoinfo.org/software/">Software</a>
+<a href="http://glic.glycoinfo.org/wishList/">Wishlist</a>
+
 </nav>
