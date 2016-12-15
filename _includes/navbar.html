@@ -14,6 +14,8 @@ padding: 5px;;
 width: 130px;
 z-index: 100;
 position: fixed;
+-webkit-transition: top 0.5s;
+transition: top 0.5s;
 }
 
 .floating-menu a, 
@@ -22,6 +24,10 @@ font-size: 0.9em;
 display: block;
 margin: 0 0.5em;
 color: white;
+}
+
+.floating-menu.fixed {
+    top: 0;
 }
 </style>
 
