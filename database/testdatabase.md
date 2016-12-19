@@ -5,7 +5,7 @@ layout: databasescroll
 
 ##  1. Glossary for Database Resources<a name="glossary1">  
 
-### 1-1. Data<a name="glossary11">  
+### 1-1. Data  
   * **Structure**  
   Structure of a molecule represented in one or several sequence formats or graphicalrepresentation.  
   
@@ -15,7 +15,7 @@ layout: databasescroll
   * **Species annotation**  
   Biological annotation describing the species the structure is found.
 
-### 1-2. Search options<a name="glossary12"> 
+### 1-2. Search options  
   * **Structure search**  
   Allows searching for a structure by specifying is sequence.
   
