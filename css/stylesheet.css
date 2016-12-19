@@ -195,7 +195,7 @@ a {
   .main-content table th {
     font-weight: bold; }
   .main-content table th, .main-content table td {
-    padding: 0.5rem 1rem;
+    padding: 0.01rem 1rem;
     border: 1px solid #e9ebec;
     font-size:16px;}
   .main-content table td.title{
