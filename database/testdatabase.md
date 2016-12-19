@@ -103,7 +103,7 @@ The SugarBind Database (SugarBindDB) covers knowledge of glycan binding of human
 
 <br>
 
-### 2-5. [Glycosciences.DB](#data25)
+### 2-5. Glycosciences.DB<a name="data25">
   Database of the Glycosciences.de portal. Contains CarbBank structures + PDB carbohydrates + structures with NMR shifts extracted from the literature.
   
 | | |
