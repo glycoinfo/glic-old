@@ -3,8 +3,6 @@ title: Database Resources
 layout: databasescroll
 ---
 
-<br>  
-
 ##  1. Glossary for Database Resources<a name="glossary1">  
 
 ### 1-1. Data  
