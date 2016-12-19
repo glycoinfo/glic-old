@@ -4,7 +4,6 @@ layout: databasescroll
 ---
 
 <br>
-<br>
 
 ##  1. Glossary for Database Resources<a name="glossary1">  
 
