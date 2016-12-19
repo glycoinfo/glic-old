@@ -3,7 +3,9 @@ title: Database Resources
 layout: databasescroll
 ---
 
-##  1. Glossary for Database Resources<a name="glossary1">  
+<a name="glossary1">  
+
+##  1. Glossary for Database Resources  
 
 ### 1-1. Data  
   * **Structure**  
@@ -32,8 +34,9 @@ layout: databasescroll
   Search of structures based on their species annotation. This may allow for searches by higher species organization, such as Genus, Rank or Kingdoms.
   
 <br>
+  <a name="data2"> 
   
-## 2. Database Resources<a name="data2"> 
+## 2. Database Resources
 
 ### 2-1. GlycomeDB<a name="data21">
   Meta database that integrates the structures from several glycomics databases (CFG, KEGG, GLYCOSCIENCES.de, GlycoBase, JCGGDB, BCSDB, PDB, GlycO and Carbbank) into one consistent sequence representation and creating a unique index of all structures present in the integrated database. Species annotations from the other databases are retrieved as well and integrated using the NCBI Taxonomy. Each structure in GlycomeDB is linked back to the original database allowing finding and browsing all occurrences of a structure in multiple databases.
@@ -51,8 +54,9 @@ layout: databasescroll
 **Contact** | Rene Ranzinger: <rene@ccrc.uga.edu>
 
 <br>
+<a name="data22">
 
-### 2-2. UniCarbKB<a name="data22">
+### 2-2. UniCarbKB
   The UniCarb KnowledgeBase (UniCarbKB) offers public access to a growing, curated database of information on the glycan structures of glycoproteins. UniCarbKB is an international effort that aims to further our understanding of structures, pathways and networks involved in glycosylation and glyco-mediated processes by integrating structural, experimental and functional glycoscience information. This initiative builds upon the success of the glycan structure database GlycoSuiteDB, together with the informatic standards introduced by EUROCarbDB, to provide a high-quality and updated resource to support glycomics and glycoproteomics research. UniCarbKB provides comprehensive information concerning glycan structures, and published glycoprotein information including global and site-specific attachment information.
   
 | | |
