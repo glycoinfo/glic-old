@@ -36,10 +36,7 @@ layout: databasescroll
   Search of structures based on their species annotation. This may allow for searches by higher species organization, such as Genus, Rank or Kingdoms.
   
 <br>
-  <a name="data2"> 
- 
-<br>  
-<br>  
+  <a name="data2">  
 
 ## 2. Database Resources
 
@@ -59,9 +56,7 @@ layout: databasescroll
 **Contact** | Rene Ranzinger: <rene@ccrc.uga.edu>
 
 <br>  
-<a name="data22">
-<br>  
-<br>  
+<a name="data22">  
 
 ### 2-2. UniCarbKB
   The UniCarb KnowledgeBase (UniCarbKB) offers public access to a growing, curated database of information on the glycan structures of glycoproteins. UniCarbKB is an international effort that aims to further our understanding of structures, pathways and networks involved in glycosylation and glyco-mediated processes by integrating structural, experimental and functional glycoscience information. This initiative builds upon the success of the glycan structure database GlycoSuiteDB, together with the informatic standards introduced by EUROCarbDB, to provide a high-quality and updated resource to support glycomics and glycoproteomics research. UniCarbKB provides comprehensive information concerning glycan structures, and published glycoprotein information including global and site-specific attachment information.
