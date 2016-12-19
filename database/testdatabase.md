@@ -5,6 +5,8 @@ layout: databasescroll
 
 <a name="glossary1">  
 
+<br>
+
 ##  1. Glossary for Database Resources  
 
 ### 1-1. Data  
@@ -35,7 +37,9 @@ layout: databasescroll
   
 <br>
   <a name="data2"> 
-  
+ 
+<br>
+<br>
 ## 2. Database Resources
 
 ### 2-1. GlycomeDB<a name="data21">
@@ -55,7 +59,8 @@ layout: databasescroll
 
 <br>
 <a name="data22">
-
+<br>
+<br>
 ### 2-2. UniCarbKB
   The UniCarb KnowledgeBase (UniCarbKB) offers public access to a growing, curated database of information on the glycan structures of glycoproteins. UniCarbKB is an international effort that aims to further our understanding of structures, pathways and networks involved in glycosylation and glyco-mediated processes by integrating structural, experimental and functional glycoscience information. This initiative builds upon the success of the glycan structure database GlycoSuiteDB, together with the informatic standards introduced by EUROCarbDB, to provide a high-quality and updated resource to support glycomics and glycoproteomics research. UniCarbKB provides comprehensive information concerning glycan structures, and published glycoprotein information including global and site-specific attachment information.
   
