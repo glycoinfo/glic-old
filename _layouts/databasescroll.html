@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+  <style>
+  body {
+      position: relative;
+  }
+  .affix {
+      top: 20px;
+  }
+  div.col-sm-9 div {
+      height: 250px;
+      font-size: 28px;
+  }
+  #section1 {color: #fff; background-color: #1E88E5;}
+  #section2 {color: #fff; background-color: #673ab7;}
+  #section3 {color: #fff; background-color: #ff9800;}
+  #section41 {color: #fff; background-color: #00bcd4;}
+  #section42 {color: #fff; background-color: #009688;}
+  
+  @media screen and (max-width: 810px) {
+    #section1, #section2, #section3, #section41, #section42  {
+        margin-left: 150px;
+    }
+  }
+  </style>
+</head>
+<body data-spy="scroll" data-target="#myScrollspy" data-offset="15">
+
+<div class="container">
+  <div class="row">
+    <nav class="col-sm-3" id="myScrollspy">
+      <ul class="nav nav-pills nav-stacked" data-spy="affix" data-offset-top="205">
+        <li><a href="#glossary1">Glossary</a></li>
+        <li><a href="#glossary11">Data</a></li>
+        <li><a href="#glossary12">Search Options</a></li>
+        <li><a href="#data2">Database Resources</a></li>
+          <li class="dropdown">
+            <a class="dropdown-toggle" data-toggle="dropdown" href="#">Database Menu<span class="caret"></span></a>
+            <ul class="dropdown-menu">
+              <li><a href="#data21">GlycomeDB</a></li>
+              <li><a href="#data22">UniCarbKB</a></li>
+              <li><a href="#data23">Carbohydrate Structure Database (CSDB)</a></li>
+              <li><a href="#data24">SugarBindDB</a></li>
+              <li><a href="#data25">Glycosciences.DB</a></li>
+              <li><a href="#data26">MonosaccharideDB</a></li>
+              <li><a href="#data27">GlycoMapsDB</a></li>
+              <li><a href="#data28">GlyTouCan</a></li>
+              <li><a href="#data29">GlycoPattern</a></li>
+              <li><a href="#data210">UniCarb-DB</a></li>
+            </ul>
+          </li>
+<!--  Example for dropdown menus
+          <li class="dropdown">
+          <a class="dropdown-toggle" data-toggle="dropdown" href="#">Section 4 <span class="caret"></span></a>
+          <ul class="dropdown-menu">
+            <li><a href="#section41">Section 4-1</a></li>
+            <li><a href="#section42">Section 4-2</a></li>
+          </ul>
+        </li> -->
+      </ul>
+    </nav>
+    <div class="col-sm-9">
+      <a name="glossary1"></a>
+      <a name="glossary11"></a>        
+      <a name="glossary12"></a>
+      <a name="data2"></a>      
+      <a name="data21"></a>
+      <a name="data22"></a>
+      <a name="data23"></a>
+      <a name="data24"></a>
+      <a name="data25"></a>
+      <a name="data26"></a>
+      <a name="data27"></a>
+      <a name="data28"></a>
+      <a name="data29"></a>
+      <a name="data210"></a>
+    </div>
+  </div>
+</div>
+
+</body>
+</html>
