@@ -7,43 +7,46 @@
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
   <style>
-  body {
-      position: relative;
+ body {
+      position: relative; 
   }
   .affix {
-      top: 20px;
+      top:0;
+      width: 100%;
+      z-index: 9999 !important;
   }
-  div.col-sm-9 div {
-      height: 250px;
-      font-size: 28px;
+  .navbar {
+      margin-bottom: 0px;
   }
-  #section1 {color: #fff; background-color: #1E88E5;}
-  #section2 {color: #fff; background-color: #673ab7;}
-  #section3 {color: #fff; background-color: #ff9800;}
-  #section41 {color: #fff; background-color: #00bcd4;}
-  #section42 {color: #fff; background-color: #009688;}
-  
-  @media screen and (max-width: 810px) {
-    #section1, #section2, #section3, #section41, #section42  {
-        margin-left: 150px;
-    }
+
+  .affix ~ .container-fluid {
+     position: relative;
+     top: 50px;
   }
   </style>
 </head>
   
   {% include header.html %}
   
-<body data-spy="scroll" data-target="#myScrollspy" data-offset="15">
+<body data-spy="scroll" data-target=".navbar" data-offset="50">
   
      <h1>{{ page.title }}</h1>
    <section class="main-content">
             {{ content }}
           </section>
-
-<div class="container">
-  <div class="row">
-    <nav class="col-sm-3" id="myScrollspy">
-      <ul class="nav nav-pills nav-stacked" data-spy="affix" data-offset-top="205">
+<nav class="navbar navbar-inverse navbar-fixed-top">
+  <div class="container-fluid">
+    <div class="navbar-header">
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>                        
+      </button>
+      <a class="navbar-brand" href="#">WebSiteName</a>
+    </div>
+    <div>
+      <div class="collapse navbar-collapse" id="myNavbar">
+        <ul class="nav navbar-nav">
         <li><a href="#glossary1">Glossary</a></li>
         <li><a href="#glossary11">Data</a></li>
         <li><a href="#glossary12">Search Options</a></li>
@@ -71,13 +74,66 @@
             <li><a href="#section42">Section 4-2</a></li>
           </ul>
         </li> -->
+        </ul>
+      </div>
+    </div>
+  </div>
+</nav>    
+
+      <a name="glossary1" class="container-fluid"></a>
+      <a name="glossary11" class="container-fluid"></a>
+      <a name="glossary12" class="container-fluid"></a>
+      <a name="data2" class="container-fluid"></a>
+      <a name="data21" class="container-fluid"></a>
+      <a name="data22" class="container-fluid"></a>
+      <a name="data23" class="container-fluid"></a>
+      <a name="data24" class="container-fluid"></a>
+      <a name="data25" class="container-fluid"></a>
+      <a name="data26" class="container-fluid"></a>
+      <a name="data27" class="container-fluid"></a>
+      <a name="data28" class="container-fluid"></a>
+      <a name="data29" class="container-fluid"></a>
+      <a name="data210" class="container-fluid"></a>
+
+</body>
+<!-- <div class="container">
+  <div class="row">
+    <nav class="col-sm-3" id="myScrollspy">
+      <ul class="nav nav-pills nav-stacked" data-spy="affix" data-offset-top="205">
+        <li><a href="#glossary1">Glossary</a></li>
+        <li><a href="#glossary11">Data</a></li>
+        <li><a href="#glossary12">Search Options</a></li>
+        <li><a href="#data2">Database Resources</a></li>
+          <li class="dropdown">
+            <a class="dropdown-toggle" data-toggle="dropdown" href="#">Database Menu<span class="caret"></span></a>
+            <ul class="dropdown-menu">
+              <li><a href="#data21">GlycomeDB</a></li>
+              <li><a href="#data22">UniCarbKB</a></li>
+              <li><a href="#data23">Carbohydrate Structure Database (CSDB)</a></li>
+              <li><a href="#data24">SugarBindDB</a></li>
+              <li><a href="#data25">Glycosciences.DB</a></li>
+              <li><a href="#data26">MonosaccharideDB</a></li>
+              <li><a href="#data27">GlycoMapsDB</a></li>
+              <li><a href="#data28">GlyTouCan</a></li>
+              <li><a href="#data29">GlycoPattern</a></li>
+              <li><a href="#data210">UniCarb-DB</a></li>
+            </ul>
+          </li>
+  Example for dropdown menus
+          <li class="dropdown">
+          <a class="dropdown-toggle" data-toggle="dropdown" href="#">Section 4 <span class="caret"></span></a>
+          <ul class="dropdown-menu">
+            <li><a href="#section41">Section 4-1</a></li>
+            <li><a href="#section42">Section 4-2</a></li>
+          </ul>
+        </li>
       </ul>
     </nav>
     <div class="col-sm-9">
       <a name="glossary1"></a>
-      <a name="glossary11"></a>        
+      <a name="glossary11"></a>
       <a name="glossary12"></a>
-      <a name="data2"></a>      
+      <a name="data2"></a>
       <a name="data21"></a>
       <a name="data22"></a>
       <a name="data23"></a>
@@ -92,7 +148,7 @@
   </div>
 </div>
 
-</body>
+</body> -->
   
   {% include footer.html %}
 <script>
