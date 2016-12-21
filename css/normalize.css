@@ -544,6 +544,8 @@ th {
 }
 .nav-pills > li > a {
   border-radius: 4px;
+  padding: 5px 10px;
+  font-size: 14px;
 }
 .nav-pills > li + li {
   margin-left: 2px;
