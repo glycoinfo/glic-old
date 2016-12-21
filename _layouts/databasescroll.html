@@ -10,11 +10,7 @@
   ul.nav-pills {
       position: fixed;
   }
-  div.col-sm-11 div {
-      height: 250px;
-      font-size: 28px;
-  }
-  
+ 
   @media screen and (max-width: 810px) {
     #section1, #section2, #section3, #section41, #section42  {
         margin-left: 150px;
@@ -30,12 +26,12 @@
 <body data-spy="scroll" data-target="#myScrollspy" data-offset="20">
 
 <div class="container">
-  <div class="row">
-    <nav class="col-sm-1" id="myScrollspy">
+    <nav id="myScrollspy">
       <ul class="nav nav-pills nav-stacked" data-spy="affix" data-offset-top="205">
               <li><a href="#glossary1">Glossary</a></li>
+              <li><a href="#data2">Database Resources</a></li>
           <li class="dropdown">
-          <a class="dropdown-toggle" data-toggle="dropdown" href="#data2">Database Resources <span class="caret"></span></a>
+          <a class="dropdown-toggle" data-toggle="dropdown" href="#">Database Menue <span class="caret"></span></a>
           <ul class="dropdown-menu">
               <li><a href="#data21">GlycomeDB</a></li>
               <li><a href="#data22">UniCarbKB</a></li>
@@ -63,7 +59,6 @@
    <section class="main-content">
             {{ content }}
      
-         <div class="col-sm-9">
       <a name="glossary1"></a>
       <a name="glossary11"></a>
       <a name="glossary12"></a>
@@ -78,10 +73,8 @@
       <a name="data28"></a>
       <a name="data29"></a>
       <a name="data210"></a>
-           </div>
 
       </section>
-    </div>
   </div>
 
      
