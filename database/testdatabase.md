@@ -70,6 +70,8 @@ layout: databasescroll
 
 <br>
 
+<br>
+
 ### 2-2. UniCarbKB  
   The UniCarb KnowledgeBase (UniCarbKB) offers public access to a growing, curated database of information on the glycan structures of glycoproteins. UniCarbKB is an international effort that aims to further our understanding of structures, pathways and networks involved in glycosylation and glyco-mediated processes by integrating structural, experimental and functional glycoscience information. This initiative builds upon the success of the glycan structure database GlycoSuiteDB, together with the informatic standards introduced by EUROCarbDB, to provide a high-quality and updated resource to support glycomics and glycoproteomics research. UniCarbKB provides comprehensive information concerning glycan structures, and published glycoprotein information including global and site-specific attachment information.
  
@@ -86,6 +88,8 @@ layout: databasescroll
 **Contact** | -
 
 <a name="data23"></a>
+
+<br>
 
 <br>
 
@@ -108,6 +112,8 @@ layout: databasescroll
 
 <br>
 
+<br>
+
 ### 2-4. SugarBindDB  
 The SugarBind Database (SugarBindDB) covers knowledge of glycan binding of human pathogen lectins and adhesins. It is a curated database; each glycan-binding event is associated with at least one published reference. The core data of SugarBindDB is a triple constituted of a pathogenic agent, a lectin/adhesin and a glycan ligand. SugarBindDB content is displayed in views. All views are interconnected.
 
@@ -124,6 +130,8 @@ The SugarBind Database (SugarBindDB) covers knowledge of glycan binding of human
 **Contact** | -
 
 <a name="data25"></a>
+
+<br>
 
 <br>
 
@@ -146,6 +154,8 @@ The SugarBind Database (SugarBindDB) covers knowledge of glycan binding of human
 
 <br>
 
+<br>
+
 ### 2-6. MonosaccharideDB  
   Monosaccharide database. Contains monosaccharides + name parsing / encoding routines.
 
@@ -162,6 +172,8 @@ The SugarBind Database (SugarBindDB) covers knowledge of glycan binding of human
 **Contact** | Thomas Lütteke: <thomas.luetteke@vetmed.uni-giessen.de>
 
 <a name="data27"></a>
+
+<br>
 
 <br>
 
@@ -184,6 +196,8 @@ The SugarBind Database (SugarBindDB) covers knowledge of glycan binding of human
 
 <br>
 
+<br>
+
 ### 2-8. GlyTouCan
   Glycan structure/sequence/composition repository
   
@@ -200,6 +214,8 @@ The SugarBind Database (SugarBindDB) covers knowledge of glycan binding of human
 **Contact** | Kiyoko F. Aoki-Kinoshita: <kkiyoko@soka.ac.jp>
 
 <a name="data29"></a>
+
+<br>
 
 <br>
 
@@ -220,6 +236,8 @@ support the analysis of glycan array data for the Consortium for Functional Glyc
 **Contact** | <sanjay.agravat@emory.edu>
 
 <a name="data210"></a>
+
+<br>
 
 <br>
 
