@@ -425,6 +425,10 @@ th {
 }
 
 /* Nav bar (taken from bootstrap css) */
+
+.affix {
+  position: fixed;
+}
     
 .nav {
   padding-left: 0;
