@@ -425,14 +425,6 @@ th {
 }
 
 /* Nav bar (taken from bootstrap css) */
-
-.navbar {
-    display: none;
-  }
-  .btn > .caret,
-  .dropup > .btn > .caret {
-    border-top-color: #000 !important;
-}
     
 .nav {
   padding-left: 0;
