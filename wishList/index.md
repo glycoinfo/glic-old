@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Wish List
+title: Wishlist Form
 redirect_from: /blog.html
 ---
 
