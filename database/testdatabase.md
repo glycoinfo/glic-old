@@ -3,7 +3,6 @@ title: Database Resources
 layout: databasescroll
 ---
 
-{% include topnavbar.html %}
 
 <br>  
 <a name="glossary1"></a>
