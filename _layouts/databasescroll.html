@@ -26,8 +26,18 @@ body {
   <div class="row">
     <nav class="col-sm-3" id="myScrollspy">
       <ul class="nav nav-pills nav-stacked" data-spy="affix" data-offset-top="205">
-              <li><a href="#glossary1">Glossary</a></li>
-              <li><a href="#data2">Database Resources</a></li>
+        <li class="dropdown">
+          <a class="dropdown-toggle" data-toggle="dropdown" href="#">Glossary<span class="caret"></span></a>
+          <ul class="dropdown-menu">
+              <li type="button" class="btn btn-default" data-container="body" data-toggle="popover" data-placement="right" data-content="Structure
+Structure of a molecule represented in one or several sequence formats or graphicalrepresentation.
+
+Database reference
+References to other databases of the same type containing the same molecule.
+
+Species annotation
+Biological annotation describing the species the structure is found.">Data</li>
+          </ul>
           <li class="dropdown">
           <a class="dropdown-toggle" data-toggle="dropdown" href="#">Database Menu <span class="caret"></span></a>
           <ul class="dropdown-menu">
