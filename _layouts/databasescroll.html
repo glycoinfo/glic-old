@@ -29,16 +29,12 @@ body {
         <li class="dropdown">
           <a class="dropdown-toggle" data-toggle="dropdown" href="#">Glossary<span class="caret"></span></a>
           <ul class="dropdown-menu">
-              <button type="button" class="btn btn-default" data-container="body" data-toggle="popover" data-placement="right" data-content="Structure
-Structure of a molecule represented in one or several sequence formats or graphicalrepresentation.
-
-Database reference
-References to other databases of the same type containing the same molecule.
-
-Species annotation
-Biological annotation describing the species the structure is found.">Data</button>
-          </ul>
-        </li>
+              <li><a tabindex="0" class="btn btn-lg btn-danger" role="button" data-toggle="popover" data-trigger="focus" title="Dismissible popover" data-content="Structure: Structure of a molecule represented in one or several sequence formats or graphicalrepresentation.
+                Database reference: References to other databases of the same type containing the same molecule.
+                Species annotation: Biological annotation describing the species the structure is found.">Data</a>
+              </li>
+           </ul>
+         </li>
           <li class="dropdown">
           <a class="dropdown-toggle" data-toggle="dropdown" href="#">Database Menu <span class="caret"></span></a>
           <ul class="dropdown-menu">
@@ -98,6 +94,10 @@ Biological annotation describing the species the structure is found.">Data</butt
   })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
   ga('create', 'UA-62826829-1', 'auto');
   ga('send', 'pageview');
+</script>
+  
+<script>
+  $('#example').popover(options)
 </script>
   
 </html>
