@@ -35,8 +35,6 @@ layout: databasescroll
   * **Search by species**  
   Search of structures based on their species annotation. This may allow for searches by higher species organization, such as Genus, Rank or Kingdoms.
 
-<a name="data2"></a>
-
 <br>
 
 <br>
