@@ -26,13 +26,6 @@ body {
   <div class="row">
     <nav class="col-sm-3" id="myScrollspy">
       <ul class="nav nav-pills nav-stacked" data-spy="affix" data-offset-top="205">
-        <li class="dropdown">
-          <a class="dropdown-toggle" data-toggle="dropdown" href="#">Glossary<span class="caret"></span></a>
-          <ul class="dropdown-menu">
-              <li><a tabindex="0" data-container="body" class="btn btn-primary" id="glossary11" role="button" data-toggle="popover" data-trigger="focus" title="Data">Data</a>
-              </li>
-           </ul>
-         </li>
           <li class="dropdown">
           <a class="dropdown-toggle" data-toggle="dropdown" href="#">Database Menu <span class="caret"></span></a>
           <ul class="dropdown-menu">
@@ -88,25 +81,6 @@ body {
   })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
   ga('create', 'UA-62826829-1', 'auto');
   ga('send', 'pageview');
-</script>
-  
-<script>
-  $(document).ready(function(){
-    $('[data-toggle="popover"]').popover();
-    
-        $("#glossary11").popover({
-        title: '<h3 class="custom-title"><span class="glyphicon glyphicon-info-sign"></span> Popover Info</h3>',
-        content: '<p>This is a <em>simple example</em> demonstrating how to insert HTML code inside <mark><strong>Bootstrap popover</strong></mark>.</p>',
-        html: true
-    }); 
-    
-    $("#glossary").popover({container : 'body'});
-    $(".pop-top").popover({placement : 'top'});
-    $(".pop-right").popover({placement : 'right'});
-    $(".pop-bottom").popover({placement : 'bottom'});
-    $(".pop-left").popover({ placement : 'left'});
-});
-  
 </script>
   
 </html>
