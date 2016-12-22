@@ -53,8 +53,8 @@ body {
          <li class="dropdown">
           <a class="dropdown-toggle" data-toggle="dropdown" href="#">Glossary<span class="caret"></span></a>
             <ul class="dropdown-menu">
-        <li><button data-keepOpenOnClick type="button" class="btn btn-block" id="glossary11" data-toggle="popover">Data</button></li>
-        <li><button data-keepOpenOnClick type="button" class="btn btn-block" id="glossary12" data-toggle="popover">Search Option</button></li>
+        <li><button data-keepOpenOnClick type="button" class="btn btn-block btn-info" id="glossary11" style="margin-bottom: 5px;" data-toggle="popover">Data</button></li>
+        <li><button data-keepOpenOnClick type="button" class="btn btn-block btn-primary" id="glossary12" data-toggle="popover">Search Option</button></li>
             </ul>
           </li>
       </ul>
@@ -127,6 +127,8 @@ $(document).delegate("ul.dropdown-menu [data-keepOpenOnClick]", "click", functio
     /* Custom styles for popover */
     .custom-title{
         margin: 0;
+	    width: 500px;
+	    overflow-y: auto;
     }
     .custom-title .glyphicon{
         vertical-align: top;
