@@ -29,7 +29,7 @@ body {
         <li class="dropdown">
           <a class="dropdown-toggle" data-toggle="dropdown" href="#">Glossary<span class="caret"></span></a>
           <ul class="dropdown-menu">
-              <li><a tabindex="0" class="btn btn-primary" id="glossary11" role="button" data-toggle="popover" data-trigger="focus" title="Data">Data</a>
+              <li><a tabindex="0" data-container="body" class="btn btn-primary" id="glossary11" role="button" data-toggle="popover" data-trigger="focus" title="Data">Data</a>
               </li>
            </ul>
          </li>
@@ -100,6 +100,7 @@ body {
         html: true
     }); 
     
+    $("#glossary").popover({container : 'body'});
     $(".pop-top").popover({placement : 'top'});
     $(".pop-right").popover({placement : 'right'});
     $(".pop-bottom").popover({placement : 'bottom'});
