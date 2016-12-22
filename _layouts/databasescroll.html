@@ -41,7 +41,7 @@ body {
               <li><a href="#data210">UniCarb-DB</a></li>
              </ul>
           </li>
-        <li><button class="btn">Click me</button></li>
+        <li><button type="button" class="btn" id="glossary11" data-toggle="popover">Glossary</button></li>
       </ul>
         <!--  Example for dropdown menus
           <li class="dropdown">
@@ -84,10 +84,26 @@ body {
   ga('send', 'pageview');
 </script>
   
-<script>
+<script type="text/javascript">
 $(document).ready(function(){
-    $('.btn').popover({title: "<h1><strong>HTML</strong> inside <code>the</code> <em>popover</em></h1>", content: "Blabla <br> <h2>Cool stuff!</h2>", html: true, placement: "right"}); 
+    $("#glossary11").popover({
+        title: '<h3 class="custom-title"><span class="glyphicon glyphicon-info-sign"></span>Data</h3>',
+        content : "<p><strong>Structure:</strong> Structure of a molecule represented in one or several sequence formats or graphicalrepresentation.<br><strong>Database reference:</strong> References to other databases of the same type containing the same molecule.<br><strong>Species annotation:</strong>Biological annotation describing the species the structure is found.</p>",
+        html: true
+    }); 
 });
 </script>
+<style type="text/css">
+	.bs-example{
+    	margin: 100px 150px;
+    }
+    /* Custom styles for popover */
+    .custom-title{
+        margin: 0;
+    }
+    .custom-title .glyphicon{
+        vertical-align: top;
+    }
+</style>
   
 </html>
