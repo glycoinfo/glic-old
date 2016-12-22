@@ -12,13 +12,8 @@ body {
       position: fixed;
 }
 	  
-.popover.right {
-  margin-left: 10px;
-  margin-top: 40px;
-}
-	  
 .popover.right > .arrow {
-  top: 50%;
+  top: 50px;
 }
 	  
   </style>
@@ -102,13 +97,13 @@ body {
 <script type="text/javascript">
 $(document).ready(function(){
     $("#glossary11").popover({
-        title: '<h3 class="custom-title"><span class="glyphicon glyphicon-info-sign"></span>Data</h3>',
+        title: '<h3 class="custom-title">Data</h3>',
         content : "<p><strong>Structure:</strong> Structure of a molecule represented in one or several sequence formats or graphicalrepresentation.<br><br><strong>Database reference:</strong> References to other databases of the same type containing the same molecule.<br><br><strong>Species annotation:</strong> Biological annotation describing the species the structure is found.</p>",
         html: true
     }); 
     
     $("#glossary12").popover({
-        title: '<h3 class="custom-title"><span class="glyphicon glyphicon-info-sign"></span>Search Option</h3>',
+        title: '<h3 class="custom-title">Search Option</h3>',
         content : "<p><strong>Structure search:</strong> Allows searching for a structure by specifying a sequence.<br><br><strong>Sub-structure search:</strong> Search for structure based on a query structure that is a substructure of the structures in the search result.<br><br><strong>Maximum common substructure search (MCS):</strong> Search of structures based on shared substructures with the query structure. The less query structure and another structure have in common the lower the score. If query structure and queried structure are identical or the query structure is subsumed by the other structure the score is maximum.<br><br><strong>Similarity search:</strong> Search structures that are similar to a query structure. This search is different to the sub-structure search or the MCS search those residues and linkages may vary between the query and result structure.<br><br><strong>Search by species:</strong> Search of structures based on their species annotation. This may allow for searches by higher species organization, such as Genus, Rank or Kingdoms.</p>",
         html: true
     }); 
@@ -121,17 +116,14 @@ $(document).delegate("ul.dropdown-menu [data-keepOpenOnClick]", "click", functio
 </script>
 	
 <style type="text/css">
-	.bs-example{
-    	margin: 100px 150px;
-    }
     /* Custom styles for popover */
     .custom-title{
         margin: 0;
 	    width: 500px;
-	    overflow-y: auto;
     }
-    .custom-title .glyphicon{
-        vertical-align: top;
+    .popover-content{
+        height: 200px;
+        overflow-y:auto;
     }
 </style>
   
