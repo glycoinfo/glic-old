@@ -40,17 +40,18 @@ body {
               <li><a href="#data29">GlycoPattern</a></li>
               <li><a href="#data210">UniCarb-DB</a></li>
              </ul>
-        </li>
-            </ul>
-<!--  Example for dropdown menus
+          </li>
+        <li><button class="btn">Click me</button></li>
+      </ul>
+        <!--  Example for dropdown menus
           <li class="dropdown">
           <a class="dropdown-toggle" data-toggle="dropdown" href="#">Section 4 <span class="caret"></span></a>
-          <ul class="dropdown-menu">
-            <li><a href="#section41">Section 4-1</a></li>
-            <li><a href="#section42">Section 4-2</a></li>
-          </ul>
-        </li> -->
-      </nav>
+            <ul class="dropdown-menu">
+              <li><a href="#section41">Section 4-1</a></li>
+             <li><a href="#section42">Section 4-2</a></li>
+            </ul>
+          </li> -->
+    </nav>
   </div>
   
    <section class="main-content">
@@ -81,6 +82,12 @@ body {
   })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
   ga('create', 'UA-62826829-1', 'auto');
   ga('send', 'pageview');
+</script>
+  
+<script>
+$(document).ready(function(){
+    $('.btn').popover({title: "<h1><strong>HTML</strong> inside <code>the</code> <em>popover</em></h1>", content: "Blabla <br> <h2>Cool stuff!</h2>", html: true, placement: "right"}); 
+});
 </script>
   
 </html>
