@@ -3,6 +3,8 @@ title: Database Resources
 layout: databasescroll
 ---
 
+<br>
+
 ## 2. Database Resources
 
 <a name="data21"></a>
@@ -13,6 +15,8 @@ layout: databasescroll
 
 ### 2-1. GlycomeDB  
   Meta database that integrates the structures from several glycomics databases (CFG, KEGG, GLYCOSCIENCES.de, GlycoBase, JCGGDB, BCSDB, PDB, GlycO and Carbbank) into one consistent sequence representation and creating a unique index of all structures present in the integrated database. Species annotations from the other databases are retrieved as well and integrated using the NCBI Taxonomy. Each structure in GlycomeDB is linked back to the original database allowing finding and browsing all occurrences of a structure in multiple databases.
+
+<br>
 
 | | |
 ---|---
@@ -35,6 +39,8 @@ layout: databasescroll
 ### 2-2. UniCarbKB  
   The UniCarb KnowledgeBase (UniCarbKB) offers public access to a growing, curated database of information on the glycan structures of glycoproteins. UniCarbKB is an international effort that aims to further our understanding of structures, pathways and networks involved in glycosylation and glyco-mediated processes by integrating structural, experimental and functional glycoscience information. This initiative builds upon the success of the glycan structure database GlycoSuiteDB, together with the informatic standards introduced by EUROCarbDB, to provide a high-quality and updated resource to support glycomics and glycoproteomics research. UniCarbKB provides comprehensive information concerning glycan structures, and published glycoprotein information including global and site-specific attachment information.
  
+ <br>
+ 
 | | |
 ---|---
 **Data in Database** | structure, glycoproteins, site-specific information, databases references, species annotation, tissue, cell line, biological fluid, methods
@@ -55,7 +61,9 @@ layout: databasescroll
 
 ### 2-3. Carbohydrate Structure Database (CSDB)  
   The Carbohydrate Structure Databases (CSDBs) store structural, bibliographic, taxonomic, NMR spectroscopic, and other data on natural carbohydrates and their derivatives published in the scientific literature. The CSDB project was launched in 2005 for bacterial saccharides (as BCSDB). Currently, it includes two parts, the Bacterial CSDB and the Plant&Fungal CSDB. In March 2015, these databases were merged to the single Carbohydrate Structure Database (CSDB). The combined CSDB includes information on bacterial and archaeal glycans and derivatives (the coverage is close to complete), as well as on plant and fungal glycans and glycoconjugates (almost all structures published up to 1998). CSDB is regularly updated via manual expert annotation of original publications. Both newly annotated data and data imported from other databases are manually curated. The CSDB data are exportable in a number of modern formats, such as GlycoRDF. CSDB provides additional services for simulation of 1H, 13C and 2D NMR spectra of saccharides, NMR-based structure prediction, glycan-based taxon clustering, and other.
-  
+
+<br>
+
 | | |
 ---|---
 **Data in Database** | structures, NMR spectra, taxon annotations, bibliographic annatations, databases references, supplementary data
@@ -76,6 +84,8 @@ layout: databasescroll
 
 ### 2-4. SugarBindDB  
 The SugarBind Database (SugarBindDB) covers knowledge of glycan binding of human pathogen lectins and adhesins. It is a curated database; each glycan-binding event is associated with at least one published reference. The core data of SugarBindDB is a triple constituted of a pathogenic agent, a lectin/adhesin and a glycan ligand. SugarBindDB content is displayed in views. All views are interconnected.
+
+<br>
 
 | | |
 ---|---
@@ -98,6 +108,8 @@ The SugarBind Database (SugarBindDB) covers knowledge of glycan binding of human
 ### 2-5. Glycosciences.DB  
   Database of the Glycosciences.de portal. Contains CarbBank structures + PDB carbohydrates + structures with NMR shifts extracted from the literature.
 
+<br>
+
 | | |
 ---|---
 **Data in Database** | structure, 3D structure models, pdb data, nmr shifts, species annotation, literature references
@@ -118,6 +130,8 @@ The SugarBind Database (SugarBindDB) covers knowledge of glycan binding of human
 
 ### 2-6. MonosaccharideDB  
   Monosaccharide database. Contains monosaccharides + name parsing / encoding routines.
+
+<br>
 
 | | |
 ---|---
@@ -140,6 +154,8 @@ The SugarBind Database (SugarBindDB) covers knowledge of glycan binding of human
 ### 2-7. GlycoMapsDB  
   Database of conformational maps of glycosidic linkages
 
+<br>
+
 | | |
 ---|---
 **Data in Database** | conformational maps derived from MD simulations
@@ -160,7 +176,9 @@ The SugarBind Database (SugarBindDB) covers knowledge of glycan binding of human
 
 ### 2-8. GlyTouCan
   Glycan structure/sequence/composition repository
-  
+
+<br>
+
 | | |
 ---|---
 **Data in Database** | Glycan structures, as images, GlycoCT and WURCS, and their motifs, monosaccharides and linked to other related databases including GlycomeDB, BCSDB, GlycoEpitope, with others continuing to be added. Each glycan structure is assigned a GlyTouCan ID.
@@ -183,6 +201,8 @@ The SugarBind Database (SugarBindDB) covers knowledge of glycan binding of human
   GlycoPattern is Web-based bioinformatics resource to
 support the analysis of glycan array data for the Consortium for Functional Glycomics. This resource includes algorithms and tools to discover structural motifs, a heatmap visualization to compare multiple experiments, hierarchical clustering of Glycan Binding Proteins with respect to their binding motifs and a structural search feature on the experimental data.
 
+<br>
+
 | | |
 ---|---
 **Data in Database** | -
@@ -203,7 +223,9 @@ support the analysis of glycan array data for the Consortium for Functional Glyc
 
 ### 2-10. UniCarb-DB  
   UniCarb-DB is the glycomics fragmentation database that stores, integrates and processes data from manually annotated ms spectra.
-  
+
+<br>
+
 | | |
 ---|---
 **Data in Database** | MS/MS spectra, structures, peak lists, references, methods, tissue and taxonomy annotations
