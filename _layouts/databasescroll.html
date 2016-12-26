@@ -12,6 +12,10 @@ body {
       position: fixed;
       left: 10px;
 }	  
+
+ul.navplacement-bottom {
+	top: 300px;
+}
   </style>
 </head>
   
@@ -26,9 +30,6 @@ body {
   <div class="row">
     <nav class="col-sm-3" id="myScrollspy">
       <ul class="nav nav-pills nav-stacked" data-spy="affix" data-offset-top="205">
-	<li class="dropdown">
-          <a class="dropdown-toggle" data-toggle="dropdown" href="#">Database Menu <span class="caret"></span></a>
-          <ul class="dropdown-menu">
               <li><a href="#data21">GlycomeDB</a></li>
               <li><a href="#data22">UniCarbKB</a></li>
               <li><a href="#data23">Carbohydrate Structure Database (CSDB)</a></li>
@@ -39,15 +40,10 @@ body {
               <li><a href="#data28">GlyTouCan</a></li>
               <li><a href="#data29">GlycoPattern</a></li>
               <li><a href="#data210">UniCarb-DB</a></li>
-	   </ul>
-	</li>
-         <li class="dropdown">
-         <a class="dropdown-toggle" data-toggle="dropdown" href="#">Database Menu <span class="caret"></span></a>
-        <ul class="dropdown-menu">
+	<ul class="navplacement-bottom">      
         <li><button data-keepOpenOnClick data-placement="bottom" type="button" class="btn btn-block btn-info" id="glossary11" style="margin-bottom: 5px;" data-toggle="popover">Data</button></li>
         <li><button data-keepOpenOnClick data-placement="bottom" type="button" class="btn btn-block btn-primary" id="glossary12" data-toggle="popover">Search Option</button></li>
 	</ul>
-	 </li>
 	</ul>
         <!--  Example for dropdown menus
           <li class="dropdown">
