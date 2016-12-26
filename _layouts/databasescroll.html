@@ -414,15 +414,16 @@ $(".pop-bottom").popover({placement : 'bottom'
 
       if (isClosed == true) {          
         overlay.show();
-        trigger.removeClass('is-closed');
-        trigger.addClass('is-open');
-        isClosed = true;
+	trigger.removeClass('is-open');
+        trigger.addClass('is-closed');
+        isClosed = false;
+        
 
       } else {   
         overlay.hide();
-        trigger.removeClass('is-open');
-        trigger.addClass('is-closed');
-        isClosed = false;
+        trigger.removeClass('is-closed');
+        trigger.addClass('is-open');
+        isClosed = true;
       }
   }
   
