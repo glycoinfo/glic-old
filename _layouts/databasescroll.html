@@ -399,9 +399,6 @@ $(document).ready(function(){
         content : "<p><strong>Structure:</strong> Structure of a molecule represented in one or several sequence formats or graphical representation.<br><strong>Database reference:</strong> References to other databases of the same type containing the same molecule.<br><strong>Species annotation:</strong> Biological annotation describing the species the structure is found.</p>",
         html: true
     });
-	$("#datapop").click(function() {
-      $(".popover").css("width", "400px");
-    });
 	
 	$("#searchpop").popover({
         title: '<h3>Search options</h3>',
@@ -410,7 +407,7 @@ $(document).ready(function(){
     }); 
 });
 	
-	$('[data-toggle="popover"]').popover({
+$('[data-toggle="popover"]').popover({
     container: 'body'
 });
 	
