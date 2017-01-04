@@ -336,7 +336,9 @@ html { height: 100%;}
 		    <br>
 		    <br>
 		    <br>
-		    <li><p>Glossary</p></li>
+		    <br>
+		    <br>
+		    <li><p style="color: lightsteelblue;" >Glossary</p></li>
 		    <li><button type="button" data-container="body" class="btn btn-primary btn-sm" id="datapop" data-toggle="popover">Data</button></li>
 		    <li><button type="button" data-container="body" class="btn btn-info btn-sm" id="searchpop" data-toggle="popover">Search options</button></li>
 		</ul>
@@ -402,7 +404,7 @@ $(document).ready(function(){
 	
 	$("#searchpop").popover({
         title: '<h3>Search options</h3>',
-        content : "<p><strong>Structure search:</strong> Allows searching for a structure by specifying a sequence.<br><strong>Sub-structure search:</strong> Search for structure based on a query structure that is a substructure in the search result.<br><strong>Maximum common substructure search(MCS):</strong> Search of structures based on shared substructures with the query structure.<br><strong>Similarity search:</strong> Search structures that are similar to a query structure.<br><strong>Search by species:</strong> Search of structures based on their species annotation.</p>",
+        content : "<p><strong>Structure search:</strong> Allows searching for a structure by specifying a sequence.<br><strong>Sub-structure search:</strong> Search for structure based on a query structure that is a substructure in the search result.<br><strong>Maximum common substructure search(MCS):</strong> Search of structures based on shared substructures with the query structure. <br><strong>Similarity search:</strong> Search structures that are similar to a query structure.<br><strong>Search by species:</strong> Search of structures based on their species annotation.</p>",
         html: true
     }); 
 	
