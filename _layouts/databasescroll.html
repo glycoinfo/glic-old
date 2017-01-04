@@ -404,12 +404,12 @@ $(document).ready(function(){
 });
 </script>
 	
-<script type="text/javascript">
+<script>
 $(document).ready(function(){
-    // Append popover HTML to wrapper element
-    $("#myPopovers a").popover({
-		container: '.wrapper5'
-	}); 
+// Contain the popover within the body NOT the element it was called in.
+$('[data-toggle="popover"]').popover({
+    container: 'body'
+	});
 });
 </script>
 
@@ -417,9 +417,10 @@ $(document).ready(function(){
 	.bs-example{
     	margin: 100px 50px;
     }
-	.wrapper5{
-		max-width: 100%;
-	}
+	/* The max width is dependant on the container (more info below) */
+.popover{
+    max-width: 100%; /* Max Width of the popover (depending on the container!) */
+}
     /* Custom styles for popover */
     .custom-title{
         margin: 0;
