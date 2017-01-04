@@ -331,8 +331,11 @@ html { height: 100%;}
               <li><a href="#data28">GlyTouCan</a></li>
               <li><a href="#data29">GlycoPattern</a></li>
               <li><a href="#data210">UniCarb-DB</a></li>
-		    <li><p><strong>Data</strong><br><strong>Structure:</strong> Structure of a molecule represented in one or several sequence formats or graphical representation.<br><strong>Database reference:</strong> References to other databases of the same type containing the same molecule.<br><strong>Species annotation:</strong> Biological annotation describing the species the structure is found.</p></li>
-		    <li><p><strong>Search Option</strong><br><strong>Structure:</strong>Allows searching for a structure by specifying a sequence.<br><strong>Sub-structure:</strong>Search for structure based on a query structure that is a substructure in the search result.<br><strong>Maximum common substructure(MCS):</strong>Search of structures based on shared substructures with the query structure.<br><strong>Similarity:</strong>Search structures that are similar to a query structure.<br><strong>Search by species:</strong>Search of structures based on their species annotation.</p></li>
+		    <br>
+		    <br>
+		    <br>
+		    <button type="button" class="btn btn-primary btn-sm" id="datapop" data-toggle="popover">Data</button>
+		    <button type="button" class="btn btn-info btn-sm" id="searchpop" data-toggle="popover">Search options</button>
 		</ul>
         <!--  Example for dropdown menus
           <li class="dropdown">
@@ -385,7 +388,48 @@ html { height: 100%;}
   ga('create', 'UA-62826829-1', 'auto');
   ga('send', 'pageview');
 </script>
-  
+ 
+<script type="text/javascript">
+$(document).ready(function(){
+    $("#datapop").popover({
+        title: '<h3>Data</h3>',
+        content : "<p><strong>Structure:</strong> Structure of a molecule represented in one or several sequence formats or graphical representation.<br><strong>Database reference:</strong> References to other databases of the same type containing the same molecule.<br><strong>Species annotation:</strong> Biological annotation describing the species the structure is found.</p>",
+        html: true
+    }); 
+	$("#searchpop").popover({
+        title: '<h3>Search options</h3>',
+        content : "<p><strong>Structure:</strong>Allows searching for a structure by specifying a sequence.<br><strong>Sub-structure:</strong>Search for structure based on a query structure that is a substructure in the search result.<br><strong>Maximum common substructure(MCS):</strong>Search of structures based on shared substructures with the query structure.<br><strong>Similarity:</strong>Search structures that are similar to a query structure.<br><strong>Search by species:</strong>Search of structures based on their species annotation.</p>",
+        html: true
+    }); 
+});
+</script>
+	
+<script type="text/javascript">
+$(document).ready(function(){
+    // Append popover HTML to wrapper element
+    $("#myPopovers a").popover({
+		container: '.wrapper5'
+	}); 
+});
+</script>
+
+<style type="text/css">
+	.bs-example{
+    	margin: 100px 50px;
+    }
+	.wrapper5{
+		max-width: 100%;
+	}
+    /* Custom styles for popover */
+    .custom-title{
+        margin: 0;
+    }
+    .custom-title .glyphicon{
+        vertical-align: top;
+    }
+</style>
+	
+	
 <script>
 
 	
