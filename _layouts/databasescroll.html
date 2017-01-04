@@ -397,13 +397,11 @@ html { height: 100%;}
 <script type="text/javascript">
 $(document).ready(function(){
     $("#datapop").popover({
-        title: '<h5>Data</h5>',
         content : "<h6><p><strong>Structure:</strong> Structure of a molecule represented in one or several sequence formats or graphical representation.<br><strong>Database reference:</strong> References to other databases of the same type containing the same molecule.<br><strong>Species annotation:</strong> Biological annotation describing the species the structure is found.</p></h6>",
         html: true
     });
 	
 	$("#searchpop").popover({
-        title: '<h5>Search options</h5>',
         content : "<h6><p><strong>Structure search:</strong> Allows searching for a structure by specifying a sequence.<br><strong>Sub-structure search:</strong> Search for structure based on a query structure that is a substructure in the search result.<br><strong>Maximum common substructure search(MCS):</strong> Search of structures based on shared substructures with the query structure. <br><strong>Similarity search:</strong> Search structures that are similar to a query structure.<br><strong>Search by species:</strong> Search of structures based on their species annotation.</p></h6>",
         html: true
     }); 
