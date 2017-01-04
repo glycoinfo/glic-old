@@ -405,11 +405,13 @@ $(document).ready(function(){
         content : "<p><strong>Structure:</strong>Allows searching for a structure by specifying a sequence.<br><strong>Sub-structure:</strong>Search for structure based on a query structure that is a substructure in the search result.<br><strong>Maximum common substructure(MCS):</strong>Search of structures based on shared substructures with the query structure.<br><strong>Similarity:</strong>Search structures that are similar to a query structure.<br><strong>Search by species:</strong>Search of structures based on their species annotation.</p>",
         html: true
     }); 
+	
+	$('[data-toggle="popover"]').popover({
+    container: 'body'
+	});
 });
 	
-$('[data-toggle="popover"]').popover({
-    container: 'body'
-});
+
 	
 </script>
 
