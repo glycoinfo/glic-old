@@ -352,7 +352,7 @@ html { height: 100%;}
 
         <!-- Page Content -->
         <div id="page-content-wrapper">
-           <button type="button" class="hamburger is-closed" data-toggle="offcanvas">
+           <button type="button" class="hamburger is-closed" data-toggle="offcanvas" data-tt="tooltip" title="click to hide/open" data-placement="right">
                 <span class="hamb-top"></span>
     			<span class="hamb-middle"></span>
 				<span class="hamb-bottom"></span>
@@ -475,6 +475,11 @@ $(document).ready(function(){
   $('[data-toggle="offcanvas"]').click(function () {
         $('#wrapper').toggleClass('toggled');
   });  
+});
+	
+$(document).ready(function(){
+    $('[data-tt="tooltip"]').tooltip({
+        trigger : 'hover'});   
 });
 </script>
   
