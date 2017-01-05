@@ -394,6 +394,7 @@ html { height: 100%;}
 <script type="text/javascript">
 $(document).ready(function(){
     $("#datapop").popover({
+	title : '<a href="#" class="close" data-dismiss="alert">×</a>',
         content : "<h6><p><strong>Structure:</strong> Structure of a molecule represented in one or several sequence formats or graphical representation.<br><strong>Database reference:</strong> References to other databases of the same type containing the same molecule.<br><strong>Species annotation:</strong> Biological annotation describing the species the structure is found.</p></h6>",
         html: true
     });
@@ -406,6 +407,10 @@ $(document).ready(function(){
 	$('[data-toggle="popover"]').popover({
     container: 'body'
 	});
+	
+	$(document).on("click", ".popover .close" , function(){
+        $(this).parents(".popover").popover('hide');
+    });
 });
 	
 
@@ -419,6 +424,7 @@ $(document).ready(function(){
 	/* The max width is dependant on the container (more info below) */
 .popover{
     max-width: 100%; /* Max Width of the popover (depending on the container!) */
+    position: relative;
 }
     /* Custom styles for popover */
     .custom-title{
