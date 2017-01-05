@@ -414,6 +414,13 @@ $(document).ready(function(){
         $('[data-toggle="popover"]').popover('hide');
 	    }
 	});
+	
+	$('body').on('hidden.bs.popover', function (e) {
+    $(e.target).data("bs.popover").inState.click = false;
+	});
+	$('body').on('hidden.bs.popover', function (e) {
+    $(e.target).data("bs.popover").inState = { click: false, hover: false, focus: false }
+	});
 });
 	
 
