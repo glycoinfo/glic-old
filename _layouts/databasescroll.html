@@ -352,7 +352,7 @@ html { height: 100%;}
 
         <!-- Page Content -->
         <div id="page-content-wrapper">
-           <button type="button" class="hamburger is-closed" data-toggle="offcanvas" data-tt="tooltip" title="click to hide/open" data-placement="bottom" data-container="body">
+           <button type="button" class="hamburger is-open" data-toggle="offcanvas" data-tt="tooltip" title="click to hide/open" data-placement="bottom" data-container="body">
                 <span class="hamb-top"></span>
     			<span class="hamb-middle"></span>
 				<span class="hamb-bottom"></span>
@@ -462,10 +462,10 @@ $(document).ready(function(){
         overlay.hide();
         trigger.removeClass('is-open');
         trigger.addClass('is-closed');
-        isClosed = true;
+        isClosed = false;
       } 
 	else {   
-        overlay.show();
+        overlay.hide();
         trigger.removeClass('is-closed');
         trigger.addClass('is-open');
         isClosed = true;
