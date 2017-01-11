@@ -3,8 +3,6 @@ title: Software Tools
 layout: softwarescroll
 ---
 
-<br>
-
 ## 2. Software Tools
 
 <a name="tools21"></a>
