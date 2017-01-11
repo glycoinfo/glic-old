@@ -1,6 +1,6 @@
 ---
 title: Tools being Developed
-layout: default
+layout: toolslist
 ---
 
 <br>
