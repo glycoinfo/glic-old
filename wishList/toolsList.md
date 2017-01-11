@@ -12,6 +12,6 @@ This is the Wishlist of tools that are being developed.
 <br>
 <br>
 
-| **Name of person(s)/group developing tool:** | **Tool being developed:** | **Adding new functionality to pre-existing tool:** | **Date of Completion:** |
+| **Name of person(s)/group developing tool:** | **Tool being developed:** | :**Adding new functionality to pre-existing tool:**: | **Date of Completion:** |
 :---:|:---:|---|:---:
 (Example) John Doe | Tool XYZ | No, this is a new tool | Jan 20XX
