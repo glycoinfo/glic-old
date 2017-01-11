@@ -3,7 +3,6 @@ title: Database Resources
 layout: databasescroll
 ---
 
-<br>
 
 ## 2. Database Resources
 
