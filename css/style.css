@@ -278,8 +278,7 @@ td, tr {
   display: table-cell; }
 
 th {
-  font-size: 0em;
-  line-height: 0px; }
+  font-size: 0em; }
 
 th:empty {
   font-size: 0px;
