@@ -3,34 +3,6 @@ title: Software Tools
 layout: softwarescroll
 ---
 
-<a name="glossary1"></a>
-
-<br>
-
-<br>
-
-## 1. Glossary for Software Tools
-
-### 1-1. Software type
-
-  * **Stand-alone software**  
-    Software that is downloaded and installed on a computer.
-    
-  * **Web application**  
-    Application accessed and used using a web browser.
-    
-  * **Web service**  
-    Application invoked over the internet by computational means. It accepts machine readable data and provides remachine readable data as result.
-
-### 1-2. Data types
-
-  * **MS**  
-  Mass spectrometric data
-  
-<a name="tools2"></a>
-
-<br>
-
 <br>
 
 ## 2. Software Tools
