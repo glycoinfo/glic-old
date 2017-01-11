@@ -174,7 +174,7 @@ html { height: 100%;}
     background-color: #222;
     box-shadow: none;
 }
-
+	  
 /*-------------------------------*/
 /*       Hamburger-Cross         */
 /*-------------------------------*/
@@ -355,7 +355,7 @@ html { height: 100%;}
 
         <!-- Page Content -->
         <div id="page-content-wrapper">
-            <button type="button" class="hamburger is-closed" data-toggle="offcanvas">
+            <button type="button" class="hamburger is-open" data-toggle="offcanvas" data-tt="tooltip" title="click to hide/open" data-placement="bottom" data-container="body">
                 <span class="hamb-top"></span>
     			<span class="hamb-middle"></span>
 				<span class="hamb-bottom"></span>
@@ -409,6 +409,21 @@ $(document).ready(function(){
 	$('[data-toggle="popover"]').popover({
     container: 'body'
 	});
+	
+	$('body').on('click', function (e) {
+    //did not click a popover toggle or popover
+    if ($(e.target).data('toggle') !== 'popover'
+        && $(e.target).parents('.popover.in').length === 0) { 
+        $('[data-toggle="popover"]').popover('hide');
+	    }
+	});
+	
+	$('body').on('hidden.bs.popover', function (e) {
+    $(e.target).data("bs.popover").inState.click = false;
+	});
+	$('body').on('hidden.bs.popover', function (e) {
+    $(e.target).data("bs.popover").inState = { click: false, hover: false, focus: false }
+	});
 });
 	
 
@@ -422,8 +437,9 @@ $(document).ready(function(){
 	/* The max width is dependant on the container (more info below) */
 .popover{
     max-width: 100%; /* Max Width of the popover (depending on the container!) */
+    position: fixed;
 }
-    /* Custom styles for popover */
+	/* Custom styles for popover */
     .custom-title{
         margin: 0;
     }
@@ -434,10 +450,10 @@ $(document).ready(function(){
 	
 	
 <script>
-	$(document).ready(function () {
+ $(document).ready(function () {
   var trigger = $('.hamburger'),
       overlay = $('.overlay'),
-     isClosed = false;
+     isClosed = true;
 
     trigger.click(function () {
       hamburger_cross();      
@@ -445,23 +461,28 @@ $(document).ready(function(){
 
     function hamburger_cross() {
 
-      if (isClosed == true) {          
-        overlay.show();
+       if (isClosed == true) {          
+        overlay.hide();
+        trigger.removeClass('is-open');
+        trigger.addClass('is-closed');
+        isClosed = false;
+      } 
+	else {   
+        overlay.hide();
         trigger.removeClass('is-closed');
         trigger.addClass('is-open');
         isClosed = true;
-
-      } else {   
-        overlay.hide();
-	trigger.removeClass('is-open');
-        trigger.addClass('is-closed');
-        isClosed = false;
       }
   }
   
   $('[data-toggle="offcanvas"]').click(function () {
         $('#wrapper').toggleClass('toggled');
   });  
+});
+
+    $(document).ready(function(){
+    $('[data-tt="tooltip"]').tooltip({
+        trigger : 'hover'});   
 });
 
 </script>
