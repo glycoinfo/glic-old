@@ -3,7 +3,6 @@ title: Glycoinformatics Consortium
 layout: top
 ---
 
-<br>
 
 ## Meetings  
 List of past and upcoming [meetings](meetings).
