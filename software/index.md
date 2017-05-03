@@ -17,10 +17,11 @@ layout: softwarescroll
 **Processed Data** | None
 **Software Type** | Standalone Software
 **Availability** | <http://www.rings.t.soka.ac.jp/SNFG/SNFG.jnlp>
-**README** | <http://www.rings.t.soka.ac.jp/SNFG/README.pdf>
+**README (for Mac users)** | <http://www.rings.t.soka.ac.jp/SNFG/README.pdf>
 **License** | none
 **Status** | unstable, version 1.0
 **Funding** | Soka University
+**Developers** | Sachiko Akase, Hideaki Akisawa, Kento Tamaki, Kiyoko F. Aoki-Kinoshita
 **Contact** | Kiyoko F. Aoki-Kinoshita: <kkiyoko@soka.ac.jp>
 
 <a name="tools2"></a>
