@@ -42,7 +42,7 @@ layout: softwarescroll
 **Future Plans** | quantification of glycomics data; CMS like methods for glycomics; integration of other data types, such as qRT-PCR
 **Contact** | Rene Ranzinger: <rene@ccrc.uga.edu>
 
-<a name="tools2"></a>
+<a name="tools3"></a>
 
 <br>
 
@@ -62,7 +62,7 @@ layout: softwarescroll
 **Future Plans** | HMBC prediction, structure iterator & ranking
 **Contact** | Phyl Toukach: <netbox@toukach.ru>
 
-<a name="tools3"></a>
+<a name="tools4"></a>
 
 <br>
 
@@ -82,7 +82,7 @@ layout: softwarescroll
 **Future Plans** | Extend range of enzymes for simulation of activity; budding plan with CAZy team.
 **Contact** | Matthew Campbell: <matthew.campbell@mq.edu.au><br>Frederique Lisacek: <frederique.lisacek@isb-sib.ch>
 
-<a name="tools4"></a>
+<a name="tools5"></a>
 
 <br>
 
@@ -102,7 +102,7 @@ Tools for validation of carbohydrate 3D structure data.
 **Future Plans** | Include MonosaccharideDB routines for improved handling of modified residues.
 **Contact** | Thomas Lütteke: <thomas.luetteke@vetmed.uni-giessen.de>
 
-<a name="tools5"></a>
+<a name="tools6"></a>
 
 <br>
 
@@ -122,7 +122,7 @@ Building of 3D structure models of carbohydrates.
 **Future Plans** | -
 **Contact** | Thomas Lütteke: <thomas.luetteke@vetmed.uni-giessen.de>
 
-<a name="tools6"></a>
+<a name="tools7"></a>
 
 <br>
 
@@ -142,7 +142,7 @@ In-silico glycosylation of protein 3D structures.
 **Future Plans** | -
 **Contact** | Thomas Lütteke: <thomas.luetteke@vetmed.uni-giessen.de>
 
-<a name="tools7"></a>
+<a name="tools8"></a>
 
 <br>
 
@@ -168,7 +168,7 @@ Gerken et al. (2011) <http://www.jbc.org/content/286/16/14493>
 Gerken et al  (2013) <http://www.jbc.org/content/288/27/19900>  
 Kong et al (2015)    <http://glycob.oxfordjournals.org/content/25/1/55.abstract>
 
-<a name="tools8"></a>
+<a name="tools9"></a>
 
 <br>
 
@@ -199,7 +199,7 @@ Kong et al (2015)    <http://glycob.oxfordjournals.org/content/25/1/55.abstract>
 References: 
 Maxwell, E., Tan, Y., Tan, Y., Hu, H., Benson, G., Aizikov, K., Conley, S., Staples, G. O., Slysz, G. W., Smith, R. D., and Zaia, J. (2012) GlycReSoft:A Software Package for Automated Recognition of Glycans from LC/MS Data. PLoS ONE 7, e45474
 
-<a name="tools9"></a>
+<a name="tools10"></a>
 
 <br>
 
@@ -222,7 +222,7 @@ HS-SEQ is a comprehensive algorithm for sequencing of glycosaminoglycan sacchari
 References:
 Hu, H., Huang, Y., Mao, Y., Yu, X., Xu, Y., Liu, J., Zong, C., Boons, G. J., Lin, C., Xia, Y., and Zaia, J. (2014) A Computational Framework for Heparan Sulfate Sequencing Using High-resolution Tandem Mass Spectra. Molecular & cellular proteomics : MCP 13, 2490-2502
 
-<a name="tools10"></a>
+<a name="tools11"></a>
 
 <br>
 
