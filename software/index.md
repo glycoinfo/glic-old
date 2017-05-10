@@ -12,7 +12,7 @@ layout: softwarescroll
 <br>
 
 ### SNFG Legend Generator
-  SNFG Legend Generator is a simple Java tool that can generates a Powerpoint file of selected SNFG symbols that can be used for presentations and manuscripts.  
+  SNFG Legend Generator is a simple Java tool that generates a Powerpoint file of selected SNFG symbols which can be used for presentations and manuscripts.  
 
 | | |
 ---|---
