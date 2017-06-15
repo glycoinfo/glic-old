@@ -40,7 +40,7 @@ layout: softwarescroll
 ---|---
 **Processed Data** | MS
 **Software Type** | Standalone Software
-**Availabitlity** | <http://www.grits-toolbox.org>
+**Availability** | <http://www.grits-toolbox.org>
 **License** | none
 **Status** | stable, continues development
 **Funding** | NIH
@@ -60,7 +60,7 @@ layout: softwarescroll
 ---|---
 **Processed Data** | NMR, structures
 **Software Type** | web application
-**Availabitlity** | <http://csdb.glycoscience.ru/database/core/nmrsim.html>
+**Availability** | <http://csdb.glycoscience.ru/database/core/nmrsim.html>
 **License** | none (free)
 **Status** | stable, continues development
 **Funding** | Russiann Foundation for Basic Research
@@ -80,7 +80,7 @@ layout: softwarescroll
 ---|---
 **Processed Data** | glycan structures
 **Software Type** | Standalone software and integrated in GlycoBase and UniCarbKB
-**Availabitlity** | <http://www.glycodigest.org>
+**Availability** | <http://www.glycodigest.org>
 **License** | CC
 **Status** | stable, continues development
 **Funding** | SIB; National eResearch Collaboration Tools and Resources (NeCTAR) Project
@@ -100,7 +100,7 @@ Tools for validation of carbohydrate 3D structure data.
 ---|---
 **Processed Data** | PDB-formatted 3D structures (carbohydrates, glycoproteins, protein-carbohydrate complexes)
 **Software Type** | Web application, Integrated in Glycosciences.de
-**Availabitlity** | <http://www.glycosciences.de/tools>
+**Availability** | <http://www.glycosciences.de/tools>
 **License** | -
 **Status** | stable, continues development
 **Funding** | -
@@ -120,7 +120,7 @@ Building of 3D structure models of carbohydrates.
 ---|---
 **Processed Data** | carbohydrate “sequence” (2D-structure)
 **Software Type** | Web application, Integrated in Glycosciences.de
-**Availabitlity** | <http://www.glycosciences.de/modeling/sweet2>
+**Availability** | <http://www.glycosciences.de/modeling/sweet2>
 **License** | -
 **Status** | stable
 **Funding** | -
@@ -140,7 +140,7 @@ In-silico glycosylation of protein 3D structures.
 ---|---
 **Processed Data** | Protein 3D structure (PDB format), carbohydrate “sequence” (2D-structure)
 **Software Type** | Web application, Integrated in Glycosciences.de
-**Availabitlity** | <http://www.glycosciences.de/modeling/glyprot>
+**Availability** | <http://www.glycosciences.de/modeling/glyprot>
 **License** | -
 **Status** | stable
 **Funding** | -
@@ -160,7 +160,7 @@ In-silico glycosylation of protein 3D structures.
 ---|---
 **Processed Data** | FASTA format protein sequence (manual or file input)
 **Software Type** | Web application
-**Availabitlity** | <http://isoglyp.utep.edu>
+**Availability** | <http://isoglyp.utep.edu>
 **License** | none
 **Status** | available, under development
 **Funding** | NIH (data acquisition and web site 1/2015-11/2018)
@@ -194,7 +194,7 @@ Kong et al (2015)    <http://glycob.oxfordjournals.org/content/25/1/55.abstract>
 ---|---
 **Processed Data** | Spectrometry data
 **Software Type** | Stand-alone and Web application
-**Availabitlity** | <https://github.com/GlycReSoft2>
+**Availability** | <https://github.com/GlycReSoft2>
 **License** | Tentatively Apache2, but always free for academic use
 **Status** | Available, Under Development
 **Funding** | -
@@ -217,7 +217,7 @@ HS-SEQ is a comprehensive algorithm for sequencing of glycosaminoglycan sacchari
 ---|---
 **Processed Data** | -
 **Software Type** | Stand-alone
-**Availabitlity** | <https://github.com/hh1985/glycan-pipeline>
+**Availability** | <https://github.com/hh1985/glycan-pipeline>
 **License** | -
 **Status** | -
 **Funding** | -
@@ -265,7 +265,7 @@ The library includes the following functions:
 ---|---
 **Processed Data** | -
 **Software Type** | Software Library
-**Availabitlity** | <https://github.com/mobiusklein/glypy>
+**Availability** | <https://github.com/mobiusklein/glypy>
 **License** | Tentatively Apache2, but always free for academic use
 **Status** | Available, Under Active Development (Feature Requests and Pull Requests Welcome)
 **Funding** | -
