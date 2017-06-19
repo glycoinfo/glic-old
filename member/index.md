@@ -67,6 +67,8 @@ layout: default
 
 {% include contact-info.html name="Thomas Lutteke" %}
 
+{% include contact-info.html name="Will York" %}
+
 {% include contact-info.html name="Yuki Ushioda" %}
 
 {% include contact-info.html name="Yukie Akune" %}
