@@ -11,6 +11,8 @@ layout: default
 
 {% include contact-info.html name="Daisuke Shinmachi" %}
 
+{% include contact-info.html name="Daniel Kolarich" %}
+
 {% include contact-info.html name="David Matten" %}
 
 {% include contact-info.html name="Davide Alocci" %}
