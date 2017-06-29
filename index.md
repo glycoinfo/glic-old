@@ -27,5 +27,4 @@ The list of tools that are being developed is located [here](wishList/toolsList)
 <br>
 
 ## Survey
-This [survey](survey) is for a project that we have started from 2017 to construct a Glycoscience Portal called GlyCosmos.
-We are accumulating comments and requests from the glycoscience community, which we hope to implement in this portal.  
+List of [survey forms](survey) that we would like members to fill out to help improve GLIC and other resources.
