@@ -19,6 +19,7 @@ layout: softwarescroll
 **Processed Data** | None
 **Software Type** | Web-based Software
 **Availability** | <https://rings.glycoinfo.org/snfg_legend_generator/new>
+**Source code** | <https://git.rings.glycoinfo.org/SNFG/LegendGenerator>
 **License** | CC-BY-NC
 **Status** | Stable, version 1.0
 **Funding** | Soka University
