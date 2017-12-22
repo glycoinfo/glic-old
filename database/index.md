@@ -236,3 +236,26 @@ support the analysis of glycan array data for the Consortium for Functional Glyc
 **Future Plans** | -
 **Code Availablity** | Open Source
 **Contact** | <niclas.karlsson@medkem.gu.se>
+
+<a name="data11"></a>
+
+<br>
+
+<br>
+
+### GlycoNAVI
+  GlycoNAVI is the Carbohydrate database to support carbohydrate research. Contains glycan structures, chemical synthesis, anomeric isomer proportion, NMR spectra, activity, 3D-structures, and carbohydrate-protein interaction extracted from literatures.
+
+<br>
+
+| | |
+---|---
+**Data in Database** | Glycan structures, chemical synthesis, carbohydrate-protein interaction, 3D-structures, and linked to other related databases.
+**Search Options** | 
+**Availability** | <http://ws.glyconavi.org>
+**License** | CC-BY
+**Status** | stable, maintained
+**Funding** | Integrated Database Project of Japan, KAKENHI
+**Future Plans** | 
+**Code Availablity** | 
+**Contact** | Issaku Yamada: <yamadaissaku@gmail.com>
