@@ -5,7 +5,10 @@
 * **Location**: <a href="https://www.sunplaza.jp/en/" target="_blank">Nakano Sunplaza</a>, Tokyo, JAPAN
   * March 5-6, 2018: Symposium ( Nakano Sunplaza 8F (West EV) Training Room 1 )
   * March 7-9, 2018: Hackathon ( Nakano Sunplaza 8F (West EV) Training Room 2 )
- 
+
+***
+**<a href="https://www.sunplaza.jp/en/about/#access" target="_blank">Access</a>**
+
 ***    
 **Purtpose**:
 
