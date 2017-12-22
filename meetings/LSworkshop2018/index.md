@@ -34,13 +34,16 @@
 
 ***    
 
-**Registration**
+**Registration**:
  * Registration from ...
 
   
-**Other Information**
-* <a href="http://www.gotokyo.org/en/index.html" target="_blank">Travel Guide</a>
-  
+**Other Information**:
+ * <a href="http://www.gotokyo.org/en/index.html" target="_blank">Travel Guide</a>
+
+**Contact**:
+ * Should there are any enquires, please contact organizers at glycoworkshop@gmail.com  
+
 ***
 **Workshop Organizers**:
 * Kiyoko F. Aoki-Kinoshita (Soka University)
