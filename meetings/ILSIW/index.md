@@ -29,4 +29,4 @@ Invited Speakers:
 
 Workshop organizers:
 * Kiyoko F. Aoki-Kinoshita (Soka University)
-* Issaku Yamada (The NOguchi Institute)
+* Issaku Yamada (The Noguchi Institute)
