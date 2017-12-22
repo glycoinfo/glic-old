@@ -14,10 +14,19 @@ Purtpose:
   technology-wise (Semantic Web) 
 
 Invited Speakers:
-*  A
-*  B
-*  C
-*  D
-*  ...
-  
-  
+*  Bernard Henrissat
+*  Bernard Henrissat
+*  Rene Ranzinger
+*  Frederique Lisacek
+*  Leyla Garcia
+*  Philip Toukach
+*  Matthew Campbell
+*  Genji Kurisu 
+*  Kazuhiro Aoki
+*  Susumu Goto
+* ...  
+
+
+Workshop organizers:
+* Kiyoko F. Aoki-Kinoshita (Soka University)
+* Issaku Yamada (The NOguchi Institute)
