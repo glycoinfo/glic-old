@@ -5,10 +5,10 @@ layout: default
 ## Upcoming meetings
   * March 5-9, 2018: <a href="http://glic.glycoinfo.org/meetings/LSworkshop2018/">International Life Science Integration Workshop</a> @Tokyo (<a href="https://www.sunplaza.jp/en/">Nakano Sunplaza</a>)
 
-```
-   March 5-6, 2018: Symposium (8F Training Room 1)
-   March 7-9, 2018: Hackathon (8F Training Room 2)
-```
+
+ * March 5-6, 2018: Symposium (8F Training Room 1)
+ * March 7-9, 2018: Hackathon (8F Training Room 2)
+
 
 ## Past meetings
   * October 17~22, 2016: GLIC Distributed GlycoHackathon
