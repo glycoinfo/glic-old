@@ -3,7 +3,7 @@ title: Glycoinformatics Consortium Meetings
 layout: default
 ---
 ## Upcoming meetings
-  * 
+  * March 5-9, 2018: International Life Science Integration Workshop @Tokyo (<a href="https://www.sunplaza.jp/en/">Nakano Sunplaza</a>)
 
 ## Past meetings
   * October 17~22, 2016: GLIC Distributed GlycoHackathon
