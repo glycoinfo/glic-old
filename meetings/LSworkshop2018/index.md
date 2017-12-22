@@ -37,7 +37,14 @@
 **Registration**:
  * Registration from ...
 
-  
+***
+**Schedule**
+ * **Welcome Party**: arch 4, 2018 ?
+ * **Symposium**: March 5, 2018 
+ * **Banquet**: arch 5, 2018 ?
+ * **Symposium**: March 6, 2018
+ * **Hackathon**: March 7-9, 2018
+
 **Other Information**:
  * <a href="http://www.gotokyo.org/en/index.html" target="_blank">Travel Guide</a>
 
