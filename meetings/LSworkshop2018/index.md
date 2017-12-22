@@ -39,9 +39,8 @@
 
 ***
 **Schedule**
-  * **Welcome Party**:  March 4, 2018 ?
  * **Symposium**:  March 5, 2018 
- * **Banquet**:  March 5, 2018 ?
+ * **Banquet**:  March 5, 2018
  * **Symposium**:  March 6, 2018
  * **Hackathon**:  March 7-9, 2018
 
