@@ -15,7 +15,6 @@ Purtpose:
 
 Invited Speakers:
 *  Bernard Henrissat
-*  Bernard Henrissat
 *  Rene Ranzinger
 *  Frederique Lisacek
 *  Leyla Garcia
