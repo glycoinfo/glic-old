@@ -45,6 +45,12 @@
  * glycoworkshop@gmail.com  
 
 ***
+**Supported by**:
+* National Bioscience Database Center (NBDC) at the Japan Science Technology Agency (JST)
+* Glycoinformatics Consortium (GLIC)
+  
+
+***
 **Workshop Organizers**:
 * Kiyoko F. Aoki-Kinoshita (Soka University)
 * Issaku Yamada (The Noguchi Institute)
