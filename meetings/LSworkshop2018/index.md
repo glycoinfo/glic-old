@@ -10,7 +10,7 @@
 **<a href="https://www.sunplaza.jp/en/about/#access" target="_blank">Access</a>**
 
 ***    
-**Purtpose**:
+**Purpose**:
 
 * To discuss how to integrate web resources and databases around glycomics data
 
