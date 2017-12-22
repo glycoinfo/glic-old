@@ -4,7 +4,9 @@
 
 * *Date*: March 5-9, 2018
 * *Location*: <a href="https://www.sunplaza.jp/en/">Nakano Sunplaza</a>, Tokyo, JAPAN
-
+  * March 5-6, 2018: Symposium (8F Training Room 1)
+  * March 7-9, 2018: Hackathon (8F Training Room 2)
+ 
 ***
 *Purtpose*:
 
