@@ -31,6 +31,14 @@
 
 ***    
 
+*Registration*
+ * Registration from ...
+
+  
+*Other Information*
+* <a href="http://www.gotokyo.org/en/index.html">Travel Guide</a>
+  
+***
 Workshop Organizers:
 * Kiyoko F. Aoki-Kinoshita (Soka University)
 * Issaku Yamada (The Noguchi Institute)
