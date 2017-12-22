@@ -3,7 +3,7 @@ title: Glycoinformatics Consortium Meetings
 layout: default
 ---
 ## Upcoming meetings
-  * March 5-9, 2018: <a href="http://glic.glycoinfo.org/meetings/ILSIW/">International Life Science Integration Workshop</a> @Tokyo (<a href="https://www.sunplaza.jp/en/">Nakano Sunplaza</a>)
+  * March 5-9, 2018: <a href="http://glic.glycoinfo.org/meetings/LSworkshop2018/">International Life Science Integration Workshop</a> @Tokyo (<a href="https://www.sunplaza.jp/en/">Nakano Sunplaza</a>)
 
 ```
    March 5-6, 2018: Symposium (8F Training Room 1)
