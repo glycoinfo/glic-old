@@ -1,4 +1,4 @@
-# glic
+# GLIC
 The purpose of the Glycoinformatics Consortium (GLIC) is to provide a centralized source software repository for 
 glycoscientists. In addition, it is aimed to provide a communication point for glycoscientists and 
 glycoinformaticians.  
