@@ -10,6 +10,7 @@ layout: default
 
 ***
 **<a href="https://www.sunplaza.jp/en/about/#access" target="_blank">Access</a>**
+* North exit of Nakano Station on the JR Chuo/Sobu Line and Tokyo Metro Tozai Line
 
 ***    
 **Purpose**:
