@@ -23,16 +23,21 @@ layout: default
 ***    
 
 **Invited Speakers**:
+  
+*  Akiyasu C. Yoshizawa
 *  Bernard Henrissat
-*  Rene Ranzinger
 *  Frederique Lisacek
-*  Leyla Garcia
-*  Philip Toukach
-*  Matthew Campbell
-*  Genji Kurisu 
+*  Genji Kurisu
 *  Kazuhiro Aoki
+*  Leyla Garcia
+*  Masanori Arita
+*  Matthew Campbell
+*  Nathan Edwards
+*  Philip Toukach
+*  Rene Ranzinger
+*  Sriram Neelamegham
 *  Susumu Goto
-* ...  
+*  Yasushi Ishihama
 
 ***    
 
