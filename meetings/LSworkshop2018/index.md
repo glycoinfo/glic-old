@@ -3,10 +3,14 @@ title: International Life Science Integration Workshop
 layout: default
 ---
   
-* **Date**: March 5(Mon) - 9(Fri), 2018
-* **Location**: <a href="https://www.sunplaza.jp/en/" target="_blank">Nakano Sunplaza</a>, Tokyo, JAPAN
+* **Date**: 
+March 5(Mon) - 9(Fri), 2018
   * March 5-6, 2018: Symposium ( Nakano Sunplaza 8F (West EV) Training Room 1 )
   * March 7-9, 2018: Hackathon ( Nakano Sunplaza 8F (West EV) Training Room 2 )
+
+
+* **Location**: 
+<a href="https://www.sunplaza.jp/en/" target="_blank">Nakano Sunplaza</a>, Tokyo, JAPAN
 
 ***
 **<a href="https://www.sunplaza.jp/en/about/#access" target="_blank">Access</a>**
