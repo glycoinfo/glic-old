@@ -14,7 +14,7 @@ March 5(Mon) - 9(Fri), 2018
 
 ***
 **<a href="https://www.sunplaza.jp/en/about/#access" target="_blank">Access</a>**
-* North exit of Nakano Station on the JR Chuo/Sobu Line and Tokyo Metro Tozai Line
+* North exit of Nakano Station (JC06 or JB07/T01) on the JR Chuo/Sobu Line and Tokyo Metro Tozai Line
 
 ***    
 **Purpose**:
