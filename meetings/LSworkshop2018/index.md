@@ -7,8 +7,7 @@ layout: default
 from March 5(Man) through March 9(Fri), 2018
 
   * March 5-6, 2018: Symposium
-  * March 7-9, 2018: Hackathon
-
+  * March 7-9, 2018: Hackathon 
 
 ***
 * **Location**: 
@@ -70,6 +69,8 @@ from March 5(Man) through March 9(Fri), 2018
  * <a href="http://www.gotokyo.org/en/index.html" target="_blank">Travel Guide</a>
  
  * <a href="http://www.jma.go.jp/jma/indexe.html" target="_blank">Weather</a>
+ 
+ *  <a href="https://en.m.wikipedia.org/wiki/Hackathon" target="_blank">Hackathon</a>
  
  * Dress code for the workshop is casual.
  
