@@ -29,7 +29,6 @@ March 5(Mon) - 9(Fri), 2018
 
 **Invited Speakers**:
   
-*  Akiyasu C. Yoshizawa
 *  Kazuhiro Aoki (Univ. of Georgia)
 *  Masanori Arita (NIG)
 *  Matthew Campbell (Griffith Univ.)
