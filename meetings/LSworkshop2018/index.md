@@ -58,11 +58,14 @@ March 5(Mon) - 9(Fri), 2018
 
 ***
 **Schedule**
- * **Symposium**:  March 5, 2018 
- * **Banquet**:  March 5, 2018
- * **Symposium**:  March 6, 2018
- * **Hackathon**:  March 7-9, 2018
-
+ * **Symposium**:  March 5, 2018 (9:30-18:00)
+ * **Banquet**:  March 5, 2018 (18:30-20:30?)
+ * **Symposium**:  March 6, 2018 (9:30-18:00)
+ * **Hackathon**:  March 7, 2018 (9:00-21:00)
+ * **Hackathon**:  March 8, 2018 (9:00-21:00)
+ * **Hackathon**:  March 9, 2018 (9:00-17:00) ... 13:00 Wrap-up ?
+ 
+ 
 **Other Information**:
  * <a href="http://www.gotokyo.org/en/index.html" target="_blank">Travel Guide</a>
 
