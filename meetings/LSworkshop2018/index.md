@@ -68,7 +68,7 @@ March 5(Mon) - 9(Fri), 2018
  
 **Other Information**:
  * <a href="http://www.gotokyo.org/en/index.html" target="_blank">Travel Guide</a>
-
+ * Dress code for the workshop is casual.
 **Contact**:
  * glycoworkshop@gmail.com  
 
