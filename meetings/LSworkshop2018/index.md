@@ -48,7 +48,7 @@ March 5(Mon) - 9(Fri), 2018
 ***    
 
 **Registration**:
- * Registration from ...
+ * Registration ...
 
 ***
 **Schedule**
