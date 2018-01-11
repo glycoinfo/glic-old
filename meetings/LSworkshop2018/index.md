@@ -30,19 +30,21 @@ March 5(Mon) - 9(Fri), 2018
 **Invited Speakers**:
   
 *  Akiyasu C. Yoshizawa
-*  Bernard Henrissat
-*  Frederique Lisacek
-*  Genji Kurisu
-*  Kazuhiro Aoki
-*  Leyla Garcia
-*  Masanori Arita
-*  Matthew Campbell
-*  Nathan Edwards
-*  Philip Toukach
-*  Rene Ranzinger
-*  Sriram Neelamegham
-*  Susumu Goto
-*  Yasushi Ishihama
+*  Kazuhiro Aoki (Univ. of Georgia)
+*  Masanori Arita (NIG)
+*  Matthew Campbell (Griffith Univ.)
+*  Nathan Edwards (Georgetown Univ.)
+*  Leyla Garcia (EBI)
+*  Susumu Goto (DBCLS)
+*  Bernard Henrissat (Aix-Marseille Univ.)
+*  Yasushi Ishihama (Kyoto Univ.)
+*  Genji Kurisu (Osaka Univ.)
+*  Frederique Lisacek (SIB)
+*  Sriram Neelamegham (State Univ. of New York)
+*  Rene Ranzinger (Univ. of Georgia)
+*  Philip Toukach (Russian Academy of Sciences)
+*  Akiyasu C. Yoshizawa (Kyoto Univ.)
+
 
 ***    
 
