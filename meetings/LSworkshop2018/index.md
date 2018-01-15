@@ -68,7 +68,7 @@ March 5(Man) - March 9(Fri), 2018
  
  
 **Workshop flyer**:
- * <a href="InternationalLifeScienceIntegrationWorkshop2018.pdf" target="_blank">flyer PDF</a>
+ * <a href="InternationalLifeScienceIntegrationWorkshop2018.pdf" target="_blank">Flyer PDF</a>
  
 **Other Information**:
  * <a href="http://www.gotokyo.org/en/index.html" target="_blank">Travel Guide</a>
