@@ -1,35 +1,74 @@
-3/5	
+**Monday, March 5**	
 
-| Time | |  Speaker | Title |
+ 9:50~10:00 Opening remarks(Kiyoko F. Aoki-Kinoshita, Soka Univ.)
+ 
+Session Chair : Shoko Nishihara
+
+| Time | |Speaker | Title |
 |---|---|---|---|
-|9:50~10:00	| Coffee	| Opening remarks |			Kiyoko F. Aoki-Kinoshita (Soka Univ.) |
-|10:00~10:40	 	|	Shoko Nishihara	| GlyCosmos	| Kiyoko F. Aoki-Kinoshita (Soka Univ.)|
+| 10:00~10:40 | GlyCosmos      | Kiyoko F. Aoki-Kinoshita, Soka Univ.  |  |
+| 10:40~11:20 | ACGG-DB        | Hisashi Narimatsu, AIST               |  |
+| 11:20~11:40 | Coffee Break   |                                       |  |
+| 11:40~12:20 | CAZy           | Bernard Henrissat, Aix-Marseille Univ.|  |
 
-3/5	10:40	11:20	2		Shoko Nishihara	ACGG-DB	Hisashi Narimatsu (AIST)
-3/5	11:20	11:40	Coffee				
-3/5	11:40	12:20	3		Shoko Nishihara	CAZy	Bernard Henrissat (Aix-Marseille Univ.)
-3/5	12:20	12:40		group photo			
-3/5	12:40	14:00	お昼				
-3/5	14:00	14:40	4		Issaku Yamada	LipidBank	Masanori Arita (NIG)
-3/5	14:40	15:20	5		Issaku Yamada	Glycolipid	Kazuhiro Aoki (Univ. of Georgia)
-3/5	15:20	15:40	Coffee				
-3/5	15:40	16:20	6		Rene Ranzinger	CSDB	Philip Toukach (Russian Academy of Sciences)
-3/5	16:20	17:00	7		Rene Ranzinger	Expasy	Frederique Lisacek (SIB)
-3/5	17:00	17:40	8		Rene Ranzinger	Glycoinformatics tools 	Sriram Neelamegham (State Univ. of New York)
-3/5							
-3/5				フリータイム			
-	18:30	20:30		バンケット			
+12:20~12:40  Group photo
+
+12:40~14:00  Lunch break				
+
+Session Chair : Issaku Yamada
+
+| Time | |Speaker | Title |
+|---|---|---|---|
+| 14:00~14:40 | LipidBank     | Masanori Arita, NIG             |  |
+| 14:40~15:20 | Glycolipid    | Kazuhiro Aoki, Univ. of Georgia |  |
+| 15:20~15:40 | Coffee Break  |                                 |  |
+
+Session Chair : Rene Ranzinger
+
+| Time | |Speaker | Title |
+|---|---|---|---|
+| 15:40~16:20 | CSDB                     | Philip Toukach, Russian Academy of Sciences |  |
+| 16:20~17:00 | Expasy                   | Frederique Lisacek, SIB                     |  |
+| 17:00~17:40 | Glycoinformatics tools   | Sriram Neelamegham, State Univ. of New York |  |
 							
-3/6	9:50	10:00	Coffee	オープニング			
-3/6	10:00	10:40	9		Kiyoko F. Aoki-Kinoshita	GNOME	Nathan Edwards (Georgetown Univ.)
-3/6	10:40	11:20	10		Kiyoko F. Aoki-Kinoshita	GRITS	Rene Ranzinger (Univ. of Georgia)
-3/6	11:20	11:40	Coffee				
-3/6	11:40	12:20	11		Kiyohiko Angata	UniCarbKB	Matthew Campbell (Griffith Univ.)
-3/6	12:20	13:00	12		Kiyohiko Angata	UniProt	Leyla Garcia (EBI)
-3/6	13:00	14:30	お昼				
-3/6	14:30	15:10	13		Nicolle Packer	jPOST	Yasushi Ishihama (Kyoto Univ.)
-3/6	15:10	15:50	14		Nicolle Packer	Proteomics	Akiyasu C. Yoshizawa (Kyoto Univ.)
-3/6	15:50	16:10	Coffee				
-3/6	16:10	16:50	15		Frederique Lisacek	PDB	Genji Kurisu (Osaka Univ.)
-3/6	16:50	17:30	16		Frederique Lisacek	DBCLS	Susumu Goto (DBCLS)
-	17:30	18:00		ディスカッション			
+17:40~ Free time
+
+18:30~20:30 Banquet
+
+**Tuesday, March 6**
+
+9:50~10:00 Opening remarks(Kiyoko F. Aoki-Kinoshita, Soka Univ.)
+
+Session Chair : Kiyoko F. Aoki-Kinoshita
+
+| Time | |Speaker | Title |
+|---|---|---|---|
+| 10:00~10:40 | GNOME          | Nathan Edwards, Georgetown Univ.     |  |
+| 10:40~11:20 | GRITS          | Rene Ranzinger, Univ. of Georgia     |  |
+| 11:20~11:40 | Coffee Break   |                                      |  |
+
+Session Chair : Kiyohiko Angata
+
+| Time | |Speaker | Title |
+|---|---|---|---|
+| 11:40~12:20 | UniCarbKB      | Matthew Campbell, Griffith Univ.     |  |
+| 12:20~13:00 | UniProt        | Leyla Garcia, EBI                    |  |
+   
+13:00~14:30  Lunch break
+
+Session Chair : Nicolle Packer
+
+| Time | |Speaker | Title |
+|---|---|---|---|
+| 14:30~15:10 | jPOST        | Yasushi Ishihama, Kyoto Univ.        |  |
+| 15:10	15:50 | Proteomics   | Akiyasu C. Yoshizawa, Kyoto Univ.    |  |
+| 15:50~16:10 | Coffee Break   |  
+
+Session Chair : Frederique Lisacek
+
+| Time | |Speaker | Title |
+|---|---|---|---|
+| 16:10~16:50 | PDB          | Genji Kurisu, Osaka Univ.      |  |
+| 16:50~17:30 | DBCLS        | Susumu Goto, DBCLS             |  |
+
+17:30~18:00 Discussion			
