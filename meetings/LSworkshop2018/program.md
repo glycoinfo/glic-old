@@ -3,7 +3,6 @@
 | Time | |  Speaker | Title |
 |---|---|---|---|
 |9:50~10:00	| Coffee	| Opening remarks |			Kiyoko F. Aoki-Kinoshita (Soka Univ.) |
-
 |10:00~10:40	 	|	Shoko Nishihara	| GlyCosmos	| Kiyoko F. Aoki-Kinoshita (Soka Univ.)|
 
 3/5	10:40	11:20	2		Shoko Nishihara	ACGG-DB	Hisashi Narimatsu (AIST)
