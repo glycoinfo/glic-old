@@ -15,6 +15,7 @@ Session Chair : Shoko Nishihara
 
 12:40~14:00  Lunch break				
 
+***
 Session Chair : Issaku Yamada
 
 | Time | |Speaker | Title |
@@ -23,6 +24,7 @@ Session Chair : Issaku Yamada
 | 14:40~15:20 | Glycolipid    | Kazuhiro Aoki, Univ. of Georgia | Strategies and tools for comprehensive glycomics |
 | 15:20~15:40 | Coffee Break  |                                 |  |
 
+***
 Session Chair : Rene Ranzinger
 
 | Time | |Speaker | Title |
@@ -40,6 +42,7 @@ Session Chair : Rene Ranzinger
 
 9:50~10:00 Opening remarks(Kiyoko F. Aoki-Kinoshita, Soka Univ.)
 
+***
 Session Chair : Kiyoko F. Aoki-Kinoshita
 
 | Time | |Speaker | Title |
@@ -48,6 +51,7 @@ Session Chair : Kiyoko F. Aoki-Kinoshita
 | 10:40~11:20 | GRITS          | Rene Ranzinger, Univ. of Georgia     |  |
 | 11:20~11:40 | Coffee Break   |                                      |  |
 
+***
 Session Chair : Kiyohiko Angata
 
 | Time | |Speaker | Title |
@@ -57,6 +61,7 @@ Session Chair : Kiyohiko Angata
    
 13:00~14:30  Lunch break
 
+***
 Session Chair : Nicolle Packer
 
 | Time | |Speaker | Title |
@@ -65,6 +70,7 @@ Session Chair : Nicolle Packer
 | 15:10	15:50 | Proteomics   | Akiyasu C. Yoshizawa, Kyoto Univ.    | Posting more precisive pictures of proteomes |
 | 15:50~16:10 | Coffee Break   |  
 
+***
 Session Chair : Frederique Lisacek
 
 | Time | |Speaker | Title |
