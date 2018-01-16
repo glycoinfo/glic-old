@@ -35,6 +35,7 @@ Session Chair : Rene Ranzinger
 
 18:30~20:30 Banquet
 
+
 **Tuesday, March 6**
 
 9:50~10:00 Opening remarks(Kiyoko F. Aoki-Kinoshita, Soka Univ.)
