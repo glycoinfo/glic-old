@@ -59,6 +59,7 @@ March 5(Man) - March 9(Fri), 2018
 
 ***
 **Schedule**
+ * [Program](program.md)
  * **Symposium**:  March 5, 2018 (9:30-18:00)
  * **Banquet**:  March 5, 2018 (18:30-20:30)  Fee  ¥4,500 (¥2,000 for Students)
  * **Symposium**:  March 6, 2018 (9:30-18:00)
