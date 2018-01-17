@@ -44,6 +44,7 @@ layout: default
 
 18:30~20:30 　Banquet
 
+***
 
 **Tuesday, March 6**
 
@@ -77,6 +78,7 @@ layout: default
 ***Session Chair : Frederique Lisacek***
 
 16:10~16:50 　Genji Kurisu, Osaka Univ.　　Ligand representation and validation in the Protein Data Bank
+
 16:50~17:30 　Susumu Goto, DBCLS　　
 
 ***
