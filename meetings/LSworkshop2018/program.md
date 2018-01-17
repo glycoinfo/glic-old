@@ -5,7 +5,7 @@ layout: default
 
 **Monday, March 5**	
 
- 9:50~10:00 Opening remarks(Kiyoko F. Aoki-Kinoshita, Soka Univ.)
+ 9:50~10:00　 Opening remarks　 (Kiyoko F. Aoki-Kinoshita, Soka Univ.)
  
 *** 
 ***Session Chair : Shoko Nishihara***
