@@ -42,7 +42,7 @@ layout: default
 15:40~16:20 　Philip Toukach (Russian Academy of SciencesAutomated)  
 *NMR-based structure prediction*
 
-16:20~17:00 　Frederique Lisacek (SIB)  
+16:20~17:00 　Frederique Lisacek (Swiss Institute of Bioinformatics)  
 *What's new on glycomics@ExPAsy*
 
 17:00~17:40 　Sriram Neelamegham (State Univ. of New York)  
