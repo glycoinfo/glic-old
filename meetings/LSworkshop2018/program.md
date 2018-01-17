@@ -27,18 +27,22 @@ layout: default
 
 14:00~14:40　 Masanori Arita, NIG
 
-14:40~15:20 　Kazuhiro Aoki, Univ. of Georgia　　Strategies and tools for comprehensive glycomics
+14:40~15:20 　Kazuhiro Aoki, Univ. of Georgia  
+Strategies and tools for comprehensive glycomics
 
 15:20~15:40 　Coffee Break
 
 ***
 ***Session Chair : Rene Ranzinger***
 
-15:40~16:20 　Philip Toukach, Russian Academy of SciencesAutomated　　NMR-based structure prediction
+15:40~16:20 　Philip Toukach, Russian Academy of SciencesAutomated  
+NMR-based structure prediction
 
-16:20~17:00 　Frederique Lisacek, SIB　　What's new on glycomics@ExPAsy
+16:20~17:00 　Frederique Lisacek, SIB  
+What's new on glycomics@ExPAsy
 
-17:00~17:40 　Sriram Neelamegham, State Univ. of New York　　Glycoinformatics tools to analyze and curate large scale experimental datasets
+17:00~17:40 　Sriram Neelamegham, State Univ. of New York  
+Glycoinformatics tools to analyze and curate large scale experimental datasets
 							
 17:40~18:30 　Free time
 
@@ -50,7 +54,8 @@ layout: default
 
 ***Session Chair : Kiyoko F. Aoki-Kinoshita***
 
-10:00~10:40 　Nathan Edwards, Georgetown Univ.　　GNOME: A Glycan structure naming and subsumption ontology
+10:00~10:40 　Nathan Edwards, Georgetown Univ.  
+GNOME: A Glycan structure naming and subsumption ontology
 
 10:40~11:20 　Rene Ranzinger, Univ. of Georgia
 
@@ -68,18 +73,21 @@ layout: default
 ***
 ***Session Chair : Nicolle Packer***
 
-14:30~15:10 　Yasushi Ishihama, Kyoto Univ.　　Proteomic data integration and sharing by jPOST repository/database
+14:30~15:10 　Yasushi Ishihama, Kyoto Univ.  
+Proteomic data integration and sharing by jPOST repository/database
 
-15:10~15:50 　Akiyasu C. Yoshizawa, Kyoto Univ.　　Posting more precisive pictures of proteomes
+15:10~15:50 　Akiyasu C. Yoshizawa, Kyoto Univ.  
+Posting more precisive pictures of proteomes
 
 15:50~16:10 　Coffee Break  
 
 ***
 ***Session Chair : Frederique Lisacek***
 
-16:10~16:50 　Genji Kurisu, Osaka Univ.　　Ligand representation and validation in the Protein Data Bank
+16:10~16:50 　Genji Kurisu, Osaka Univ.  
+Ligand representation and validation in the Protein Data Bank
 
 16:50~17:30 　Susumu Goto, DBCLS　　
 
 ***
-17:30~18:00 Discussion			
+17:30~18:00 　Discussion			
