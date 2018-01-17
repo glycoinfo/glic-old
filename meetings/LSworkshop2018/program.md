@@ -26,7 +26,7 @@ layout: default
 12:40~14:00　 Lunch break				
 
 ***
-***Session Chair : Issaku Yamada (The Noguchi Insutitute)***
+***Session Chair : Issaku Yamada (The Noguchi Institute)***
 
 14:00~14:40　 Masanori Arita (NIG)  
 *Title TBA*
@@ -37,7 +37,7 @@ layout: default
 15:20~15:40 　Coffee Break
 
 ***
-***Session Chair : Rene Ranzinger***
+***Session Chair : Rene Ranzinger(CCRC)***
 
 15:40~16:20 　Philip Toukach (Russian Academy of SciencesAutomated)  
 *NMR-based structure prediction*
@@ -67,7 +67,7 @@ layout: default
 11:20~11:40 　Coffee Break
 
 ***
-***Session Chair : Kiyohiko Angata***
+***Session Chair : Kiyohiko Angata(AIST)***
 
 11:40~12:20 　Matthew Campbell (Griffith Univ.)  
 *Title TBA*
@@ -78,7 +78,7 @@ layout: default
 13:00~14:30 　Lunch break
 
 ***
-***Session Chair : Nicolle Packer***
+***Session Chair : Nicolle Packer(Macquarie and Griffith Universities, Australia)***
 
 14:30~15:10 　Yasushi Ishihama (Kyoto Univ.)  
 *Proteomic data integration and sharing by jPOST repository/database*
@@ -89,7 +89,7 @@ layout: default
 15:50~16:10 　Coffee Break  
 
 ***
-***Session Chair : Frederique Lisacek***
+***Session Chair : Frederique Lisacek(Swiss Institute of Bioinformatics)***
 
 16:10~16:50 　Genji Kurisu (Osaka Univ.)  
 *Ligand representation and validation in the Protein Data Bank*
