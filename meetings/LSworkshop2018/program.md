@@ -19,7 +19,7 @@ layout: default
 11:20~11:40　 Coffee Break 
 
 11:40~12:20　 Bernard Henrissat (Aix-Marseille Univ.)  
-*Title TBA*
+*The CAZy database, a tool for enzyme discovery*
 
 12:20~12:40　 Group photo
 
@@ -95,7 +95,7 @@ layout: default
 *Ligand representation and validation in the Protein Data Bank*
 
 16:50~17:30 　Susumu Goto (DBCLS)  
-*Title TBA*
+*Life Science Database Integration Using Linked Data*
 
 ***
 17:30~18:00 　Discussion			
