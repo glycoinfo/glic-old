@@ -20,7 +20,9 @@ March 5(Man) - March 9(Fri), 2018
 
 
 ***
-**<a href="https://www.sunplaza.jp/en/about/#access" target="_blank">Access</a>**
+**Access**
+
+* <a href="https://www.sunplaza.jp/en/about/#access" target="_blank">From Narita/Haneda airport to the workshop site</a>
 * North exit of Nakano Station (JC06 or JB07/T01) on the JR Chuo/Sobu Line and Tokyo Metro Tozai Line
 
 ***    
