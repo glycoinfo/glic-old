@@ -100,9 +100,4 @@ layout: default
 
 15:20~16:30 　Coffee Break & Discussion
 
-***
-***Session Chair : Frederique Lisacek (Swiss Institute of Bioinformatics)***
-
-
-***
-17:30~18:00 　Discussion			
+		
