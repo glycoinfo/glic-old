@@ -24,7 +24,7 @@ layout: default
 11:40~12:20　 Masanori Arita (NIG)    
 *Title TBA*
 
-12:20~13:00　 Kazuhiro Aoki (Univ. of Georgia)  		
+12:20~13:00　 Kazuhiro Aoki (Univ. of Georgia)  
 *Strategies and tools for comprehensive glycomics*
 
 13:00~14:30　 Lunch Break
