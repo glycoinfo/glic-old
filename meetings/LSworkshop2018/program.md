@@ -18,84 +18,91 @@ layout: default
 
 11:20~11:40　 Coffee Break 
 
-11:40~12:20　 Bernard Henrissat (Aix-Marseille Univ.)  
-*The CAZy database, a tool for enzyme discovery*
-
-12:20~12:40　 Group photo
-
-12:40~14:00　 Lunch break				
-
 ***
 ***Session Chair : Issaku Yamada (The Noguchi Institute)***
 
-14:00~14:40　 Masanori Arita (NIG)  
+11:40~12:20　 Masanori Arita (NIG)    
 *Title TBA*
 
-14:40~15:20 　Kazuhiro Aoki (Univ. of Georgia)  
+12:20~13:00　 Kazuhiro Aoki (Univ. of Georgia)  		
 *Strategies and tools for comprehensive glycomics*
 
-15:20~15:40 　Coffee Break
+13:00~14:30　 Lunch Break
+
+***
+***Session Chair : Kiyoko F. Aoki-Kinoshita (Soka Univ.)***
+
+14:30~15:10　 Philip Toukach (Russian Academy of SciencesAutomated)    
+*NMR-based structure prediction*
+
+15:10~15:50 　Nathan Edwards (Georgetown Univ.)    
+*GNOME: A Glycan structure naming and subsumption ontology*
+
+15:50~16:30 　Rene Ranzinger (Univ. of Georgia)  
+*Title TBA*
+
+16:30~16:50　 Coffee Break 
 
 ***
 ***Session Chair : Rene Ranzinger (CCRC)***
 
-15:40~16:20 　Philip Toukach (Russian Academy of SciencesAutomated)  
-*NMR-based structure prediction*
+16:50~17:30 　 Bernard Henrissat (Aix-Marseille Univ.)    
+*The CAZy database, a tool for enzyme discovery*
 
-16:20~17:00 　Frederique Lisacek (Swiss Institute of Bioinformatics)  
+17:30~18:10 　Frederique Lisacek (Swiss Institute of Bioinformatics)  
 *What's new on glycomics@ExPAsy*
-
-17:00~17:40 　Sriram Neelamegham (State Univ. of New York)  
-*Glycoinformatics tools to analyze and curate large scale experimental datasets*
 							
-17:40~18:30 　Free time
+18:10~18:30 　Group Photo
 
-18:30~20:30 　Banquet
+18:30~19:00 　Free Time
+
+19:00~21:00 　Banquet
 
 ***
 
 **Tuesday, March 6**
 
-***Session Chair : Kiyoko F. Aoki-Kinoshita (Soka Univ.)***
 
-10:00~10:40 　Nathan Edwards (Georgetown Univ.)  
-*GNOME: A Glycan structure naming and subsumption ontology*
+ 9:00~9:10　 Coffee Break
 
-10:40~11:20 　Rene Ranzinger (Univ. of Georgia)  
-*Title TBA*
-
-11:20~11:40 　Coffee Break
-
-***
 ***Session Chair : Kiyohiko Angata (AIST)***
 
-11:40~12:20 　Matthew Campbell (Griffith Univ.)  
+ 9:10~ 9:50 　Sriram Neelamegham (State Univ. of New York)  
+*Glycoinformatics tools to analyze and curate large scale experimental datasets*
+
+ 9:50~10:30 　Matthew Campbell (Griffith Univ.)  
 *Title TBA*
 
-12:20~13:00 　Leyla Garcia (EBI)  
-*Title TBA*
-
-13:00~14:30 　Lunch break
-
-***
-***Session Chair : Nicolle Packer (Macquarie and Griffith Universities, Australia)***
-
-14:30~15:10 　Yasushi Ishihama (Kyoto Univ.)  
-*Proteomic data integration and sharing by jPOST repository/database*
-
-15:10~15:50 　Akiyasu C. Yoshizawa (Kyoto Univ.)  
-*Posting more precisive pictures of proteomes*
-
-15:50~16:10 　Coffee Break  
+ 10:30~10:50　 Coffee Break
 
 ***
 ***Session Chair : Frederique Lisacek (Swiss Institute of Bioinformatics)***
 
-16:10~16:50 　Genji Kurisu (Osaka Univ.)  
+10:50~11:30 　Leyla Garcia (EBI)  
+*Title TBA*
+
+11:30~12:10 　Genji Kurisu (Osaka Univ.)  
 *Ligand representation and validation in the Protein Data Bank*
 
-16:50~17:30 　Susumu Goto (DBCLS)  
+12:10~12:50 　Susumu Goto (DBCLS)  
 *Life Science Database Integration Using Linked Data*
+
+12:50~14:00 　Lunch break
+
+***
+***Session Chair : Nicolle Packer (Macquarie and Griffith Universities, Australia)*** 
+
+14:00~14:40 　Yasushi Ishihama (Kyoto Univ.)  
+*Proteomic data integration and sharing by jPOST repository/database*
+
+14:40~15:20 　Akiyasu C. Yoshizawa (Kyoto Univ.)  
+*Posting more precisive pictures of proteomes*
+
+15:20~16:30 　Coffee Break & Discussion
+
+***
+***Session Chair : Frederique Lisacek (Swiss Institute of Bioinformatics)***
+
 
 ***
 17:30~18:00 　Discussion			
