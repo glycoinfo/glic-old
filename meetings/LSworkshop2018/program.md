@@ -39,7 +39,7 @@ layout: default
 *GNOME: A Glycan structure naming and subsumption ontology*
 
 15:50~16:30 　Rene Ranzinger (Univ. of Georgia)  
-*Title TBA*
+*Tools and data resources for glycomics*
 
 16:30~16:50　 Coffee Break 
 
