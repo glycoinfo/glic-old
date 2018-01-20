@@ -44,7 +44,7 @@ layout: default
 16:30~16:50　 Coffee Break 
 
 ***
-***Session Chair : Rene Ranzinger (CCRC)***
+***Session Chair : René Ranzinger (CCRC)***
 
 16:50~17:30 　 Bernard Henrissat (Aix-Marseille Univ.)    
 *The CAZy database, a tool for enzyme discovery*
