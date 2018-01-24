@@ -46,7 +46,7 @@ March 5(Man) - March 9(Fri), 2018
 *  Genji Kurisu (Osaka Univ.)
 *  Frederique Lisacek (SIB)
 *  Sriram Neelamegham (State Univ. of New York)
-*  Rene Ranzinger (Univ. of Georgia)
+*  René Ranzinger (Univ. of Georgia)
 *  Philip Toukach (Russian Academy of Sciences)
 *  Akiyasu C. Yoshizawa (Kyoto Univ.)
 
