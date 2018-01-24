@@ -66,10 +66,14 @@ March 5(Man) - March 9(Fri), 2018
  * **Hackathon**:  March 8, 2018 (9:00-21:00)
  * **Hackathon**:  March 9, 2018 (9:00-17:00) ... 13:00 Wrap-up ?
  
- 
+**Workshop Topics**:
+ * We have created a document to share the discussion topics for this workshop, at the following link:
+    * <a href="https://docs.google.com/document/d/1tSzKGZi7un2UTMmdLJ6F4WkKZ6FJYFtaXAfZRtDXTUQ/edit" target="_blank">link to document</a>
+
 **Workshop flyer**:
  * <a href="InternationalLifeScienceIntegrationWorkshop2018.pdf" target="_blank">Flyer PDF</a>
  
+***
 **Other Information**:
  * <a href="http://www.gotokyo.org/en/index.html" target="_blank">Travel Guide</a>
  
