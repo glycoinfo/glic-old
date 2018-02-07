@@ -3,7 +3,7 @@ title: International Life Science Integration Workshop
 layout: default
 ---
 
-**Monday, March 5**	
+# Monday, March 5, 2018
 
  9:50~10:00　 Opening remarks　 Kiyoko F. Aoki-Kinoshita (Soka Univ.)
  
@@ -60,7 +60,7 @@ layout: default
 
 ***
 
-**Tuesday, March 6**
+# Tuesday, March 6, 2018
 
 
  9:00~9:10　 Coffee Break
@@ -71,7 +71,7 @@ layout: default
 *Glycoinformatics tools to analyze and curate large scale experimental datasets*
 
  9:50~10:30 　Matthew Campbell (Griffith Univ.)  
-*Title TBA*
+*UniCarbKB and GlycoStore: Expanding Data Coverage*
 
  10:30~10:50　 Coffee Break
 
