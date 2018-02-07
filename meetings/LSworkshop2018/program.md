@@ -3,7 +3,7 @@ title: International Life Science Integration Workshop
 layout: default
 ---
 
-# Monday, March 5, 2018
+## Monday, March 5, 2018
 
  9:50~10:00　 Opening remarks　 Kiyoko F. Aoki-Kinoshita (Soka Univ.)
  
@@ -60,7 +60,7 @@ layout: default
 
 ***
 
-# Tuesday, March 6, 2018
+## Tuesday, March 6, 2018
 
 
  9:00~9:10　 Coffee Break
