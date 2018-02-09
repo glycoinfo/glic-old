@@ -4,7 +4,7 @@ layout: default
 ---
   
 * **Date**: 
-March 5(Man) - March 9(Fri), 2018
+March 5(Mon) - March 9(Fri), 2018
 
   * March 5-6, 2018: Symposium  
   * March 7-9, 2018: Hackathon (Hands-on)  
