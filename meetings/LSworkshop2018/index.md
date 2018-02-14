@@ -69,6 +69,7 @@ March 5(Mon) - March 9(Fri), 2018
 **Workshop Topics**:
  * We have created a document to share the discussion topics for this workshop, at the following link:
     * <a href="https://docs.google.com/document/d/1tSzKGZi7un2UTMmdLJ6F4WkKZ6FJYFtaXAfZRtDXTUQ/edit" target="_blank">link to document</a>
+    <a href="https://github.com/glycoinfo/glic/wiki/Workshop2018" target="_blank">Hackathon wiki</a>
 
 **Workshop flyer**:
  * <a href="InternationalLifeScienceIntegrationWorkshop2018.pdf" target="_blank">Flyer PDF</a>
