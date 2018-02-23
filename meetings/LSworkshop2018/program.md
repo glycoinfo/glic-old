@@ -13,10 +13,10 @@ layout: default
 ***Session Chair : Shoko Nishihara (Soka Univ.)***
 
 10:00~10:40　 Kiyoko F. Aoki-Kinoshita (Soka Univ.)  
-*Title TBA*
+*Title TBA - Glycomics Database?*
 
 10:40~11:20　 Hisashi Narimatsu (AIST)  
-*Title TBA*
+*Title TBA - ACGG-DB?*
 
 11:20~11:40　 Coffee Break 
 
@@ -81,7 +81,7 @@ layout: default
 ***Session Chair : Frederique Lisacek (Swiss Institute of Bioinformatics)***
 
 10:50~11:30 　Leyla Garcia (EBI)  
-*Title TBA*
+*Title TBA - UniProt?*
 
 11:30~12:10 　Genji Kurisu (Osaka Univ.)  
 *Ligand representation and validation in the Protein Data Bank*
