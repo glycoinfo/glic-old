@@ -100,7 +100,9 @@ layout: default
 14:40~15:20 　Akiyasu C. Yoshizawa (Kyoto Univ.)  
 *Posting more precisive pictures of proteomes*
 
-15:20~16:30 　Coffee Break & Discussion
+15:20~15:40 　Coffee Break 
+
+15:40~16:30   Discussion
 
 Closing remarks 　Toshisuke Kawasaki (Ritsumeikan Univ.)
 
