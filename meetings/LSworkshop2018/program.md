@@ -34,8 +34,8 @@ layout: default
 ***
 ***Session Chair : Kiyoko F. Aoki-Kinoshita (Soka Univ.)***
 
-14:30~15:10　 Philip Toukach (Russian Academy of SciencesAutomated)    
-*NMR-based structure prediction*
+14:30~15:10　 Philip Toukach (Russian Academy of Sciences)    
+*Automated NMR-based structure prediction*
 
 15:10~15:50 　Nathan Edwards (Georgetown Univ.)    
 *GNOME: A Glycan structure naming and subsumption ontology*
