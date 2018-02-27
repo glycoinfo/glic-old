@@ -24,7 +24,7 @@ layout: default
 ***Session Chair : Issaku Yamada (The Noguchi Institute)***
 
 11:40~12:20　 Masanori Arita (NIG)    
-*Title TBA - LipidBank?*
+*Distribution of Glycosphingolipids Revealed by LipidBank*
 
 12:20~13:00　 Kazuhiro Aoki (Univ. of Georgia)  
 *Strategies and tools for comprehensive glycomics*
