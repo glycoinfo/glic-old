@@ -102,7 +102,7 @@ layout: default
 
 15:20~15:40 　Coffee Break 
 
-15:40~16:30   Discussion
+15:40~16:30 　Discussion 
 
 Closing remarks 　Toshisuke Kawasaki (Ritsumeikan Univ.)
 
