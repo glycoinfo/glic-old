@@ -16,7 +16,7 @@ layout: default
 *Integration of Life Science Databases through Glycomics*
 
 10:40~11:20　 Hisashi Narimatsu (AIST)  
-*Title TBA - ACGG-DB?*
+*ACGG-DB as semantic web tools for Glycoscience*
 
 11:20~11:40　 Coffee Break 
 
