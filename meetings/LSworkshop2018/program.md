@@ -13,7 +13,7 @@ layout: default
 ***Session Chair : Shoko Nishihara (Soka Univ.)***
 
 10:00~10:40　 Kiyoko F. Aoki-Kinoshita (Soka Univ.)  
-*Title TBA - Glycomics Database?*
+*Integration of Life Science Databases through Glycomics*
 
 10:40~11:20　 Hisashi Narimatsu (AIST)  
 *Title TBA - ACGG-DB?*
