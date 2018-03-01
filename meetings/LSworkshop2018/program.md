@@ -81,7 +81,7 @@ layout: default
 ***Session Chair : Frederique Lisacek (Swiss Institute of Bioinformatics)***
 
 10:50~11:30 　Leyla Garcia (EBI)  
-*Title TBA - UniProt?*
+*Glycomics, proteins and genes*
 
 11:30~12:10 　Genji Kurisu (Osaka Univ.)  
 *Ligand representation and validation in the Protein Data Bank*
