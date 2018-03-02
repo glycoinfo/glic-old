@@ -37,11 +37,11 @@ layout: default
 14:30~15:10　 Philip Toukach (Russian Academy of Sciences)    
 *Automated NMR-based structure prediction*
 
-15:10~15:50 　Nathan Edwards (Georgetown Univ.)    
-*GNOME: A Glycan structure naming and subsumption ontology*
-
-15:50~16:30 　René Ranzinger (Univ. of Georgia)  
+15:10~15:50 　René Ranzinger (Univ. of Georgia)  
 *Tools and data resources for glycomics*
+
+15:50~16:30 　Nathan Edwards (Georgetown Univ.)    
+*GNOME: A Glycan structure naming and subsumption ontology*
 
 16:30~16:50　 Coffee Break 
 
