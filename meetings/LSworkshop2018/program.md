@@ -84,7 +84,7 @@ layout: default
 *Glycomics, proteins and genes*
 
 11:30~12:10 　Genji Kurisu (Osaka Univ.)  
-*Ligand representation and validation in the Protein Data Bank*
+[*Ligand representation and validation in the Protein Data Bank*](http://glic.glycoinfo.org/meetings/LSworkshop2018/Genji_Kurisu_HP.pdf){:target="_blank"}
 
 12:10~12:50 　Susumu Goto (DBCLS)  
 [*Life Science Database Integration Using Linked Data*](presentation_goto.pdf){:target="_blank"}
