@@ -35,7 +35,7 @@ layout: default
 ***Session Chair : Kiyoko F. Aoki-Kinoshita (Soka Univ.)***
 
 14:30~15:10　 Philip Toukach (Russian Academy of Sciences)    
-*Automated NMR-based structure prediction*
+[*Automated NMR-based structure prediction*](http://toukach.ru/files/glyconmr_sim.pdf){:target="_blank"}
 
 15:10~15:50 　René Ranzinger (Univ. of Georgia)  
 *Tools and data resources for glycomics*
