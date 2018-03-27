@@ -95,7 +95,7 @@ layout: default
 ***Session Chair : Nicolle Packer (Macquarie and Griffith Universities, Australia)*** 
 
 14:00~14:40 　Yasushi Ishihama (Kyoto Univ.)  
-*Proteomic data integration and sharing by jPOST repository/database*
+[*Proteomic data integration and sharing by jPOST repository/database*](http://glic.glycoinfo.org/meetings/LSworkshop2018/GlycoWorkshop_Ishihama.pdf){:target="_blank"}
 
 14:40~15:20 　Akiyasu C. Yoshizawa (Kyoto Univ.)  
 *Posting more precisive pictures of proteomes*
