@@ -70,7 +70,7 @@ layout: default
 ***Session Chair : Kiyohiko Angata (AIST)***
 
  9:10~ 9:50 　Sriram Neelamegham (State Univ. of New York)  
-*Glycoinformatics tools to analyze and curate large scale experimental datasets*
+[*Glycoinformatics tools to analyze and curate large scale experimental datasets*](http://glic.glycoinfo.org/meetings/LSworkshop2018/Sriram.pdf){:target="_blank"}
 
  9:50~10:30 　Matthew Campbell (Griffith Univ.)  
 *UniCarbKB and GlycoStore: Expanding Data Coverage*
