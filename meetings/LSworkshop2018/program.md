@@ -27,7 +27,7 @@ layout: default
 *Distribution of Glycosphingolipids Revealed by LipidBank*
 
 12:20~13:00　 Kazuhiro Aoki (Univ. of Georgia)  
-*Strategies and tools for comprehensive glycomics*
+[*Strategies and tools for comprehensive glycomics*](http://glic.glycoinfo.org/meetings/LSworkshop2018/KazuhiroAoki.pdf){:target="_blank"}
 
 13:00~14:30　 Lunch Break
 
