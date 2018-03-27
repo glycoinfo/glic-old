@@ -13,7 +13,7 @@ layout: default
 ***Session Chair : Shoko Nishihara (Soka Univ.)***
 
 10:00~10:40　 Kiyoko F. Aoki-Kinoshita (Soka Univ.)  
-*Integration of Life Science Databases through Glycomics*
+[*Integration of Life Science Databases through Glycomics*](https://prezi.com/view/0tvfpFD25JUyCLUz8wEW/){:target="_blank"}
 
 10:40~11:20　 Hisashi Narimatsu (AIST)  
 *ACGG-DB as semantic web tools for Glycoscience*
