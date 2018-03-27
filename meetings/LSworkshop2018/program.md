@@ -49,7 +49,7 @@ layout: default
 ***Session Chair : René Ranzinger (CCRC)***
 
 16:50~17:30 　 Bernard Henrissat (Aix-Marseille Univ.)    
-*The CAZy database, a tool for enzyme discovery*
+[*The CAZy database, a tool for enzyme discovery*](http://glic.glycoinfo.org/meetings/LSworkshop2018/Bernard.pdf){:target="_blank"}
 
 17:30~18:10 　Frederique Lisacek (Swiss Institute of Bioinformatics)  
 *What's new on glycomics@ExPAsy*
