@@ -41,7 +41,7 @@ layout: default
 *Tools and data resources for glycomics*
 
 15:50~16:30 　Nathan Edwards (Georgetown Univ.)    
-*GNOME: A Glycan structure naming and subsumption ontology*
+[*GNOME: A Glycan structure naming and subsumption ontology*](http://glic.glycoinfo.org/meetings/LSworkshop2018/Edwards%20-%20GNOme.pdf){:target="_blank"}
 
 16:30~16:50　 Coffee Break 
 
