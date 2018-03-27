@@ -87,7 +87,7 @@ layout: default
 *Ligand representation and validation in the Protein Data Bank*
 
 12:10~12:50 　Susumu Goto (DBCLS)  
-*Life Science Database Integration Using Linked Data*
+[*Life Science Database Integration Using Linked Data*](presentation_goto.pdf){:target="_blank"}
 
 12:50~14:00 　Lunch break
 
