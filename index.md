@@ -9,29 +9,32 @@ A variety of databases in the glycoinformatics field has been developed in diffe
 
 The purpose of Glycoinformatics Consortium(GLIC) is to provide and maintain a centralized source of software repository for the glycoscientists. In addition, it is aimed to be provided as a communication point for glycoscientists and glycoinformaticians.
 
-
-
 ## Meetings  
+
 List of past and upcoming [meetings](meetings).
 
 ## Members List  
+
 Helpful page to know about GLIC [members](member).
 
-<br>
+## Database Resources
 
-## Database Resources  
 List of [database resources](database) with detailed information available specifically for glycoinformaticians.
 
-## Software Tools  
+## Software Tools
+
 List of [software tools](software) with detailed information available specifically for glycoinformaticians.
 
-<br>
+## Wish List
 
-## Wish List  
 Fill out a [Form](wishList) for specific tools you wish to be developed.  
 The list of tools that are being developed is located [here](wishList/toolsList).
 
-<br>
-
 ## Survey
+
 List of [survey forms](survey) that we would like members to fill out to help improve GLIC and other resources.
+
+## Supported by
+
+[The Noguchi Institute](http://www.noguchi.or.jp/index.php?lang=en)
+
