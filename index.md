@@ -1,9 +1,9 @@
 ---
-title: Glycoinformatics Consortium
+title: Glycoinformatics Consortium (GLIC)
 layout: top
 ---
 
-## Welcome to the Glycoinformatics Consortium page!
+# Welcome to the Glycoinformatics Consortium page!
 
 A variety of databases in the glycoinformatics field has been developed in different countries as a result of glycoscience research projects. However, the usage of these developed databases has grown difficult because of the closure of databases that correspond to the ending of projects. The closure of databases has become an obstacle in glycoscience research. The Glycoinformatics Consortium is found to solve these obstacles and glycoinformaticians to develop databases and tools with a coalition. 
 
