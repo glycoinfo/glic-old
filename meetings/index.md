@@ -3,9 +3,11 @@ title: Glycoinformatics Consortium Meetings
 layout: default
 ---
 ## Upcoming meetings
- * GLIC endpoint online meeting
+
+
 
 ## Past meetings
+ * April 26, 2018: GLIC endpoint online meeting
  * March 5-9, 2018: <a href="http://glic.glycoinfo.org/meetings/LSworkshop2018/">International Life Science Integration Workshop</a> @Tokyo (<a href="https://www.sunplaza.jp/en/">Nakano Sunplaza</a>)
  * October 17~22, 2016: GLIC Distributed GlycoHackathon
   * August 26, 2016: Glycohackathon after <a href="http://warrenworkshop2016.glycoinfo.org">Warren Workshop</a>
