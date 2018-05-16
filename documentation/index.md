@@ -1,4 +1,4 @@
-List of Documentation
+# Carbohydrate Sequence
 
 ## GlycoCT
 
@@ -12,3 +12,9 @@ List of Documentation
 ## IUPAC-IUBMB Nomenclature of Carbohydrates
 
 * [IUPAC](http://www.sbcs.qmul.ac.uk/iupac/2carb/)
+
+# Symbol
+
+* [Symbol Nomenclature for Glycans (SNFG)](https://www.ncbi.nlm.nih.gov/glycans/snfg.html)
+
+* [Consortium for Functional Glycomics (CFG)](http://www.functionalglycomics.org/static/consortium/Nomenclature.shtml)
