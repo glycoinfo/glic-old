@@ -25,6 +25,10 @@ List of [database resources](database) with detailed information available speci
 
 List of [software tools](software) with detailed information available specifically for glycoinformaticians.
 
+## List of Documentation
+
+List of [documentation](https://glic.glycoinfo.org/documentation/) of carbohydrate sequence and symbol
+
 ## Wish List
 
 Fill out a [Form](wishList) for specific tools you wish to be developed.  
