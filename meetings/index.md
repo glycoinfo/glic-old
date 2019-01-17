@@ -3,7 +3,7 @@ title: Glycoinformatics Consortium Meetings
 layout: default
 ---
 ## Upcoming meetings
- * Feb 19-22, 2019: GLIC&糖鎖インフォマティクス若手の会ハッカソン2019　(GlucoHackathon@Tukuba, JAPAN)
+ * Feb 19-22, 2019: <a href="http://rings.t.soka.ac.jp/wakate/glycohackathon2019.html"/>GLIC&糖鎖インフォマティクス若手の会ハッカソン2019</a>　(GlucoHackathon@Tukuba, JAPAN)
 
 ## Past meetings
  * April 26, 2018: GLIC endpoint online meeting
