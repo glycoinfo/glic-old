@@ -1,7 +1,7 @@
----
-title: [GLIC&糖鎖インフォマティクス若手の会&GlyCosmos ハッカソン 2019] (http://rings.t.soka.ac.jp/wakate/glycohackathon2019.html){:target="_blank"}
-layout: default
----
+
+## GLIC&糖鎖インフォマティクス若手の会&GlyCosmos ハッカソン 2019
+
+### http://rings.t.soka.ac.jp/wakate/glycohackathon2019.html
 
 #### 場所： 産業技術総合研究所
 
