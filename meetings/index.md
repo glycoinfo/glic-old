@@ -4,10 +4,10 @@ layout: default
 ---
 ## Upcoming meetings
 
-#### <a href="http://glic.glycoinfo.org/meetings/GLIC_Online_meeting_2019_04/">GLIC_Online_meeting_2019_04</a>
- * Apr ??, 2019: Online
-
 ## Past meetings
+#### <a href="http://glic.glycoinfo.org/meetings/GLIC_Online_meeting_2019_04/">GLIC_Online_meeting_2019_04</a>
+ * Apr 22, 2019: Online (<a href="https://docs.google.com/document/d/1WNV7Y2-8YeDGfwczgIkgusoSbkOCxDZfyJ61ZP5CHo0/edit">Notes</a>)
+
 #### <a href="http://glic.glycoinfo.org/meetings/GlycoHackathon2019-02.md">GLIC&糖鎖インフォマティクス若手の会&GlyCosmos ハッカソン2019</a>　
 * Feb 19-22, 2019: (GlycoHackathon2019-02@Tukuba, JAPAN)
 
