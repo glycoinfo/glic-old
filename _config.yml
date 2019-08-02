@@ -14,3 +14,8 @@ redcarpet:
  extensions: ['tables', 'smart', 'with_toc_data', 'superscript']
 gems: [jekyll-paginate]
 
+
+title: "Glycoinformatics Consortium "
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-slate
