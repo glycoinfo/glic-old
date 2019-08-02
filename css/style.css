@@ -237,58 +237,58 @@ h6:hover .header-link {
 
 /* from Bret Terpstra's Marked style */
 /* https://github.com/ttscoff/MarkedCustomStyles/blob/master/default_styles/swiss.css */
-/*table {
+
+col, colgroup, table, tbody, td, tfoot, th, thead, tr {
+  border-spacing: 0; }
+
+table {
   border: 1px solid rgba(0, 0, 0, 0.25);
   border-collapse: collapse;
   display: table;
   empty-cells: hide;
   margin: -1px 0 1.3125em;
   padding: 0;
-  table-layout: fixed; }*/
-	
+  table-layout: fixed; }
+
 col {
   display: table-column; }
 
 colgroup {
   display: table-column-group; }
-	
+
 tbody {
-  display: table-row-group; 
-  background: rgba(0, 0, 0, 0.05); }
+  display: table-row-group; }
 
 tfoot {
-  background: rgba(0, 0, 0, 0.15);
-  border: 1px solid rgba(0, 0, 0, 0.15);
-  border-top: 1px solid rgba(0, 0, 0, 0.2); 
   display: table-footer-group; }
 
 thead {
+  display: table-header-group; }
+
+td, th {
+  display: table-cell; }
+
+tr {
+  display: table-row; }
+
+table th, table td {
+  font-size: 1.1em;
+  line-height: 23px;
+  padding: 0 1em; }
+
+table thead {
   background: rgba(0, 0, 0, 0.15);
   border: 1px solid rgba(0, 0, 0, 0.15);
   border-bottom: 1px solid rgba(0, 0, 0, 0.2); }
 
-thead > tr {
-  padding: 0;
-  margin: 0;
-  border: 0; }
+table tbody {
+  background: rgba(0, 0, 0, 0.05); }
 
-td, tr {
-  font-size: 1.1em;
-  line-height: 23px; 
-  display: table-cell; }
+table tfoot {
+  background: rgba(0, 0, 0, 0.15);
+  border: 1px solid rgba(0, 0, 0, 0.15);
+  border-top: 1px solid rgba(0, 0, 0, 0.2); }
 
-th {
-  font-size: 0em; }
-
-th:empty {
-  font-size: 0px;
-  margin: 0;
-  padding: 0;
-  border: 0; }
-
-tr {
-  display: table-row; }
-	
   html {
       margin:0; padding:0;
   }
@@ -307,20 +307,13 @@ tr {
   a:active {color: #555;}
 
   h1,h2,h3 {
-    font-family:Gill Sans,Gill Sans MT,Calibri,sans-serif;
+    font-family:'Crete Round', serif;
     text-align:center;
     font-weight:normal;
   }
 
   h1 {
     font-size: 2em;
-    background-image:linear-gradient(10deg, #7C01AC, #06E1D9, #2804DC);
-    color:#fff;
-    text-shadow:2px 1px 1px #000;
-  }
-  
-  h2,h3{
-    text-align:left;
   }
 
   h1 a,
@@ -545,12 +538,9 @@ tr {
 
   .avatar {
     float: left;
-	  margin: 0 15px 15px 0;
-	  width: 100px;
-    border: 1px solid #808080;
-    box-shadow: 2px 2px rgba(0,0,0,0.5);
+	margin: 0 15px 15px 0;
+	width: 100px;
   }
-
   .toc-author {
     display: block;
 	float: right;
