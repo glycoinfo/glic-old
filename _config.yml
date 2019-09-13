@@ -18,4 +18,4 @@ gems: [jekyll-paginate]
 title: "Glycoinformatics Consortium "
 google_analytics: 
 show_downloads: true
-theme: jekyll-theme-slate
+theme: jekyll-theme-cayman
